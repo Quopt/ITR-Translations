@@ -76,6 +76,11 @@
  "#AdminInterface.AdminInterfaceSettingsHeader": {
   "value": "Uw voorkeuren"
  },
+ "#AdminInterfaceDataDownload.DownloadMenu": {
+  "originalValue": "Download test data",
+  "value": "Testgegevens downloaden",
+  "valueAsOriginal": "N"
+ },
  "#AdminInterfaceNewSessionEditorDiv.NewSessionMenu": {
   "originalValue": "New session",
   "value": "Nieuwe sessie",
@@ -548,9 +553,10 @@
   "valueAsOriginal": "N"
  },
  "#AdminInterfaceTestCatalogView.AdminInterfaceViewTestCatalogTestSelectHeader": {
-  "originalValue": "Available tests",
-  "value": "BeSchikbare tests",
-  "valueAsOriginal": "N"
+  "id": "#AdminInterfaceTestCatalogView.AdminInterfaceViewTestCatalogTestSelectHeader",
+  "originalValue": "Beschikbare tests",
+  "value": "Beschikbare tests",
+  "valueAsOriginal": "Y"
  },
  "#AdminInterfaceTestTemplateEditor.AdminInterfaceScreenTemplate-downloadButton": {
   "value": "<i class=\"fa fa-fw fa-download\"></i>Sjabloon definitie downloaden"
@@ -613,10 +619,16 @@
   "value": "Test definities bewerken en maken"
  },
  "#AdminInterfaceTestTemplateEditor.AdminInterfaceTestTemplateEditorMedia_AvailableCatalogCol": {
-  "value": "BeSchikbare catalogusbestanden"
+  "id": "#AdminInterfaceTestTemplateEditor.AdminInterfaceTestTemplateEditorMedia_AvailableCatalogCol",
+  "originalValue": "Beschikbare catalogusbestanden",
+  "value": "Beschikbare catalogusbestanden",
+  "valueAsOriginal": "Y"
  },
  "#AdminInterfaceTestTemplateEditor.AdminInterfaceTestTemplateEditorMedia_AvailableMediaCol": {
-  "value": "BeSchikbare mediabestanden"
+  "id": "#AdminInterfaceTestTemplateEditor.AdminInterfaceTestTemplateEditorMedia_AvailableMediaCol",
+  "originalValue": "Beschikbare mediabestanden",
+  "value": "Beschikbare mediabestanden",
+  "valueAsOriginal": "Y"
  },
  "#AdminInterfaceTestTemplateEditor.AdminInterfaceTestTemplateEditorMedia_CatFileLinkCol": {
   "value": "Bestand link"
@@ -861,6 +873,16 @@
  "#AdminInterfaceTestTemplateEditor.EditMenu": {
   "value": "Test definities bewerken"
  },
+ "#AdminInterfaceTranslationEditor.EditMenu": {
+  "originalValue": "Edit translated strings",
+  "value": "Vertaalde tekenreeksen bewerken",
+  "valueAsOriginal": "N"
+ },
+ "#AdminInterfaceTranslationEditorEditor.EditMenu": {
+  "originalValue": "Edit translated strings",
+  "value": "Vertaalde tekenreeksen bewerken",
+  "valueAsOriginal": "N"
+ },
  "#BatteryListerController.ListMenu": {
   "originalValue": "Edit test batteries",
   "value": "Test batterijen bewerken",
@@ -1035,6 +1057,21 @@
  },
  "#GrantCreditsInterfaceSessionEdit.GrantCreditsInterfaceSaveLabel": {
   "value": "Credits nu toekennen"
+ },
+ "#GroupSessionListerController.GroupSessionArchivedMenu": {
+  "originalValue": "Group sessions archive",
+  "value": "Archief groepssessies",
+  "valueAsOriginal": "N"
+ },
+ "#GroupSessionListerController.GroupSessionMenu": {
+  "originalValue": "Group sessions",
+  "value": "Groepssessies",
+  "valueAsOriginal": "N"
+ },
+ "#GroupSessionListerController.GroupSessionReadyMenu": {
+  "originalValue": "Group sessions",
+  "value": "Groepssessies",
+  "valueAsOriginal": "N"
  },
  "#ITSResetPasswordEditor.Menu": {
   "originalValue": "Reset password",
@@ -1637,9 +1674,10 @@
   "valueAsOriginal": "N"
  },
  "#SessionViewReportsInterfaceSessionEdit.SessionViewReportsSelectHeader": {
-  "originalValue": "Available reports",
-  "value": "BeSchikbare rapporten",
-  "valueAsOriginal": "N"
+  "id": "#SessionViewReportsInterfaceSessionEdit.SessionViewReportsSelectHeader",
+  "originalValue": "Beschikbare rapporten",
+  "value": "Beschikbare rapporten",
+  "valueAsOriginal": "Y"
  },
  "#SessionViewReportsInterfaceSessionEdit.SessionViewReportsSelectHeaderDropdownButton": {
   "originalValue": "\n        Select your report\n    ",
@@ -1834,6 +1872,11 @@
   "value": "Let op: de kandidaat die je hebt geselecteerd is al bekend. De sessie zal worden toegevoegd zoals gebruikelijk, zal het wachtwoord en andere gegevens van de kandidaat worden bijgewerkt. ",
   "valueAsOriginal": "N"
  },
+ "AdminInterfaceCreditManagementBodyAmount": {
+  "originalValue": "-3335",
+  "value": "-3335",
+  "valueAsOriginal": "Y"
+ },
  "AdminInterfaceEditSessionChange": {
   "originalValue": "<i class=\"fa fa-fw fa-edit\"></i><span id=\"AdminInterfaceEditSessionChangeLabel\">Change session</span>\n    ",
   "value": "<i class=\"fa fa-fw fa-edit\"></i><span id=\"AdminInterfaceEditSessionChangeLabel\">Sessie wijzigen</span>\n    ",
@@ -1844,6 +1887,16 @@
   "value": "Sessie wijzigen",
   "valueAsOriginal": "N"
  },
+ "AdminInterfaceEditSessionEditAddTestLabel": {
+  "originalValue": "Add another test",
+  "value": "Voeg nog een test toe",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceEditSessionEditArchive": {
+  "originalValue": "Archive this session",
+  "value": "Deze sessie archiveren",
+  "valueAsOriginal": "N"
+ },
  "AdminInterfaceEditSessionEditDeleteUnstarted": {
   "originalValue": "Delete test",
   "value": "Test verwijderen",
@@ -1852,6 +1905,11 @@
  "AdminInterfaceEditSessionEditEndTest": {
   "originalValue": "End test",
   "value": "Eindtest",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceEditSessionEditResendInvitationIcon": {
+  "originalValue": "Reset password and resend test invitation",
+  "value": "Wachtwoord opnieuw instellen en test uitnodiging opnieuw verzenden",
   "valueAsOriginal": "N"
  },
  "AdminInterfaceEditSessionEditResendInvitationIconNoReset": {
@@ -1867,6 +1925,11 @@
  "AdminInterfaceEditSessionEditRestartTest": {
   "originalValue": "Restart test",
   "value": "Test opnieuw starten",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceEditSessionEditStartNowIcon": {
+  "originalValue": "Reset password and start now",
+  "value": "Wachtwoord opnieuw instellen en nu starten",
   "valueAsOriginal": "N"
  },
  "AdminInterfaceEditSessionEditTestCardsTestStarted": {
@@ -1899,9 +1962,309 @@
   "value": "Test wachten om te worden gestart.",
   "valueAsOriginal": "N"
  },
+ "AdminInterfaceGroupSessionAccordionLabel": {
+  "originalValue": "Session validity",
+  "value": "Geldigheid van sessie",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionArchive": {
+  "originalValue": "Archive this session",
+  "value": "Deze sessie archiveren",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionArchive-Alllabel": {
+  "originalValue": "\n                            Archive this group session and all related person sessions\n                        ",
+  "value": "Deze groepssessie en alle sessies met gerelateerde personen archiveren",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionArchive-CloseButton": {
+  "originalValue": "Close",
+  "value": "Sluiten",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionArchive-OnlyThislabel": {
+  "originalValue": "\n                            Archive only this group sessions\n                        ",
+  "value": "Alleen deze groepssessies archiveren",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionArchive-Unstartedlabel": {
+  "originalValue": "\n                            Archive this group session and all related UNSTARTED person sessions\n                        ",
+  "value": "Deze groepssessie en alle gerelateerde niet-GESTARTE persoons sessies archiveren",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionArchive-buttonlabel": {
+  "originalValue": "Archive group sessions",
+  "value": "Groepssessies archiveren",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionArchiveLabel": {
+  "originalValue": "What do you want to archive?",
+  "value": "Wat wilt u archiveren?",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionArchiveTest": {
+  "originalValue": "\n        <i id=\"AdminInterfaceGroupSessionArchiveTestIcon\" class=\"fa fa-fw fa-archive \"></i><span id=\"AdminInterfaceGroupSessionArchive\">Archive this session</span>",
+  "value": "\n        <i id=\"AdminInterfaceGroupSessionArchiveTestIcon\" class=\"fa fa-fw fa-archive \"></i><span id=\"AdminInterfaceGroupSessionArchive\">Deze sessie archiveren</span>",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionCandidateFor": {
+  "originalValue": "Enter the e-mail addresses or logins of the candidates in this group",
+  "value": "Voer de e-mailadressen of aanmeldingen van de kandidaten in deze groep in",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionCandidateForLabel": {
+  "originalValue": "Candidate\n                e-mail addresses or logins",
+  "value": "Kandidaat\n                e-mailadressen of aanmeldingen",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionDelete": {
+  "originalValue": "Delete this session",
+  "value": "Deze sessie verwijderen",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionDelete-Alllabel": {
+  "originalValue": "\n                            Delete this group session and all related person sessions\n                        ",
+  "value": "Deze groepssessie en alle sessies met gerelateerde personen verwijderen",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionDelete-CloseButton": {
+  "originalValue": "Close",
+  "value": "Sluiten",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionDelete-OnlyThislabel": {
+  "originalValue": "\n                            Delete only this group sessions\n                        ",
+  "value": "Alleen deze groepssessies verwijderen",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionDelete-Unstartedlabel": {
+  "originalValue": "\n                            Delete this group session and all related UNSTARTED person sessions\n                        ",
+  "value": "Deze groepssessie en alle gerelateerde niet-GESTARTE persoons sessies verwijderen",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionDelete-buttonlabel": {
+  "originalValue": "Delete group sessions",
+  "value": "Groepssessies verwijderen",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionDeleteLabel": {
+  "originalValue": "What do you want to delete?",
+  "value": "Wat wilt u verwijderen?",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionDeleteTest": {
+  "originalValue": "\n        <i id=\"AdminInterfaceGroupSessionDeleteTestIcon\" class=\"fa fa-fw fa-trash\"></i><span id=\"AdminInterfaceGroupSessionDelete\">Delete this session</span>",
+  "value": "\n        <i id=\"AdminInterfaceGroupSessionDeleteTestIcon\" class=\"fa fa-fw fa-trash\"></i><span id=\"AdminInterfaceGroupSessionDelete\">Deze sessie verwijderen</span>",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionDescriptionFor": {
+  "originalValue": "Enter a session description",
+  "value": "Voer een sessie beschrijving in",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionDescriptionLabel": {
+  "originalValue": "Group session\n                description",
+  "value": "Groepssessie\n                Beschrijving",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionDescriptionTT": {
+  "originalValue": "Please enter a description for this group session.",
+  "value": "Geef een beschrijving op voor deze groepssessie.",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionEndDateEnforcedLabel": {
+  "originalValue": "Stop the session when still in progress at this date and time",
+  "value": "De sessie stoppen wanneer deze nog in uitvoering is op deze datum en tijd",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionEndDateLabel": {
+  "originalValue": "Session cannot start <b>after</b> this date &amp; time",
+  "value": "Sessie kan niet starten <b>na</b> deze datum &amp; tijd",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionHeader": {
+  "originalValue": "Create or change group session",
+  "value": "Groepssessie maken of wijzigen",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionInviteButton": {
+  "originalValue": "\n        <i id=\"AdminInterfaceGroupSessionInviteButton-saveIcon\" class=\"fa fa-fw fa-mail-bulk\"></i> <span id=\"AdminInterfaceGroupSessionInviteButton-Label\">Send e-mail invitations</span>\n    ",
+  "value": "\n        <i id=\"AdminInterfaceGroupSessionInviteButton-saveIcon\" class=\"fa fa-fw fa-mail-bulk\"></i><span id=\"AdminInterfaceGroupSessionInviteButton-Label\">Uitnodigingen per E-mail verzenden</span>\n    ",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionInviteButton-Label": {
+  "originalValue": "Send e-mail invitations",
+  "value": "Uitnodigingen per e-mail verzenden",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionLoginOverview-CloseButton": {
+  "originalValue": "Close",
+  "value": "Sluiten",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionLoginOverviewLabel": {
+  "originalValue": "User id and password overview for this group session",
+  "value": "Gebruikers-id en wachtwoord overzicht voor deze groepssessie",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionMailMeLabel": {
+  "originalValue": "Mail me when this session completes at",
+  "value": "Mail me wanneer deze sessie is voltooid op",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionNotificationLabel": {
+  "originalValue": "Session notification settings",
+  "value": "Instellingen voor sessie meldingen",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionOverviewButton": {
+  "originalValue": "\n        <i id=\"AdminInterfaceGroupSessionOverviewButton-saveIcon\" class=\"fa fa-fw fa-notes-medical\"></i> <span id=\"AdminInterfaceGroupSessionOverviewButton-Label\">Show user id and password overview</span>\n    ",
+  "value": "\n        <i id=\"AdminInterfaceGroupSessionOverviewButton-saveIcon\" class=\"fa fa-fw fa-notes-medical\"></i><span id=\"AdminInterfaceGroupSessionOverviewButton-Label\">Gebruikers-id en wachtwoord weergeven-overzicht</span>\n    ",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionOverviewButton-Label": {
+  "originalValue": "Show user id and password overview",
+  "value": "Gebruikers-id en wachtwoord weergeven-overzicht",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionRemarksLabel": {
+  "originalValue": "Remarks",
+  "value": "Opmerkingen",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionSaveButton": {
+  "originalValue": "\n        <i id=\"AdminInterfaceGroupSession-saveIcon\" class=\"fa fa-fw fa-thumbs-up\"></i> <span id=\"AdminInterfaceGroupSessionSaveButtonLabel\">Save session</span>\n    ",
+  "value": "\n        <i id=\"AdminInterfaceGroupSession-saveIcon\" class=\"fa fa-fw fa-thumbs-up\"></i><span id=\"AdminInterfaceGroupSessionSaveButtonLabel\">Sessie opslaan</span>\n    ",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionSaveButtonLabel": {
+  "originalValue": "Save session",
+  "value": "Sessie opslaan",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionShowRelatedButton": {
+  "originalValue": "Show related person sessions",
+  "value": "Sessies met gerelateerde personen weergeven",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionStartDateLabel": {
+  "originalValue": "Session cannot start <b>before</b> this date &amp; time",
+  "value": "Sessie kan niet <b>v\u00f3\u00f3r</b> deze datum &amp; tijd starten",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionTestsIncludeOtherLanguagesLabel": {
+  "originalValue": "Include tests in other languages",
+  "value": "Toetsen in andere talen opnemen",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionTestsInputList": {
+  "originalValue": "\n                        <option selected=\"selected\" value=\"\">Select a test</option>\n                    ",
+  "value": "\n                        <option selected=\"selected\" value=\"\">Selecteer een test\n                    ",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionTestsInputListLabel": {
+  "originalValue": "Tests in these group sessions",
+  "value": "Tests in deze groepssessies",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionTestsSelectionC1": {
+  "originalValue": "No tests added yet",
+  "value": "Nog geen tests toegevoegd",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionTestsSelectionH1": {
+  "originalValue": "Test name",
+  "value": "Test naam",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionTestsSelectionH2": {
+  "originalValue": "Test language",
+  "value": "Test taal",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionTestsSelectionH3": {
+  "originalValue": "Norm 1",
+  "value": "Norm 1",
+  "valueAsOriginal": "Y"
+ },
+ "AdminInterfaceGroupSessionTestsSelectionH4": {
+  "originalValue": "Norm 2",
+  "value": "Norm 2",
+  "valueAsOriginal": "Y"
+ },
+ "AdminInterfaceGroupSessionTestsSelectionH5": {
+  "originalValue": "Norm 3",
+  "value": "Norm 3",
+  "valueAsOriginal": "Y"
+ },
+ "AdminInterfaceGroupSessionTestsSelectionH6": {
+  "originalValue": "Actions",
+  "value": "Acties",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionUnArchive": {
+  "originalValue": "Unarchive this session",
+  "value": "De archivering van deze sessie ongedaan maken",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionUnArchive-Alllabel": {
+  "originalValue": "\n                            Unarchive this group session and all related person sessions\n                        ",
+  "value": "De archivering van deze groepssessie en alle sessies met gerelateerde personen ongedaan maken",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionUnArchive-CloseButton": {
+  "originalValue": "Close",
+  "value": "Sluiten",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionUnArchive-OnlyThislabel": {
+  "originalValue": "\n                            Unarchive only this group sessions\n                        ",
+  "value": "Dearchiveer alleen deze groepssessies",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionUnArchive-Unstartedlabel": {
+  "originalValue": "\n                            Unarchive this group session and all related UNSTARTED person sessions\n                        ",
+  "value": "De archivering van deze groepssessie en alle gerelateerde niet-GESTARTE persoons sessies ongedaan maken",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionUnArchive-buttonlabel": {
+  "originalValue": "Unarchive group sessions",
+  "value": "Groepssessies niet archiveren",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionUnArchiveLabel": {
+  "originalValue": "What do you want to unarchive?",
+  "value": "Wat wilt u dearchiveren?",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionUnArchiveTest": {
+  "originalValue": "\n        <i id=\"AdminInterfaceGroupSessionUnArchiveTestIcon\" class=\"fa fa-fw fa-archive \"></i><span id=\"AdminInterfaceGroupSessionUnArchive\">Unarchive this session</span>",
+  "value": "\n        <i id=\"AdminInterfaceGroupSessionUnArchiveTestIcon\" class=\"fa fa-fw fa-archive \"></i><span id=\"AdminInterfaceGroupSessionUnArchive\">De archivering van deze sessie ongedaan maken</span>",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionWarningExistsLabel": {
+  "originalValue": "Please note : Some of the candidates you have selected are already known. The session will be added as usual, the password of the candidate will NOT be updated. ",
+  "value": "Let op: sommige van de geselecteerde kandidaten zijn al bekend. De sessie wordt zoals gebruikelijk toegevoegd, het wachtwoord van de kandidaat wordt niet bijgewerkt.",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionsBusy": {
+  "originalValue": "Please note : Some candidates have already started the test.",
+  "value": "Let op: sommige kandidaten zijn al begonnen met de test.",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceScreenTemplate-vartranslatablelabel": {
+  "originalValue": "Translatable",
+  "value": "Vertaalbare",
+  "valueAsOriginal": "N"
+ },
  "AdminInterfaceScreenTemplateSelectHeaderEdit": {
   "originalValue": "Test Screen Template editor",
   "value": "Editor voor test scherm sjablonen",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceScreenTemplateSelectListLoading": {
+  "originalValue": " list is loading ...",
+  "value": "lijst wordt geladen...",
   "valueAsOriginal": "N"
  },
  "AdminInterfaceSessionEditAccordionLabel": {
@@ -1927,6 +2290,51 @@
  "AdminInterfaceSessionEditRemarksLabel": {
   "originalValue": "Remarks",
   "value": "Opmerkingen",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceSessionNewSessionDeleteButtonLabel": {
+  "originalValue": "Delete session",
+  "value": "Sessie verwijderen",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceSessionNewSessionInviteButtonLabel": {
+  "originalValue": "Invite candidate by e-mail",
+  "value": "Kandidaat uitnodigen per e-mail",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceSessionNewSessionNewButtonLabel": {
+  "originalValue": "Add another session",
+  "value": "Een andere sessie toevoegen",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceSessionNewSessionSaveButtonLabel": {
+  "originalValue": "Save session",
+  "value": "Sessie opslaan",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceSessionNewSessionStartButtonLabel": {
+  "originalValue": "Start sessie nu",
+  "value": "Start sessie nu",
+  "valueAsOriginal": "Y"
+ },
+ "AdminInterfaceSessionNewSessionStartNowButtonLabel": {
+  "originalValue": "Set password and start session now",
+  "value": "Wachtwoord instellen en sessie nu starten",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditor-AllHeader": {
+  "originalValue": "Translate all screens",
+  "value": "Vertaal alle schermen",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditor-SourceLanguageSelectLabel": {
+  "originalValue": "Source language",
+  "value": "Brontaal",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditor-TargetLanguageSelectLabel": {
+  "originalValue": "Target language",
+  "value": "Doeltaal",
   "valueAsOriginal": "N"
  },
  "AdminInterfaceTestTemplateEditorNorm_PercentileHeader1_2": {
@@ -1989,6 +2397,11 @@
   "value": "Sectie test definitie",
   "valueAsOriginal": "N"
  },
+ "AdminInterfaceTestTemplateEditorSelectListLoading": {
+  "originalValue": " list is loading ...",
+  "value": "lijst wordt geladen...",
+  "valueAsOriginal": "N"
+ },
  "AdminInterfaceTestTemplateEditorTabScreenPostScriptHeader": {
   "originalValue": "Screen post script",
   "value": "Scherm PostScript",
@@ -1999,6 +2412,11 @@
   "value": "Scherm pre script",
   "valueAsOriginal": "N"
  },
+ "AdminInterfaceTestTemplateEditorTestCapProtectTestScreenLabel": {
+  "originalValue": "Remove the test scoring &amp; norms during test taking",
+  "value": "De test score &amp; normen verwijderen tijdens de test neming",
+  "valueAsOriginal": "N"
+ },
  "AdminInterfaceTestTemplateEditorTestCapShowTestClosureScreenLabel": {
   "originalValue": "Show the test closure screen after the test",
   "value": "Het scherm test afsluiting weergeven na de test",
@@ -2007,6 +2425,26 @@
  "AdminInterfaceTestTemplateEditorTestCostsLabel": {
   "originalValue": "Test costs (in credit units)",
   "value": "Test kosten (in kredieteenheden)",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorTranslateCloseButton": {
+  "originalValue": "Close",
+  "value": "Sluiten",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorTranslateLabel": {
+  "originalValue": "Translate",
+  "value": "Vertalen",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorTranslateScreenButton": {
+  "originalValue": "\n                            <i class=\"fa fa-fw fa-language\"></i> Translate screen\n                    ",
+  "value": "\n                            <i class=\"fa fa-fw fa-language\"></i>Vertaal Screen",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorTranslateTranslateNowButton": {
+  "originalValue": "Start translation",
+  "value": "Start vertaling",
   "valueAsOriginal": "N"
  },
  "BatteryChangeEditor.BatteryText": {
@@ -2144,9 +2582,29 @@
   "value": "Genereer (nieuwe) API sleutel",
   "valueAsOriginal": "N"
  },
+ "ConsultantEditorEditRightsLimitations": {
+  "originalValue": "User limitations",
+  "value": "Gebruikers beperkingen",
+  "valueAsOriginal": "N"
+ },
  "ConsultantEditorInterfaceExternalAPIKeyLabel": {
   "originalValue": "External API Key",
   "value": "Externe API-sleutel",
+  "valueAsOriginal": "N"
+ },
+ "ConsultantEditorInterfaceIsDataResearcherHeader": {
+  "originalValue": "Test researcher",
+  "value": "Test onderzoeker",
+  "valueAsOriginal": "N"
+ },
+ "ConsultantEditorInterfaceMayViewPasswordsHeader": {
+  "originalValue": "May view candidate passwords",
+  "value": "Kan kandidaat-wachtwoorden bekijken",
+  "valueAsOriginal": "N"
+ },
+ "CreditsOrderByMailButtonLabel": {
+  "originalValue": "Send mail now",
+  "value": "E-mail nu verzenden",
   "valueAsOriginal": "N"
  },
  "CreditsUsedPortlet.GraphHeader": {
@@ -2154,9 +2612,44 @@
   "value": "Het gebruik van het krediet (tikken)",
   "valueAsOriginal": "N"
  },
+ "CustomerSettingsDiv-CompanyCopyright-lbl": {
+  "originalValue": "Company copyright text",
+  "value": "Copyright tekst van het bedrijf",
+  "valueAsOriginal": "N"
+ },
+ "CustomerSettingsDiv-CompanyCopyright-val": {
+  "originalValue": "Company copyright text ",
+  "value": "Copyright tekst van het bedrijf",
+  "valueAsOriginal": "N"
+ },
+ "CustomerSettingsDiv-CompanyLogo-lbl": {
+  "originalValue": "Company logo URL",
+  "value": "URL van bedrijfslogo",
+  "valueAsOriginal": "N"
+ },
+ "CustomerSettingsDiv-CompanyLogo-val": {
+  "originalValue": "Company logo URL ",
+  "value": "URL van bedrijfslogo",
+  "valueAsOriginal": "N"
+ },
+ "CustomerSettingsDiv-CompanyName-lbl": {
+  "originalValue": "Company name",
+  "value": "Bedrijfsnaam",
+  "valueAsOriginal": "N"
+ },
+ "CustomerSettingsDiv-CompanyName-val": {
+  "originalValue": "Company name",
+  "value": "Bedrijfsnaam",
+  "valueAsOriginal": "N"
+ },
  "CustomerSettingsDiv-ITSLimitations": {
   "originalValue": "ITS consultant limitation settings",
   "value": "DE consultant beperking instellingen",
+  "valueAsOriginal": "N"
+ },
+ "CustomerSettingsDiv-ITSPreferences": {
+  "originalValue": "Company preferences (only for dedicated server customers) ",
+  "value": "Bedrijfs Voorkeuren (alleen voor dedicated server klanten)",
   "valueAsOriginal": "N"
  },
  "CustomerSettingsDiv-MailServer": {
@@ -2239,10 +2732,145 @@
   "value": "Klantinstellingen bewerken",
   "valueAsOriginal": "N"
  },
+ "DataDownloading-CloseButton": {
+  "originalValue": "Cancel",
+  "value": "Annuleren",
+  "valueAsOriginal": "N"
+ },
+ "DataDownloading-Label": {
+  "originalValue": "Downloading data",
+  "value": "Gegevens worden gedownload",
+  "valueAsOriginal": "N"
+ },
+ "DownloadDataAll_buttonlabel": {
+  "originalValue": "Download all data",
+  "value": "Alle gegevens downloaden",
+  "valueAsOriginal": "N"
+ },
+ "DownloadDataEndDateLabel": {
+  "originalValue": "Last date to download",
+  "value": "Laatste datum om te downloaden",
+  "valueAsOriginal": "N"
+ },
+ "DownloadDataGroupNameFilterLabel": {
+  "originalValue": "Group name filter",
+  "value": "Groepsnaam filter",
+  "valueAsOriginal": "N"
+ },
+ "DownloadDataHeader": {
+  "originalValue": "Data example for downloading",
+  "value": "Voorbeeld van gegevens voor downloaden",
+  "valueAsOriginal": "N"
+ },
+ "DownloadDataHeaderMain": {
+  "originalValue": "Data download",
+  "value": "Gegevens downloaden",
+  "valueAsOriginal": "N"
+ },
+ "DownloadDataInfoHeader": {
+  "originalValue": "What information do you want to download",
+  "value": "Welke informatie wilt u downloaden",
+  "valueAsOriginal": "N"
+ },
+ "DownloadDataInterfaceEditHeader": {
+  "originalValue": "Download data",
+  "value": "Download Data",
+  "valueAsOriginal": "N"
+ },
+ "DownloadDataLabel": {
+  "originalValue": "Search master records",
+  "value": "Zoeken in stamrecords",
+  "valueAsOriginal": "N"
+ },
+ "DownloadDataLabelResultsA": {
+  "originalValue": "Do not include results records",
+  "value": "Geen resultaten records opnemen",
+  "valueAsOriginal": "N"
+ },
+ "DownloadDataLabelResultsB": {
+  "originalValue": "Include results records, but only fields ending with .value",
+  "value": "Resultaten records opnemen, maar alleen velden die eindigen op. Value",
+  "valueAsOriginal": "N"
+ },
+ "DownloadDataLabelResultsC": {
+  "originalValue": "Include all results records (slow!)",
+  "value": "Alle resultaten records opnemen (traag!)",
+  "valueAsOriginal": "N"
+ },
+ "DownloadDataLabelResultsCSV": {
+  "originalValue": "Download format = Comma Separated Fields",
+  "value": "Download-indeling = door Komma's gescheiden velden",
+  "valueAsOriginal": "N"
+ },
+ "DownloadDataLabelResultsTSV": {
+  "originalValue": "Download format = Tab Separated Fields",
+  "value": "Download Format = tab gescheiden velden",
+  "valueAsOriginal": "N"
+ },
+ "DownloadDataRemoveEmptyColumnsLabel": {
+  "originalValue": "Remove empty columns",
+  "value": "Lege kolommen verwijderen",
+  "valueAsOriginal": "N"
+ },
+ "DownloadDataSessionFilterLabel": {
+  "originalValue": "Session name filter",
+  "value": "Sessienaam filter",
+  "valueAsOriginal": "N"
+ },
+ "DownloadDataShowSample_buttonlabel": {
+  "originalValue": "Download sample",
+  "value": "Download voorbeeld",
+  "valueAsOriginal": "N"
+ },
+ "DownloadDataStartDateLabel": {
+  "originalValue": "First date to download",
+  "value": "Eerste datum om te downloaden",
+  "valueAsOriginal": "N"
+ },
+ "DownloadDataTestCompanyNameFilterLabel": {
+  "originalValue": "Company name filter",
+  "value": "Bedrijfsnaam filter",
+  "valueAsOriginal": "N"
+ },
+ "DownloadDataTestCompanyNameResultsFilterLabel": {
+  "originalValue": "Results filtering",
+  "value": "Resultaten filteren",
+  "valueAsOriginal": "N"
+ },
+ "DownloadDataTestNameFilterLabel": {
+  "originalValue": "Test name filter",
+  "value": "Test naam filter",
+  "valueAsOriginal": "N"
+ },
+ "ForgotWindowInstructionReset": {
+  "originalValue": "Please enter your email address to reset the password for your account.",
+  "value": "Voer uw e-mailadres in om het wachtwoord voor uw account opnieuw in te stellen.",
+  "valueAsOriginal": "N"
+ },
  "GrantCreditsInterfaceEditHeaderCompany": {
   "originalValue": "ITRHelpdesk",
   "value": "ITRHelpdesk",
   "valueAsOriginal": "Y"
+ },
+ "GrantCreditsInterfaceSaveLabel": {
+  "originalValue": "Grant credits now",
+  "value": "Grant credits nu",
+  "valueAsOriginal": "N"
+ },
+ "GroupSessionListerInterfaceEditSessionEditHeader": {
+  "originalValue": "Session overview for group sessions that are",
+  "value": "Sessie overzicht voor groepssessies die worden",
+  "valueAsOriginal": "N"
+ },
+ "GroupSessionListerTableAddButton": {
+  "originalValue": "<i class=\"fa fa-fw fa-plus\"></i> Add new group session\n        ",
+  "value": "<i class=\"fa fa-fw fa-plus\"></i>Nieuwe groepssessie toevoegen",
+  "valueAsOriginal": "N"
+ },
+ "GroupSessionListerTableFindMoreButton": {
+  "originalValue": "<i class=\"fa fa-fw fa-layer-group\"></i> Show more information\n        ",
+  "value": "<i class=\"fa fa-fw fa-layer-group\"></i>Meer informatie weergeven",
+  "valueAsOriginal": "N"
  },
  "ITSBattery.js.AfterBattery": {
   "originalValue": "/* please see manual for instructions before using battery scripting */",
@@ -2497,6 +3125,11 @@
   "value": "Frans",
   "valueAsOriginal": "N"
  },
+ "ITSTranslate.frr": {
+  "originalValue": "Frisian",
+  "value": "Friese",
+  "valueAsOriginal": "N"
+ },
  "ITSTranslate.he": {
   "originalValue": "Hebrew",
   "value": "Hebreeuws",
@@ -2702,6 +3335,31 @@
   "value": "Vereenvoudigd Chinees",
   "valueAsOriginal": "N"
  },
+ "ITSTranslationEditor_ID": {
+  "originalValue": "ID",
+  "value": "Id",
+  "valueAsOriginal": "N"
+ },
+ "ITSTranslationEditor_NewTranslation": {
+  "originalValue": "New text",
+  "value": "Nieuwe tekst",
+  "valueAsOriginal": "N"
+ },
+ "ITSTranslationEditor_Original": {
+  "originalValue": "Original text",
+  "value": "Oorspronkelijke tekst",
+  "valueAsOriginal": "N"
+ },
+ "ITSTranslationEditor_Translation": {
+  "originalValue": "Translated text",
+  "value": "Vertaalde tekst",
+  "valueAsOriginal": "N"
+ },
+ "LoginWindowWelcomeTo": {
+  "originalValue": "Welcome to",
+  "value": "Welkom bij",
+  "valueAsOriginal": "N"
+ },
  "MailTemplateEditor-LanguageSelectLabel": {
   "originalValue": "Mail template language",
   "value": "E-mail sjabloontaal",
@@ -2777,9 +3435,69 @@
   "value": "Bruikbare velden",
   "valueAsOriginal": "N"
  },
+ "NavbarsAdminLogoutButtonTT": {
+  "originalValue": "Logout\n        ",
+  "value": "Logout",
+  "valueAsOriginal": "N"
+ },
+ "NavbarsLabelHeadingWelcomeTT": {
+  "originalValue": "Welcome",
+  "value": "Welkom",
+  "valueAsOriginal": "N"
+ },
+ "PersonInterfaceEditButtonBar_ViewPasswordButtonLabel": {
+  "originalValue": "View password",
+  "value": "Wachtwoord weergeven",
+  "valueAsOriginal": "N"
+ },
  "PersonListerController.PersonStatusArchived": {
   "originalValue": "(archived)",
   "value": "(gearchiveerd)",
+  "valueAsOriginal": "N"
+ },
+ "PersonListerDelete": {
+  "originalValue": "\n            <i id=\"PersonListerDeleteIcon\" class=\"fa fa-fw fa-trash\"></i><span id=\"PersonListerDeleteButtonLabel\">Delete persons currently listed</span>",
+  "value": "\n            <i id=\"PersonListerDeleteIcon\" class=\"fa fa-fw fa-trash\"></i><span id=\"PersonListerDeleteButtonLabel\">Personen verwijderen die momenteel worden vermeld</span>",
+  "valueAsOriginal": "N"
+ },
+ "PersonListerDelete-Alllabel": {
+  "originalValue": "\n                            Delete all archived persons that do NOT have a linked session\n                        ",
+  "value": "Alle gearchiveerde personen verwijderen die geen gekoppelde sessie hebben",
+  "valueAsOriginal": "N"
+ },
+ "PersonListerDelete-CloseButton": {
+  "originalValue": "Close",
+  "value": "Sluiten",
+  "valueAsOriginal": "N"
+ },
+ "PersonListerDelete-OnlyThislabel": {
+  "originalValue": "\n                            Delete all archived persons including ALL their session data (IRREVERSIBLE! ALL DATA WILL BE PERMANENTLY DELETED.)\n                        ",
+  "value": "Verwijder alle gearchiveerde personen, inclusief al hun sessiegegevens (ONOMKEERBAAR! ALLE GEGEVENS WORDEN PERMANENT VERWIJDERD.)",
+  "valueAsOriginal": "N"
+ },
+ "PersonListerDelete-buttonlabel": {
+  "originalValue": "Delete persons",
+  "value": "Personen verwijderen",
+  "valueAsOriginal": "N"
+ },
+ "PersonListerDeleteButtonLabel": {
+  "originalValue": "Delete persons currently listed",
+  "value": "Personen verwijderen die momenteel worden vermeld",
+  "valueAsOriginal": "N"
+ },
+ "PersonListerDeleteLabel": {
+  "originalValue": "What do you want to delete?",
+  "value": "Wat wilt u verwijderen?",
+  "valueAsOriginal": "N"
+ },
+ "ServerSettingsActions-ActionsHeader": {
+  "originalValue": "Actions",
+  "value": "Acties",
+  "valueAsOriginal": "N"
+ },
+ "ServerSettingsActions-installButton-label": {
+  "originalValue": "Install open source publics",
+  "value": "Open source-publics installeren",
   "valueAsOriginal": "N"
  },
  "ServerSettingsDiv-CompanyName-lbl": {
@@ -2907,6 +3625,51 @@
   "value": "Instellingen voor vertaling",
   "valueAsOriginal": "N"
  },
+ "ServerSettingsLanguageTemplate-ActionsHeader": {
+  "originalValue": "Translations",
+  "value": "Translations",
+  "valueAsOriginal": "Y"
+ },
+ "ServerSettingsLanguageTemplate_SaveButtonLabel": {
+  "originalValue": "Install all translations",
+  "value": "Alle vertalingen installeren",
+  "valueAsOriginal": "N"
+ },
+ "ServerSettingsPublicsInterfaceEditHeader": {
+  "originalValue": "Install or update from open source repo",
+  "value": "Installeren of bijwerken vanuit open source repo",
+  "valueAsOriginal": "N"
+ },
+ "ServerSettingsPublicsReportTemplate-ActionsHeader": {
+  "originalValue": "Report templates",
+  "value": "Rapportsjablonen",
+  "valueAsOriginal": "N"
+ },
+ "ServerSettingsPublicsReportTemplate_SaveButtonLabel": {
+  "originalValue": "Install all report templates",
+  "value": "Alle rapportsjablonen installeren",
+  "valueAsOriginal": "N"
+ },
+ "ServerSettingsPublicsTestScreenTemplate-ActionsHeader": {
+  "originalValue": "Test screen templates",
+  "value": "Test scherm sjablonen",
+  "valueAsOriginal": "N"
+ },
+ "ServerSettingsPublicsTestScreenTemplate_SaveButtonLabel": {
+  "originalValue": "Install all test screen templates",
+  "value": "Alle test scherm sjablonen installeren",
+  "valueAsOriginal": "N"
+ },
+ "ServerSettingsPublicsTestTemplate-ActionsHeader": {
+  "originalValue": "Test templates",
+  "value": "Test sjablonen",
+  "valueAsOriginal": "N"
+ },
+ "ServerSettingsPublicsTestTemplate_SaveButtonLabel": {
+  "originalValue": "Install all test templates",
+  "value": "Alle test sjablonen installeren",
+  "valueAsOriginal": "N"
+ },
  "SessionChangeEditor.BatteryText": {
   "originalValue": "Battery : ",
   "value": "Batterij: ",
@@ -2945,6 +3708,11 @@
   "value": "* Gebruik het eerder e-mailed wachtwoord *",
   "valueAsOriginal": "N"
  },
+ "SessionMailerInterfaceSessionSendButtonLabel": {
+  "originalValue": "Send mail now",
+  "value": "E-mail nu verzenden",
+  "valueAsOriginal": "N"
+ },
  "SessionNewEditor.BatteryText": {
   "originalValue": "Battery : ",
   "value": "Batterij: ",
@@ -2978,6 +3746,32 @@
   "value": "ScreenComponent",
   "valueAsOriginal": "Y"
  },
+ "TranslationEditorInterfaceEditHeader": {
+  "originalValue": "Edit translations",
+  "value": "Vertalingen bewerken",
+  "valueAsOriginal": "N"
+ },
+ "UserNameReset": {
+  "originalValue": "E-mail",
+  "value": "E-mail",
+  "valueAsOriginal": "Y"
+ },
+ "UserPreferencesPortlet.ChangePassword": {
+  "originalValue": "Change my password",
+  "value": "Mijn wachtwoord wijzigen",
+  "valueAsOriginal": "N"
+ },
+ "UserPreferencesPortlet.ManageConsultants": {
+  "originalValue": "Manage consultants",
+  "value": "Adviseurs beheren",
+  "valueAsOriginal": "N"
+ },
+ "UserPreferencesPortlet.ManageOrganisations": {
+  "id": "UserPreferencesPortlet.ManageOrganisations",
+  "originalValue": "Beheer organisaties",
+  "value": "Beheer organisaties",
+  "valueAsOriginal": "Y"
+ },
  "dialogMessages.Header": {
   "originalValue": "Save report",
   "value": "Rapport opslaan",
@@ -2994,8 +3788,9 @@
   "valueAsOriginal": "N"
  },
  "dialogMessages.ITSConsultantEditor.Delete_1": {
-  "originalValue": "No",
-  "value": "No",
+  "id": "dialogMessages.ITSConsultantEditor.Delete_1",
+  "originalValue": "Nee",
+  "value": "Nee",
   "valueAsOriginal": "Y"
  },
  "dialogMessages.ITSReportTemplateEditor": {
@@ -3004,8 +3799,9 @@
   "valueAsOriginal": "N"
  },
  "dialogMessages.ITSReportTemplateEditor_0": {
-  "originalValue": "No",
-  "value": "No",
+  "id": "dialogMessages.ITSReportTemplateEditor_0",
+  "originalValue": "Nee",
+  "value": "Nee",
   "valueAsOriginal": "Y"
  },
  "dialogMessages.ITSReportTemplateEditor_1": {
@@ -3028,14 +3824,31 @@
   "value": "Weet u zeker dat u deze test wilt verwijderen? Als dit de enige test in deze sessie dan de sessie zal ook worden geschrapt.",
   "valueAsOriginal": "N"
  },
+ "dialogMessages.ITSSessionEditor.DeleteTest": {
+  "originalValue": "Are you sure you want to delete this test? If this is the only test in this session then the session will be deleted as well.",
+  "value": "Weet u zeker dat u deze test wilt verwijderen? Als dit de enige test in deze sessie is, wordt de sessie ook verwijderd.",
+  "valueAsOriginal": "N"
+ },
+ "dialogMessages.ITSSessionEditor.DeleteTest_0": {
+  "originalValue": "Yes, delete this test",
+  "value": "Ja, deze test verwijderen",
+  "valueAsOriginal": "N"
+ },
+ "dialogMessages.ITSSessionEditor.DeleteTest_1": {
+  "id": "dialogMessages.ITSSessionEditor.DeleteTest_1",
+  "originalValue": "Nee",
+  "value": "Nee",
+  "valueAsOriginal": "Y"
+ },
  "dialogMessages.ITSSessionEditor_0": {
   "originalValue": "Yes, delete this test",
   "value": "Ja, deze test verwijderen",
   "valueAsOriginal": "N"
  },
  "dialogMessages.ITSSessionEditor_1": {
-  "originalValue": "No",
-  "value": "No",
+  "id": "dialogMessages.ITSSessionEditor_1",
+  "originalValue": "Nee",
+  "value": "Nee",
   "valueAsOriginal": "Y"
  },
  "dialogMessages.ITSTestTemplateEditorDeleteReport": {
@@ -3049,8 +3862,9 @@
   "valueAsOriginal": "N"
  },
  "dialogMessages.ITSTestTemplateEditorDeleteReport_1": {
-  "originalValue": "No",
-  "value": "No",
+  "id": "dialogMessages.ITSTestTemplateEditorDeleteReport_1",
+  "originalValue": "Nee",
+  "value": "Nee",
   "valueAsOriginal": "Y"
  },
  "dialogMessages.ITSTestTemplateEditorDeleteTest": {
@@ -3064,8 +3878,9 @@
   "valueAsOriginal": "N"
  },
  "dialogMessages.ITSTestTemplateEditorDeleteTest_1": {
-  "originalValue": "No",
-  "value": "No",
+  "id": "dialogMessages.ITSTestTemplateEditorDeleteTest_1",
+  "originalValue": "Nee",
+  "value": "Nee",
   "valueAsOriginal": "Y"
  },
  "dialogMessages.ITSTestTemplateEditorSaveTestRequired": {
@@ -3074,8 +3889,9 @@
   "valueAsOriginal": "N"
  },
  "dialogMessages.ITSTestTemplateEditorSaveTestRequired_0": {
-  "originalValue": "No",
-  "value": "No",
+  "id": "dialogMessages.ITSTestTemplateEditorSaveTestRequired_0",
+  "originalValue": "Nee",
+  "value": "Nee",
   "valueAsOriginal": "Y"
  },
  "dialogMessages.ITSTestTemplateEditorSaveTestRequired_1": {
@@ -3139,6 +3955,11 @@
  "infoMessages.ITSResetPasswordEditor.PasswordOK": {
   "originalValue": "Your password is successfully updated",
   "value": "Uw wachtwoord is bijgewerkt",
+  "valueAsOriginal": "N"
+ },
+ "infoMessages.ITSScreenTemplateEditor.centralTemplate": {
+  "originalValue": "Centrally managed screen templates cannot be edited.",
+  "value": "Centraal beheerde scherm sjablonen kunnen niet worden bewerkt.",
   "valueAsOriginal": "N"
  },
  "infoMessages.ITSScreenTemplateLocalPublisherLister.SaveTemplateOK": {
