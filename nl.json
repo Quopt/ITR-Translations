@@ -21,9 +21,12 @@
   "value": "-"
  },
  "#AdminInterface.AdminInterfaceCreditManagementHeader": {
-  "originalValue": "Credit\n\t\t\t\tmanagement",
-  "value": "Credit Management",
-  "valueAsOriginal": "N"
+  "changeDateTime": "2019-08-23T13:41:45.407330",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "id": "#AdminInterface.AdminInterfaceCreditManagementHeader",
+  "originalValue": "Kredietbeheer",
+  "value": "Kredietbeheer",
+  "valueAsOriginal": "Y"
  },
  "#AdminInterface.AdminInterfaceCreditManagementOrderButton": {
   "value": "Kredieteenheden bestellen"
@@ -35,13 +38,23 @@
   "value": "Start het uitnodigen van de kandidaat"
  },
  "#AdminInterface.AdminInterfaceInviteNewCandidateExplanation": {
-  "value": "Nodig een nieuwe kandidaat uit om testen af te nemen. Vul het e-mail adres van de kandidaat hieronder in en druk op de <b>Start het uitnodiging van de kandidaat</b> link hieronder."
+  "changeDateTime": "2019-10-19T10:00:57.003401",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "id": "#AdminInterface.AdminInterfaceInviteNewCandidateExplanation",
+  "originalValue": "Nodig een nieuwe kandidaat uit om testen af te nemen. Vul het e-mail adres of de login code van de kandidaat hieronder in en druk op de <b>Start het uitnodiging van de kandidaat</b> link hieronder.",
+  "value": "Nodig een nieuwe kandidaat uit om testen af te nemen. Vul het e-mail adres of de login code van de kandidaat hieronder in en druk op de <b>Start het uitnodiging van de kandidaat</b> link hieronder.",
+  "valueAsOriginal": "Y"
  },
  "#AdminInterface.AdminInterfaceInviteNewCandidateHeading": {
   "value": "Nieuwe kandidaat uitnodigen"
  },
  "#AdminInterface.AdminInterfaceInviteNewCandidateUserName": {
-  "value": "E-mail adres"
+  "changeDateTime": "2019-10-19T10:01:12.978009",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "id": "#AdminInterface.AdminInterfaceInviteNewCandidateUserName",
+  "originalValue": "E-mail adres of login code",
+  "value": "E-mail adres of login code",
+  "valueAsOriginal": "Y"
  },
  "#AdminInterface.AdminInterfaceInviteRRSessionsButton": {
   "value": "Sessieuitslagen"
@@ -110,7 +123,12 @@
   "value": "Test editor preview"
  },
  "#AdminInterfaceScreenTemplateEditor.AdminInterfaceScreenTemplate-PreviewHeaderTT": {
-  "value": "Test nemen preview"
+  "changeDateTime": "2019-10-12T14:13:05.771760",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "id": "#AdminInterfaceScreenTemplateEditor.AdminInterfaceScreenTemplate-PreviewHeaderTT",
+  "originalValue": "Testafname preview",
+  "value": "Testafname preview",
+  "valueAsOriginal": "Y"
  },
  "#AdminInterfaceScreenTemplateEditor.AdminInterfaceScreenTemplate-TemplateVarSelectHeader": {
   "value": "Sjabloonvariabele selecteren"
@@ -413,10 +431,20 @@
   "value": "Voornaam"
  },
  "#AdminInterfaceSessionEditNew.AdminInterfaceSessionNewSessionCandidateFor": {
-  "value": "Voer het e-mail adres of de login van de kandidaat in"
+  "changeDateTime": "2019-10-19T10:01:25.218619",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "id": "#AdminInterfaceSessionEditNew.AdminInterfaceSessionNewSessionCandidateFor",
+  "originalValue": "Voer het e-mail adres of de login code van de kandidaat in",
+  "value": "Voer het e-mail adres of de login code van de kandidaat in",
+  "valueAsOriginal": "Y"
  },
  "#AdminInterfaceSessionEditNew.AdminInterfaceSessionNewSessionCandidateForLabel": {
-  "value": "Kandidaat e-mail adres of login"
+  "changeDateTime": "2019-10-19T10:01:21.785656",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "id": "#AdminInterfaceSessionEditNew.AdminInterfaceSessionNewSessionCandidateForLabel",
+  "originalValue": "Kandidaat e-mail adres of login code",
+  "value": "Kandidaat e-mail adres of login code",
+  "valueAsOriginal": "Y"
  },
  "#AdminInterfaceSessionEditNew.AdminInterfaceSessionNewSessionCandidateInitialsLabel": {
   "value": "Initialen"
@@ -874,14 +902,20 @@
   "value": "Test definities bewerken"
  },
  "#AdminInterfaceTranslationEditor.EditMenu": {
-  "originalValue": "Edit translated strings",
-  "value": "Vertaalde tekenreeksen bewerken",
-  "valueAsOriginal": "N"
+  "changeDateTime": "2019-10-25T11:07:38.697320",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "id": "#AdminInterfaceTranslationEditor.EditMenu",
+  "originalValue": "Vertaling aanpassen",
+  "value": "Vertaling aanpassen",
+  "valueAsOriginal": "Y"
  },
  "#AdminInterfaceTranslationEditorEditor.EditMenu": {
-  "originalValue": "Edit translated strings",
-  "value": "Vertaalde tekenreeksen bewerken",
-  "valueAsOriginal": "N"
+  "changeDateTime": "2019-10-25T11:07:39.674412",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "id": "#AdminInterfaceTranslationEditorEditor.EditMenu",
+  "originalValue": "Vertaling aanpassen",
+  "value": "Vertaling aanpassen",
+  "valueAsOriginal": "Y"
  },
  "#BatteryListerController.ListMenu": {
   "originalValue": "Edit test batteries",
@@ -907,7 +941,12 @@
   "value": "Gebruikersrechten"
  },
  "#ConsultantEditorInterfaceSessionEdit.ConsultantEditorInterfaceEMailLabel": {
-  "value": "E-mail adres/login"
+  "changeDateTime": "2019-10-19T10:01:31.619762",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "id": "#ConsultantEditorInterfaceSessionEdit.ConsultantEditorInterfaceEMailLabel",
+  "originalValue": "E-mail adres/login code",
+  "value": "E-mail adres/login code",
+  "valueAsOriginal": "Y"
  },
  "#ConsultantEditorInterfaceSessionEdit.ConsultantEditorInterfaceHeader": {
   "value": "Consultant bewerken"
@@ -1172,7 +1211,12 @@
   "value": "Administratieve id"
  },
  "#OrganisationInterfaceSessionEdit.OrganisationEditorInterfaceCompanyCountryLabel": {
-  "value": "Het land van organen"
+  "changeDateTime": "2019-11-01T16:09:42.163104",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "id": "#OrganisationInterfaceSessionEdit.OrganisationEditorInterfaceCompanyCountryLabel",
+  "originalValue": "Land van vestiging",
+  "value": "Land van vestiging",
+  "valueAsOriginal": "Y"
  },
  "#OrganisationInterfaceSessionEdit.OrganisationEditorInterfaceCompanyLicenseEndDateLabel": {
   "value": "Einddatum licentie"
@@ -1277,7 +1321,12 @@
   "value": "Geboortedatum"
  },
  "#PersonInterfaceSessionEdit.PersonInterfaceEditSessionCandidateEMailLabel": {
-  "value": "E-mail adres/login"
+  "changeDateTime": "2019-10-19T10:01:44.392578",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "id": "#PersonInterfaceSessionEdit.PersonInterfaceEditSessionCandidateEMailLabel",
+  "originalValue": "E-mail adres/login code",
+  "value": "E-mail adres/login code",
+  "valueAsOriginal": "Y"
  },
  "#PersonInterfaceSessionEdit.PersonInterfaceEditSessionCandidateFirstNameLabel": {
   "value": "Voornaam"
@@ -1317,9 +1366,10 @@
   "valueAsOriginal": "N"
  },
  "#PersonListerInterfaceSessionEdit.ITSPersonListerEditor_ArchivedHeader": {
-  "originalValue": "Archived",
-  "value": "Gearchiveerde",
-  "valueAsOriginal": "N"
+  "id": "#PersonListerInterfaceSessionEdit.ITSPersonListerEditor_ArchivedHeader",
+  "originalValue": "gearchiveerd zijn",
+  "value": "gearchiveerd zijn",
+  "valueAsOriginal": "Y"
  },
  "#PersonListerInterfaceSessionEdit.ITSPersonListerEditor_DescriptionLogin": {
   "originalValue": "Login",
@@ -1567,7 +1617,10 @@
   "value": "Toegestane begindatum &amp; tijd"
  },
  "#SessionListerInterfaceSessionEdit.ITSSessionListerEditor_ArchivedHeader": {
-  "value": "Gearchiveerde"
+  "id": "#SessionListerInterfaceSessionEdit.ITSSessionListerEditor_ArchivedHeader",
+  "originalValue": "gearchiveerd zijn",
+  "value": "gearchiveerd zijn",
+  "valueAsOriginal": "Y"
  },
  "#SessionListerInterfaceSessionEdit.ITSSessionListerEditor_DescriptionHeader": {
   "value": "Sessie beschrijving"
@@ -1718,14 +1771,20 @@
   "valueAsOriginal": "N"
  },
  "AdminInterfaceChangeSessionCandidateFor": {
-  "originalValue": "Enter the e-mail address or login of the candidate",
-  "value": "Voer het e-mail adres of de login van de kandidaat in",
-  "valueAsOriginal": "N"
+  "changeDateTime": "2019-10-19T10:02:16.546116",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "id": "AdminInterfaceChangeSessionCandidateFor",
+  "originalValue": "Voer het e-mail adres of de login code van de kandidaat in",
+  "value": "Voer het e-mail adres of de login code van de kandidaat in",
+  "valueAsOriginal": "Y"
  },
  "AdminInterfaceChangeSessionCandidateForLabel": {
-  "originalValue": "Candidate\n                e-mail address or login",
-  "value": "Kandidaat e-mail adres of login",
-  "valueAsOriginal": "N"
+  "changeDateTime": "2019-10-19T10:02:20.052990",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "id": "AdminInterfaceChangeSessionCandidateForLabel",
+  "originalValue": "Kandidaat e-mail adres of login code",
+  "value": "Kandidaat e-mail adres of login code",
+  "valueAsOriginal": "Y"
  },
  "AdminInterfaceChangeSessionCandidateInitialsLabel": {
   "originalValue": "Initials",
@@ -2252,9 +2311,35 @@
   "value": "Let op: sommige kandidaten zijn al begonnen met de test.",
   "valueAsOriginal": "N"
  },
+ "AdminInterfaceScreenTemplate-PreviewHeaderSummary": {
+  "changeDateTime": "2019-11-01T14:29:28.200621",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Summary preview",
+  "value": "Voorbeeld van samenvatting",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceScreenTemplate-labelGeneratorSummary": {
+  "changeDateTime": "2019-10-18T10:57:21.380484",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Generator snippet summary view (id, num_blocks, template_values, current_values_array)",
+  "value": "Overzichtsweergave van de generator fragmenten (id, num_blocks, template_values, current_values_array)",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceScreenTemplate-showValuesSummaryButton": {
+  "changeDateTime": "2019-11-02T09:15:33.690260",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"svg-inline--fa fa-eye fa-w-18\" role=\"img\" aria-hidden=\"true\" viewBox=\"0 0 576 512\" data-icon=\"eye\" data-fa-i2svg=\"\" data-prefix=\"fa\"><path fill=\"currentColor\" d=\"M 569.354 231.631 C 512.969 135.949 407.81 72 288 72 C 168.14 72 63.004 135.994 6.646 231.631 a 47.999 47.999 0 0 0 0 48.739 C 63.031 376.051 168.19 440 288 440 c 119.86 0 224.996 -63.994 281.354 -159.631 a 47.997 47.997 0 0 0 0 -48.738 Z M 288 392 c -75.162 0 -136 -60.827 -136 -136 c 0 -75.162 60.826 -136 136 -136 c 75.162 0 136 60.826 136 136 c 0 75.162 -60.826 136 -136 136 Z m 104 -136 c 0 57.438 -46.562 104 -104 104 s -104 -46.562 -104 -104 c 0 -17.708 4.431 -34.379 12.236 -48.973 l -0.001 0.032 c 0 23.651 19.173 42.823 42.824 42.823 s 42.824 -19.173 42.824 -42.823 c 0 -23.651 -19.173 -42.824 -42.824 -42.824 l -0.032 0.001 C 253.621 156.431 270.292 152 288 152 c 57.438 0 104 46.562 104 104 Z\" /></svg><!-- <i class=\"fa fa-eye\"></i> --> Show values",
+  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"svg-inline--fa fa-eye fa-w-18\" role=\"img\" aria-hidden=\"true\" viewbox=\"0 0 576 512\" data-icon=\"eye\" data-fa-i2svg=\"\" data-prefix=\"fa\"><path fill=\"currentColor\" d=\"M 569.354 231.631 C 512.969 135.949 407.81 72 288 72 C 168.14 72 63.004 135.994 6.646 231.631 a 47.999 47.999 0 0 0 0 48.739 C 63.031 376.051 168.19 440 288 440 c 119.86 0 224.996 -63.994 281.354 -159.631 a 47.997 47.997 0 0 0 0 -48.738 Z M 288 392 c -75.162 0 -136 -60.827 -136 -136 c 0 -75.162 60.826 -136 136 -136 c 75.162 0 136 60.826 136 136 c 0 75.162 -60.826 136 -136 136 Z m 104 -136 c 0 57.438 -46.562 104 -104 104 s -104 -46.562 -104 -104 c 0 -17.708 4.431 -34.379 12.236 -48.973 l -0.001 0.032 c 0 23.651 19.173 42.823 42.824 42.823 s 42.824 -19.173 42.824 -42.823 c 0 -23.651 -19.173 -42.824 -42.824 -42.824 l -0.032 0.001 C 253.621 156.431 270.292 152 288 152 c 57.438 0 104 46.562 104 104 Z\"></path></svg><!-- <i class=\"fa fa-eye\"></i> -->Waarden weergeven",
+  "valueAsOriginal": "N"
+ },
  "AdminInterfaceScreenTemplate-vartranslatablelabel": {
   "originalValue": "Translatable",
   "value": "Vertaalbare",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceScreenTemplate-vartypeI": {
+  "originalValue": "Image",
+  "value": "Afbeelding",
   "valueAsOriginal": "N"
  },
  "AdminInterfaceScreenTemplateSelectHeaderEdit": {
@@ -2347,12 +2432,68 @@
   "value": "Percentiel 1",
   "valueAsOriginal": "N"
  },
+ "AdminInterfaceTestTemplateEditorNorm_PercentileHeader1_4": {
+  "changeDateTime": "2019-09-05T17:37:25.487230",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Percentile 1",
+  "value": "Percentiel 1",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorNorm_PercentileHeader1_5": {
+  "changeDateTime": "2019-09-05T17:37:26.451613",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Percentile 1",
+  "value": "Percentiel 1",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorNorm_PercentileHeader1_6": {
+  "changeDateTime": "2019-09-05T17:37:27.148430",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Percentile 1",
+  "value": "Percentiel 1",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorNorm_PercentileHeader1_7": {
+  "changeDateTime": "2019-09-05T17:37:27.831507",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Percentile 1",
+  "value": "Percentiel 1",
+  "valueAsOriginal": "N"
+ },
  "AdminInterfaceTestTemplateEditorNorm_PercentileHeader2_2": {
   "originalValue": "Percentile 2",
   "value": "Percentiel 2",
   "valueAsOriginal": "N"
  },
  "AdminInterfaceTestTemplateEditorNorm_PercentileHeader2_3": {
+  "originalValue": "Percentile 2",
+  "value": "Percentiel 2",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorNorm_PercentileHeader2_4": {
+  "changeDateTime": "2019-09-05T17:37:25.726081",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Percentile 2",
+  "value": "Percentiel 2",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorNorm_PercentileHeader2_5": {
+  "changeDateTime": "2019-09-05T17:37:26.598988",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Percentile 2",
+  "value": "Percentiel 2",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorNorm_PercentileHeader2_6": {
+  "changeDateTime": "2019-09-05T17:37:27.292782",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Percentile 2",
+  "value": "Percentiel 2",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorNorm_PercentileHeader2_7": {
+  "changeDateTime": "2019-09-05T17:37:27.975520",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
   "originalValue": "Percentile 2",
   "value": "Percentiel 2",
   "valueAsOriginal": "N"
@@ -2367,12 +2508,68 @@
   "value": "Percentiel 3",
   "valueAsOriginal": "N"
  },
+ "AdminInterfaceTestTemplateEditorNorm_PercentileHeader3_4": {
+  "changeDateTime": "2019-09-05T17:37:25.923162",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Percentile 3",
+  "value": "Percentiel 3",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorNorm_PercentileHeader3_5": {
+  "changeDateTime": "2019-09-05T17:37:26.745279",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Percentile 3",
+  "value": "Percentiel 3",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorNorm_PercentileHeader3_6": {
+  "changeDateTime": "2019-09-05T17:37:27.436312",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Percentile 3",
+  "value": "Percentiel 3",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorNorm_PercentileHeader3_7": {
+  "changeDateTime": "2019-09-05T17:37:28.120399",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Percentile 3",
+  "value": "Percentiel 3",
+  "valueAsOriginal": "N"
+ },
  "AdminInterfaceTestTemplateEditorNorm_RawHeader_2": {
   "originalValue": "Score",
   "value": "Score",
   "valueAsOriginal": "Y"
  },
  "AdminInterfaceTestTemplateEditorNorm_RawHeader_3": {
+  "originalValue": "Score",
+  "value": "Score",
+  "valueAsOriginal": "Y"
+ },
+ "AdminInterfaceTestTemplateEditorNorm_RawHeader_4": {
+  "changeDateTime": "2019-09-05T17:37:25.218062",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Score",
+  "value": "Score",
+  "valueAsOriginal": "Y"
+ },
+ "AdminInterfaceTestTemplateEditorNorm_RawHeader_5": {
+  "changeDateTime": "2019-09-05T17:37:26.286401",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Score",
+  "value": "Score",
+  "valueAsOriginal": "Y"
+ },
+ "AdminInterfaceTestTemplateEditorNorm_RawHeader_6": {
+  "changeDateTime": "2019-09-05T17:37:27.002918",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Score",
+  "value": "Score",
+  "valueAsOriginal": "Y"
+ },
+ "AdminInterfaceTestTemplateEditorNorm_RawHeader_7": {
+  "changeDateTime": "2019-09-05T17:37:27.686798",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
   "originalValue": "Score",
   "value": "Score",
   "valueAsOriginal": "Y"
@@ -2385,6 +2582,48 @@
  "AdminInterfaceTestTemplateEditorNorm_ScaleHeader_3": {
   "originalValue": "Scale",
   "value": "Schaal",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorNorm_ScaleHeader_4": {
+  "changeDateTime": "2019-09-05T17:37:24.882354",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Scale",
+  "value": "Schaal",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorNorm_ScaleHeader_5": {
+  "changeDateTime": "2019-09-05T17:37:26.130896",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Scale",
+  "value": "Schaal",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorNorm_ScaleHeader_6": {
+  "changeDateTime": "2019-09-05T17:37:26.868186",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Scale",
+  "value": "Schaal",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorNorm_ScaleHeader_7": {
+  "changeDateTime": "2019-09-05T17:37:27.556211",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Scale",
+  "value": "Schaal",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorScreenComponentRow_PrivacyLabel": {
+  "changeDateTime": "2019-10-12T14:13:35.529263",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Exclude from anonimised",
+  "value": "Uitsluiten van anonimised",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorScreenComponentRow_SessionStoreLabel": {
+  "changeDateTime": "2019-10-12T14:13:35.688154",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Store at session level",
+  "value": "Opslaan op sessie niveau",
   "valueAsOriginal": "N"
  },
  "AdminInterfaceTestTemplateEditorSelectHeaderEdit": {
@@ -2413,9 +2652,10 @@
   "valueAsOriginal": "N"
  },
  "AdminInterfaceTestTemplateEditorTestCapProtectTestScreenLabel": {
-  "originalValue": "Remove the test scoring &amp; norms during test taking",
-  "value": "De test score &amp; normen verwijderen tijdens de test neming",
-  "valueAsOriginal": "N"
+  "id": "AdminInterfaceTestTemplateEditorTestCapProtectTestScreenLabel",
+  "originalValue": "De test score & normen verwijderen tijdens de testafname",
+  "value": "De test score & normen verwijderen tijdens de testafname",
+  "valueAsOriginal": "Y"
  },
  "AdminInterfaceTestTemplateEditorTestCapShowTestClosureScreenLabel": {
   "originalValue": "Show the test closure screen after the test",
@@ -2883,9 +3123,10 @@
   "valueAsOriginal": "N"
  },
  "ITSBatteryListerEditor_ArchivedHeader": {
-  "originalValue": "Archived",
-  "value": "Gearchiveerde",
-  "valueAsOriginal": "N"
+  "id": "ITSBatteryListerEditor_ArchivedHeader",
+  "originalValue": "gearchiveerd zijn",
+  "value": "gearchiveerd zijn",
+  "valueAsOriginal": "Y"
  },
  "ITSBatteryListerEditor_Description": {
   "originalValue": "Description",
@@ -3681,9 +3922,10 @@
   "valueAsOriginal": "N"
  },
  "SessionListerController.SessionStatusArchived": {
-  "originalValue": "archived",
-  "value": "Gearchiveerde",
-  "valueAsOriginal": "N"
+  "id": "SessionListerController.SessionStatusArchived",
+  "originalValue": "gearchiveerd zijn",
+  "value": "gearchiveerd zijn",
+  "valueAsOriginal": "Y"
  },
  "SessionListerController.SessionStatusBusy": {
   "originalValue": "in progress",
@@ -3691,9 +3933,10 @@
   "valueAsOriginal": "N"
  },
  "SessionListerController.SessionStatusCommon": {
-  "originalValue": "available in the system",
-  "value": "beschikbaar in het systeem",
-  "valueAsOriginal": "N"
+  "id": "SessionListerController.SessionStatusCommon",
+  "originalValue": "beschikbaar in het systeem zijn",
+  "value": "beschikbaar in het systeem zijn",
+  "valueAsOriginal": "Y"
  },
  "SessionListerController.SessionStatusDone": {
   "value": "afgerond zijn"
@@ -3711,6 +3954,13 @@
  "SessionMailerInterfaceSessionSendButtonLabel": {
   "originalValue": "Send mail now",
   "value": "E-mail nu verzenden",
+  "valueAsOriginal": "N"
+ },
+ "SessionMailerInterfaceTemplateSelectLabel": {
+  "changeDateTime": "2019-11-01T15:32:23.294927",
+  "changedBy": "d35dd8e8-e8c1-4ce5-72bb-cecb9421bbeb (b4ae6acc-56e6-4027-eb33-60ba617f013d)",
+  "originalValue": "Mail template for mail generation",
+  "value": "Mail template voor e-mail generatie",
   "valueAsOriginal": "N"
  },
  "SessionNewEditor.BatteryText": {
@@ -3771,6 +4021,48 @@
   "originalValue": "Beheer organisaties",
   "value": "Beheer organisaties",
   "valueAsOriginal": "Y"
+ },
+ "X3Y_l": {
+  "changeDateTime": "2019-11-02T16:04:32.244514",
+  "changedBy": "41dd9cd0-b60f-4fdc-ae49-6120f2efbcbc (fd8e10e3-f759-48bb-60b7-5de624f51bc3)",
+  "originalValue": "Wat is uw leeftijd (in jaren) ?",
+  "value": "Wat is uw leeftijd (in jaren)?",
+  "valueAsOriginal": "N"
+ },
+ "X4Y_l": {
+  "changeDateTime": "2019-11-02T16:04:32.413237",
+  "changedBy": "41dd9cd0-b60f-4fdc-ae49-6120f2efbcbc (fd8e10e3-f759-48bb-60b7-5de624f51bc3)",
+  "originalValue": "Wat is uw hoogste afgeronde opleiding?",
+  "value": "Wat is uw hoogste en afgeronde opleiding?",
+  "valueAsOriginal": "N"
+ },
+ "X5Y_l": {
+  "changeDateTime": "2019-11-02T16:04:32.576475",
+  "changedBy": "41dd9cd0-b60f-4fdc-ae49-6120f2efbcbc (fd8e10e3-f759-48bb-60b7-5de624f51bc3)",
+  "originalValue": "Waarom doet U deze test?",
+  "value": "Waarom doet U deze test?",
+  "valueAsOriginal": "Y"
+ },
+ "X6Y_l": {
+  "changeDateTime": "2019-11-02T16:04:32.799734",
+  "changedBy": "41dd9cd0-b60f-4fdc-ae49-6120f2efbcbc (fd8e10e3-f759-48bb-60b7-5de624f51bc3)",
+  "originalValue": "In welk land woont U?",
+  "value": "In welk land woont U?",
+  "valueAsOriginal": "Y"
+ },
+ "X7Y_l": {
+  "changeDateTime": "2019-11-02T16:04:32.969156",
+  "changedBy": "41dd9cd0-b60f-4fdc-ae49-6120f2efbcbc (fd8e10e3-f759-48bb-60b7-5de624f51bc3)",
+  "originalValue": "In welk land bent U geboren?",
+  "value": "In welk land bent U geboren?",
+  "valueAsOriginal": "Y"
+ },
+ "X8Y_l": {
+  "changeDateTime": "2019-11-02T16:04:33.119969",
+  "changedBy": "41dd9cd0-b60f-4fdc-ae49-6120f2efbcbc (fd8e10e3-f759-48bb-60b7-5de624f51bc3)",
+  "originalValue": "In welke stad of plaats woont U?",
+  "value": "In welke stad van plaats woont U?",
+  "valueAsOriginal": "N"
  },
  "dialogMessages.Header": {
   "originalValue": "Save report",
@@ -3851,6 +4143,20 @@
   "value": "Nee",
   "valueAsOriginal": "Y"
  },
+ "dialogMessages.ITSTestTemplateEditorCopyTest": {
+  "changeDateTime": "2019-10-18T14:48:13.181562",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "The test is copied. Please change the name of the test now. Please note that any test media are used from the original copied test. If you do not want this then delete the old test files, upload new test files and relink the files in the test screens and other places where you have used them.",
+  "value": "De test wordt gekopieerd. Wijzig de naam van de test nu. Houd er rekening mee dat alle testmedia worden gebruikt vanaf de originele gekopieerde test. Als u dit niet wilt, verwijdert u de oude testbestanden, uploadt u nieuwe testbestanden en koppelt u de bestanden opnieuw in de test schermen en andere plaatsen waar u ze hebt gebruikt.",
+  "valueAsOriginal": "N"
+ },
+ "dialogMessages.ITSTestTemplateEditorCopyTest_0": {
+  "changeDateTime": "2019-10-18T14:48:12.877549",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "OK",
+  "value": "OK",
+  "valueAsOriginal": "Y"
+ },
  "dialogMessages.ITSTestTemplateEditorDeleteReport": {
   "originalValue": "Are you sure you want to delete this report?",
   "value": "Weet u zeker dat u dit rapport wilt verwijderen?",
@@ -3918,10 +4224,25 @@
  "errorMessages.ITSReportTemplateEditor.LoadReportFailed": {
   "value": "Het rapport kan op dit moment niet worden geladen."
  },
+ "errorMessages.ITSResetPasswordEditor.PasswordNotUpdated": {
+  "changeDateTime": "2019-11-01T16:13:27.872870",
+  "changedBy": "efd6ed20-f66d-4556-b808-934c2caba105 (f5855fe7-b577-485a-502a-4800dfa33100)",
+  "originalValue": "The password could not be changed. The old password is not correct. Please retry.",
+  "value": "Het wachtwoord kan niet worden gewijzigd. Het oude wachtwoord is niet correct. Probeer het alstublieft opnieuw.",
+  "valueAsOriginal": "N"
+ },
  "errorMessages.ITSResetPasswordEditor.PasswordTooShort": {
   "originalValue": "The password could not be changed. The old password is not correct. Please retry.",
   "value": "Het wachtwoord kan niet worden gewijzigd. Het oude wachtwoord is niet correct. Probeer het opnieuw.",
   "valueAsOriginal": "N"
+ },
+ "errorMessages.ITSSessionEditor.NoEditTest": {
+  "changeDateTime": "2019-10-25T11:06:53.322080",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "id": "errorMessages.ITSSessionEditor.NoEditTest",
+  "originalValue": "U kunt deze resultaten niet meer bewerken. Betaalde testresultaten kunnen alleen worden bewerkt voor 24 uur.",
+  "value": "U kunt deze resultaten niet meer bewerken. Betaalde testresultaten kunnen alleen worden bewerkt voor 24 uur.",
+  "valueAsOriginal": "Y"
  },
  "errorMessages.ITSSessionEditor.PersonUnarchived": {
   "originalValue": "The person belonging to this session has been assigned a new login password. Please resend the test invitation.",
@@ -3929,9 +4250,12 @@
   "valueAsOriginal": "N"
  },
  "errorMessages.OutOfCredits": {
-  "originalValue": "You have no credit units left. Please order new credit units.",
-  "value": "U hebt geen kredieteenheden verlaten. Bestel nieuwe kredieteenheden.",
-  "valueAsOriginal": "N"
+  "changeDateTime": "2019-10-25T11:06:46.353494",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "id": "errorMessages.OutOfCredits",
+  "originalValue": "U heeft geen kredieteenheden meer. Bestel nieuwe kredieteenheden.",
+  "value": "U heeft geen kredieteenheden meer. Bestel nieuwe kredieteenheden.",
+  "valueAsOriginal": "Y"
  },
  "infoMessages.Button": {
   "value": "Sluiten"
@@ -3940,9 +4264,12 @@
   "value": "Informatie"
  },
  "infoMessages.ITSCreditsOrderByMailEditor.MailOK": {
-  "originalValue": "The e-mail has been sent.",
-  "value": "De e-mail is verstuurd.",
-  "valueAsOriginal": "N"
+  "changeDateTime": "2019-10-25T11:06:37.000804",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "id": "infoMessages.ITSCreditsOrderByMailEditor.MailOK",
+  "originalValue": "De e-mail is verzonden.",
+  "value": "De e-mail is verzonden.",
+  "valueAsOriginal": "Y"
  },
  "infoMessages.ITSGrantCreditsEditor.SaveOK": {
   "originalValue": "The credits have been granted.",
@@ -3950,7 +4277,12 @@
   "valueAsOriginal": "N"
  },
  "infoMessages.ITSReportTemplateLocalPublisherLister.SaveTemplateOK": {
-  "value": "De rapportsjabloon is gepubliceerd."
+  "changeDateTime": "2019-10-25T11:06:27.492068",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "id": "infoMessages.ITSReportTemplateLocalPublisherLister.SaveTemplateOK",
+  "originalValue": "Het rapportsjabloon is gepubliceerd.",
+  "value": "Het rapportsjabloon is gepubliceerd.",
+  "valueAsOriginal": "Y"
  },
  "infoMessages.ITSResetPasswordEditor.PasswordOK": {
   "originalValue": "Your password is successfully updated",
@@ -3963,15 +4295,28 @@
   "valueAsOriginal": "N"
  },
  "infoMessages.ITSScreenTemplateLocalPublisherLister.SaveTemplateOK": {
-  "originalValue": "The screen template was successfully published.",
-  "value": "De scherm sjabloon is met succes gepubliceerd.",
-  "valueAsOriginal": "N"
+  "changeDateTime": "2019-10-25T11:06:14.042255",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "id": "infoMessages.ITSScreenTemplateLocalPublisherLister.SaveTemplateOK",
+  "originalValue": "Het scherm sjabloon is met succes gepubliceerd.",
+  "value": "Het scherm sjabloon is met succes gepubliceerd.",
+  "valueAsOriginal": "Y"
  },
  "infoMessages.ITSSessionMailerEditor.MailOK": {
-  "value": "De e-mail is verstuurd."
+  "changeDateTime": "2019-10-25T11:06:07.680930",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "id": "infoMessages.ITSSessionMailerEditor.MailOK",
+  "originalValue": "De e-mail is verzonden.",
+  "value": "De e-mail is verzonden.",
+  "valueAsOriginal": "Y"
  },
  "infoMessages.ITSTestTemplateLocalPublisherLister.SaveTemplateOK": {
-  "value": "De test sjabloon is met succes gepubliceerd."
+  "changeDateTime": "2019-10-25T11:06:20.335937",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "id": "infoMessages.ITSTestTemplateLocalPublisherLister.SaveTemplateOK",
+  "originalValue": "Het test sjabloon is met succes gepubliceerd.",
+  "value": "Het test sjabloon is met succes gepubliceerd.",
+  "valueAsOriginal": "Y"
  },
  "js.MasterTag": {
   "originalValue": "[centrally managed]",
