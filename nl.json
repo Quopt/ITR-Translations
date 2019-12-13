@@ -982,7 +982,12 @@
   "value": "Naam"
  },
  "#ConsultantEditorInterfaceSessionEdit.ConsultantEditorInterfaceOrganisationSupervisorHeader": {
-  "value": "Organisatie promotor"
+  "changeDateTime": "2019-11-08T10:05:36.331498",
+  "changedBy": "0f57a1d5-3345-43e8-9e58-4681ea5f69ce (26710ef7-76a9-49e6-26f5-e001f0befeac)",
+  "id": "#ConsultantEditorInterfaceSessionEdit.ConsultantEditorInterfaceOrganisationSupervisorHeader",
+  "originalValue": "Organisatie beheerder",
+  "value": "Organisatie beheerder",
+  "valueAsOriginal": "Y"
  },
  "#ConsultantEditorInterfaceSessionEdit.ConsultantEditorInterfaceRemarksLabel": {
   "value": "Opmerkingen"
@@ -1121,7 +1126,12 @@
   "value": "Login"
  },
  "#LoginWindow.LoginWindowIEWarning": {
-  "value": "Internet Explorer wordt <b>niet</b> ondersteund voor deze website.<br>Gebruik een recente versie van Microsoft Edge,<br>Google Chrome, Mozilla Firefox, Apple Safari of Opera."
+  "changeDateTime": "2019-12-07T16:33:09.498031",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "id": "#LoginWindow.LoginWindowIEWarning",
+  "originalValue": "Internet Explorer wordt <b>niet</b> geadviseerd voor deze website.<br>Gebruik een recente versie van Microsoft Edge,<br>Google Chrome, Mozilla Firefox, Apple Safari of Opera.",
+  "value": "Internet Explorer wordt <b>niet</b> geadviseerd voor deze website.<br>Gebruik een recente versie van Microsoft Edge,<br>Google Chrome, Mozilla Firefox, Apple Safari of Opera.",
+  "valueAsOriginal": "Y"
  },
  "#LoginWindow.LoginWindowLoginButton": {
   "value": "\n                    Login\n                "
@@ -2231,6 +2241,20 @@
   "value": "Nog geen tests toegevoegd",
   "valueAsOriginal": "N"
  },
+ "AdminInterfaceGroupSessionTestsSelectionCA0": {
+  "changeDateTime": "2019-11-09T10:27:56.131225",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "EPPSNL2007",
+  "value": "EPPSNL2007",
+  "valueAsOriginal": "Y"
+ },
+ "AdminInterfaceGroupSessionTestsSelectionCB0": {
+  "changeDateTime": "2019-11-09T10:27:56.248948",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Nederlands",
+  "value": "Nederlands",
+  "valueAsOriginal": "Y"
+ },
  "AdminInterfaceGroupSessionTestsSelectionH1": {
   "originalValue": "Test name",
   "value": "Test naam",
@@ -2678,9 +2702,12 @@
   "valueAsOriginal": "N"
  },
  "AdminInterfaceTestTemplateEditorTranslateScreenButton": {
-  "originalValue": "\n                            <i class=\"fa fa-fw fa-language\"></i> Translate screen\n                    ",
-  "value": "\n                            <i class=\"fa fa-fw fa-language\"></i>Vertaal Screen",
-  "valueAsOriginal": "N"
+  "changeDateTime": "2019-11-03T15:28:53.314033",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "id": "AdminInterfaceTestTemplateEditorTranslateScreenButton",
+  "originalValue": "                            <i class=\"fa fa-fw fa-language\"></i>Vertaal scherm",
+  "value": "                            <i class=\"fa fa-fw fa-language\"></i>Vertaal scherm",
+  "valueAsOriginal": "Y"
  },
  "AdminInterfaceTestTemplateEditorTranslateTranslateNowButton": {
   "originalValue": "Start translation",
@@ -2688,9 +2715,12 @@
   "valueAsOriginal": "N"
  },
  "BatteryChangeEditor.BatteryText": {
-  "originalValue": "Battery : ",
-  "value": "Batterij: ",
-  "valueAsOriginal": "N"
+  "changeDateTime": "2019-11-03T13:50:27.747762",
+  "changedBy": "41dd9cd0-b60f-4fdc-ae49-6120f2efbcbc (fd8e10e3-f759-48bb-60b7-5de624f51bc3)",
+  "id": "BatteryChangeEditor.BatteryText",
+  "originalValue": "Batterij : ",
+  "value": "Batterij : ",
+  "valueAsOriginal": "Y"
  },
  "BatteryChangeEditor.NoTestsYet": {
   "originalValue": "No tests added yet",
@@ -2813,9 +2843,12 @@
   "valueAsOriginal": "N"
  },
  "ConsultantEditorEditAccordionLabel": {
-  "originalValue": "External API key (DO NOT SHARE OR SHOW TO ANYONE!)",
-  "value": "Externe API-sleutel (niet te delen of te laten zien aan iedereen!)",
-  "valueAsOriginal": "N"
+  "changeDateTime": "2019-11-08T10:06:54.498701",
+  "changedBy": "0f57a1d5-3345-43e8-9e58-4681ea5f69ce (26710ef7-76a9-49e6-26f5-e001f0befeac)",
+  "id": "ConsultantEditorEditAccordionLabel",
+  "originalValue": "Externe API-sleutel (geheime informatie! Niet verspreiden of aan anderen laten zien)",
+  "value": "Externe API-sleutel (geheime informatie! Niet verspreiden of aan anderen laten zien)",
+  "valueAsOriginal": "Y"
  },
  "ConsultantEditorEditButtonBar_GenerateAPIKeyLabel": {
   "originalValue": "Generate (new) API key",
@@ -3097,6 +3130,41 @@
   "value": "Grant credits nu",
   "valueAsOriginal": "N"
  },
+ "GroupSessionEditor.BatteryText": {
+  "changeDateTime": "2019-11-08T16:52:43.472615",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Battery : ",
+  "value": "Batterij:",
+  "valueAsOriginal": "N"
+ },
+ "GroupSessionEditor.DatesInvalid": {
+  "changeDateTime": "2019-11-08T16:53:42.051515",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Please check the date fields in the session validity fields. The values are no valid dates.",
+  "value": "Controleer de datumvelden in de geldigheids velden van de sessie. De waarden zijn geen geldige datums.",
+  "valueAsOriginal": "N"
+ },
+ "GroupSessionEditor.NoNewTestsYet": {
+  "changeDateTime": "2019-11-08T16:52:43.640285",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "No new tests added yet",
+  "value": "Nog geen nieuwe tests toegevoegd",
+  "valueAsOriginal": "N"
+ },
+ "GroupSessionEditor.SelectATest": {
+  "changeDateTime": "2019-11-08T16:52:43.348386",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Select a test to add to the session",
+  "value": "Selecteer een test die u aan de sessie wilt toevoegen",
+  "valueAsOriginal": "N"
+ },
+ "GroupSessionListerController.SessionStatusCommon": {
+  "changeDateTime": "2019-11-08T16:52:42.168556",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "available in the system",
+  "value": "beschikbaar in het systeem",
+  "valueAsOriginal": "N"
+ },
  "GroupSessionListerInterfaceEditSessionEditHeader": {
   "originalValue": "Session overview for group sessions that are",
   "value": "Sessie overzicht voor groepssessies die worden",
@@ -3133,6 +3201,20 @@
   "value": "Beschrijving",
   "valueAsOriginal": "N"
  },
+ "ITSCandidate.Mr": {
+  "changeDateTime": "2019-11-08T11:19:56.846364",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Mr",
+  "value": "Heer",
+  "valueAsOriginal": "N"
+ },
+ "ITSCandidate.Mrs": {
+  "changeDateTime": "2019-12-03T15:43:09.479467",
+  "changedBy": "6d6f92e1-37ca-483b-a533-8e280722e33e (ab5227db-3646-4b08-28d3-2700f4b60224)",
+  "originalValue": "Mrs",
+  "value": "Mevrouw",
+  "valueAsOriginal": "N"
+ },
  "ITSCreditsOrderByMailEditor.CreditMailBody": {
   "originalValue": "Order for {0}.000 credit units, ordered by {1} for organisation {2} with id {3}.",
   "value": "Order voor {0} .000 credit eenheden, gerangschikt door {1} voor organisatie {2} met id {3}.",
@@ -3154,9 +3236,12 @@
   "valueAsOriginal": "N"
  },
  "ITSCreditsUsedListerEditor_TotalTicks": {
-  "originalValue": "Ticks used",
-  "value": "Teken gebruikt",
-  "valueAsOriginal": "N"
+  "changeDateTime": "2019-11-29T19:38:50.274715",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "id": "ITSCreditsUsedListerEditor_TotalTicks",
+  "originalValue": "Eenheden gebruikt",
+  "value": "Eenheden gebruikt",
+  "valueAsOriginal": "Y"
  },
  "ITSCreditsUsedListerEditor_UsageDateTime": {
   "originalValue": "Usage date and time",
@@ -3186,6 +3271,48 @@
  "ITSGrantCreditsEditor_DescriptionWhen": {
   "originalValue": "Date/Time",
   "value": "Datum/tijd",
+  "valueAsOriginal": "N"
+ },
+ "ITSGroupSessionListerEditor_AllowedEndDateTimeHeader": {
+  "changeDateTime": "2019-11-08T16:52:43.168939",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Allowed end date &amp; time",
+  "value": "Toegestane einddatum &amp; tijd",
+  "valueAsOriginal": "N"
+ },
+ "ITSGroupSessionListerEditor_AllowedStartDateTimeHeader": {
+  "changeDateTime": "2019-11-08T16:52:43.024235",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Allowed start date &amp; time",
+  "value": "Toegestane begindatum &amp; tijd",
+  "valueAsOriginal": "N"
+ },
+ "ITSGroupSessionListerEditor_DescriptionHeader": {
+  "changeDateTime": "2019-11-08T16:52:42.308051",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Session description",
+  "value": "Sessie beschrijving",
+  "valueAsOriginal": "N"
+ },
+ "ITSGroupSessionListerEditor_EndedHeader": {
+  "changeDateTime": "2019-11-08T16:52:42.831417",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "# done sessions",
+  "value": "# done sessies",
+  "valueAsOriginal": "N"
+ },
+ "ITSGroupSessionListerEditor_ReadyHeader": {
+  "changeDateTime": "2019-11-08T16:52:42.496009",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "# ready sessions",
+  "value": "# Ready sessies",
+  "valueAsOriginal": "N"
+ },
+ "ITSGroupSessionListerEditor_StartedHeader": {
+  "changeDateTime": "2019-11-08T16:52:42.689609",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "# started sessions",
+  "value": "# gestarte sessies",
   "valueAsOriginal": "N"
  },
  "ITSHelpers.js.saveFileLocally.FileNameToSave": {
@@ -3269,6 +3396,35 @@
  "ITSTest.js.ScaleScoreScript": {
   "originalValue": "/* please see manual for instructions before using complex scripting */",
   "value": "/* Raadpleeg de handleiding voor instructies voor het gebruik van complexe scripting */",
+  "valueAsOriginal": "N"
+ },
+ "ITSTokenListerEditor_CompanyNameHeader": {
+  "changeDateTime": "2019-12-08T15:13:52.791648",
+  "changedBy": "756c44da-8250-4c9e-a5b5-63cf54b9fab5 (b6a3c9ac-3e32-4612-9089-9052753d3557)",
+  "originalValue": "Company",
+  "value": "Bedrijf",
+  "valueAsOriginal": "N"
+ },
+ "ITSTokenListerEditor_IsTestTakingUserHeader": {
+  "changeDateTime": "2019-12-08T15:14:16.679182",
+  "changedBy": "756c44da-8250-4c9e-a5b5-63cf54b9fab5 (b6a3c9ac-3e32-4612-9089-9052753d3557)",
+  "id": "ITSTokenListerEditor_IsTestTakingUserHeader",
+  "originalValue": "Test afname gebruiker",
+  "value": "Test afname gebruiker",
+  "valueAsOriginal": "Y"
+ },
+ "ITSTokenListerEditor_TokenValidatedHeader": {
+  "changeDateTime": "2019-12-08T15:13:53.093815",
+  "changedBy": "756c44da-8250-4c9e-a5b5-63cf54b9fab5 (b6a3c9ac-3e32-4612-9089-9052753d3557)",
+  "originalValue": "Last validation date and time",
+  "value": "Datum en tijd laatste validatie",
+  "valueAsOriginal": "N"
+ },
+ "ITSTokenListerEditor_UserNameHeader": {
+  "changeDateTime": "2019-12-08T15:13:52.941241",
+  "changedBy": "756c44da-8250-4c9e-a5b5-63cf54b9fab5 (b6a3c9ac-3e32-4612-9089-9052753d3557)",
+  "originalValue": "Name",
+  "value": "Naam",
   "valueAsOriginal": "N"
  },
  "ITSTranslate.af": {
@@ -3636,6 +3792,27 @@
   "value": "Andere",
   "valueAsOriginal": "N"
  },
+ "MailTemplateEditorTemplateType-OC": {
+  "changeDateTime": "2019-11-09T10:24:54.566600",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Other password reset mail for consultant",
+  "value": "Andere password reset mail voor consulent",
+  "valueAsOriginal": "N"
+ },
+ "MailTemplateEditorTemplateType-OI": {
+  "changeDateTime": "2019-11-09T10:24:54.194864",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Other session invitation mail",
+  "value": "Andere sessie uitnodiging mail",
+  "valueAsOriginal": "N"
+ },
+ "MailTemplateEditorTemplateType-OS": {
+  "changeDateTime": "2019-11-09T10:24:54.409690",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Other password reset mail for candidate",
+  "value": "Ander wachtwoord opnieuw instellen van e-mail voor kandidaat",
+  "valueAsOriginal": "N"
+ },
  "MailTemplateEditorTemplateType-PC": {
   "originalValue": "Password reset mail for consultant",
   "value": "Password reset mail voor consultant",
@@ -3676,6 +3853,13 @@
   "value": "Bruikbare velden",
   "valueAsOriginal": "N"
  },
+ "NavBarActiveSessionsMenuLabel": {
+  "changeDateTime": "2019-11-29T19:30:17.343530",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "There are {0} active sessions",
+  "value": "Er zijn {0} actieve sessies",
+  "valueAsOriginal": "N"
+ },
  "NavbarsAdminLogoutButtonTT": {
   "originalValue": "Logout\n        ",
   "value": "Logout",
@@ -3685,6 +3869,12 @@
   "originalValue": "Welcome",
   "value": "Welkom",
   "valueAsOriginal": "N"
+ },
+ "PasswordResetMail.Body": {
+  "value": "U hebt een wachtwoordherstel aangevraagd. Deze link is 5 minuten geldig. Kopieer & Plak de volgende link in uw browservenster om uw wachtwoord te resetten:"
+ },
+ "PasswordResetMail.Subject": {
+  "value": "E-mail met wachtwoord opnieuw instellen"
  },
  "PersonInterfaceEditButtonBar_ViewPasswordButtonLabel": {
   "originalValue": "View password",
@@ -3956,6 +4146,21 @@
   "value": "E-mail nu verzenden",
   "valueAsOriginal": "N"
  },
+ "SessionMailerInterfaceShowGroupWarningBadge": {
+  "changeDateTime": "2019-11-09T10:27:54.853617",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "id": "SessionMailerInterfaceShowGroupWarningBadge",
+  "originalValue": "Let op: U selecteert de e-mail template die zal worden gebruikt om e-mails naar uw groep te sturen. U ziet geen kandidaatgegevens in het onderstaande voorbeeld. U kunt de sjabloontekst wijzigen indien gewenst.",
+  "value": "Let op: U selecteert de e-mail template die zal worden gebruikt om e-mails naar uw groep te sturen. U ziet geen kandidaatgegevens in het onderstaande voorbeeld. U kunt de sjabloontekst wijzigen indien gewenst.",
+  "valueAsOriginal": "Y"
+ },
+ "SessionMailerInterfaceTemplateIncludeOtherLanguagesLabel": {
+  "changeDateTime": "2019-11-09T10:16:54.008134",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Include templates in other languages",
+  "value": "Sjablonen in andere talen opnemen",
+  "valueAsOriginal": "N"
+ },
  "SessionMailerInterfaceTemplateSelectLabel": {
   "changeDateTime": "2019-11-01T15:32:23.294927",
   "changedBy": "d35dd8e8-e8c1-4ce5-72bb-cecb9421bbeb (b4ae6acc-56e6-4027-eb33-60ba617f013d)",
@@ -3995,6 +4200,20 @@
   "originalValue": "ScreenComponent",
   "value": "ScreenComponent",
   "valueAsOriginal": "Y"
+ },
+ "TokenListerInterfaceEditTokenEditHeader": {
+  "changeDateTime": "2019-12-08T15:13:52.299361",
+  "changedBy": "756c44da-8250-4c9e-a5b5-63cf54b9fab5 (b6a3c9ac-3e32-4612-9089-9052753d3557)",
+  "originalValue": "Overview of active users",
+  "value": "Overzicht van actieve gebruikers",
+  "valueAsOriginal": "N"
+ },
+ "TokenListerInterfaceEditTokenEditWarning": {
+  "changeDateTime": "2019-12-08T15:13:52.648454",
+  "changedBy": "756c44da-8250-4c9e-a5b5-63cf54b9fab5 (b6a3c9ac-3e32-4612-9089-9052753d3557)",
+  "originalValue": "Please note that users will be removed after 10 minutes after the end of the ITR session.",
+  "value": "Houd er rekening mee dat gebruikers na 10 minuten na afloop van de ITR-sessie worden verwijderd.",
+  "valueAsOriginal": "N"
  },
  "TranslationEditorInterfaceEditHeader": {
   "originalValue": "Edit translations",
@@ -4085,6 +4304,34 @@
   "value": "Nee",
   "valueAsOriginal": "Y"
  },
+ "dialogMessages.ITSGroupSessionEditor.SaveBeforeMail": {
+  "changeDateTime": "2019-11-08T16:53:41.871235",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Would you like to save your group session before sending mails?",
+  "value": "Wil je je groepssessie opslaan voordat je mails verstuurt?",
+  "valueAsOriginal": "N"
+ },
+ "dialogMessages.ITSGroupSessionEditor.SaveBeforeMail_0": {
+  "changeDateTime": "2019-11-08T16:53:41.355401",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "No",
+  "value": "No",
+  "valueAsOriginal": "Y"
+ },
+ "dialogMessages.ITSGroupSessionEditor.SaveBeforeMail_1": {
+  "changeDateTime": "2019-11-08T16:53:41.518140",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Yes",
+  "value": "Ja",
+  "valueAsOriginal": "N"
+ },
+ "dialogMessages.ITSGroupSessionEditor.SaveBeforeMail_2": {
+  "changeDateTime": "2019-11-08T16:53:41.684602",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Cancel",
+  "value": "Annuleren",
+  "valueAsOriginal": "N"
+ },
  "dialogMessages.ITSReportTemplateEditor": {
   "originalValue": "You have not saved your changes. Would you like to save now?",
   "value": "U hebt uw wijzigingen niet opgeslagen. Wilt u nu opslaan?",
@@ -4101,6 +4348,20 @@
   "value": "Ja",
   "valueAsOriginal": "N"
  },
+ "dialogMessages.ITSScreenTemplateEditorCopyTemplate": {
+  "changeDateTime": "2019-11-05T14:24:14.136083",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "The template has been copied and can now be edited. It will not be stored until you choose to save it.",
+  "value": "De sjabloon is gekopieerd en kan nu worden bewerkt. Het wordt niet opgeslagen totdat u ervoor kiest om het op te slaan.",
+  "valueAsOriginal": "N"
+ },
+ "dialogMessages.ITSScreenTemplateEditorCopyTemplate_0": {
+  "changeDateTime": "2019-11-05T14:24:13.909746",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "OK",
+  "value": "OK",
+  "valueAsOriginal": "Y"
+ },
  "dialogMessages.ITSScreenTemplateEditorTemplateLoadError": {
   "originalValue": "The template could not be loaded. Please return to the template overview screen and try to load the details again.",
   "value": "De sjabloon kan niet worden geladen. Ga terug naar het template overzicht scherm en probeer de details opnieuw te laden.",
@@ -4115,6 +4376,27 @@
   "originalValue": "Are you sure you want to delete this test? If this is the only test in this session then the session will be deleted as well.",
   "value": "Weet u zeker dat u deze test wilt verwijderen? Als dit de enige test in deze sessie dan de sessie zal ook worden geschrapt.",
   "valueAsOriginal": "N"
+ },
+ "dialogMessages.ITSSessionEditor.DeleteSession": {
+  "changeDateTime": "2019-11-03T14:48:55.727784",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Are you sure you want to delete this session?",
+  "value": "Weet u zeker dat u deze sessie wilt verwijderen?",
+  "valueAsOriginal": "N"
+ },
+ "dialogMessages.ITSSessionEditor.DeleteSession_0": {
+  "changeDateTime": "2019-11-03T14:48:55.393371",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Yes",
+  "value": "Ja",
+  "valueAsOriginal": "N"
+ },
+ "dialogMessages.ITSSessionEditor.DeleteSession_1": {
+  "changeDateTime": "2019-11-03T14:48:55.571941",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "No",
+  "value": "No",
+  "valueAsOriginal": "Y"
  },
  "dialogMessages.ITSSessionEditor.DeleteTest": {
   "originalValue": "Are you sure you want to delete this test? If this is the only test in this session then the session will be deleted as well.",
@@ -4232,9 +4514,12 @@
   "valueAsOriginal": "N"
  },
  "errorMessages.ITSResetPasswordEditor.PasswordTooShort": {
-  "originalValue": "The password could not be changed. The old password is not correct. Please retry.",
-  "value": "Het wachtwoord kan niet worden gewijzigd. Het oude wachtwoord is niet correct. Probeer het opnieuw.",
-  "valueAsOriginal": "N"
+  "changeDateTime": "2019-11-08T11:13:58.449840",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "id": "errorMessages.ITSResetPasswordEditor.PasswordTooShort",
+  "originalValue": "Het wachtwoord kan niet worden gewijzigd. Het nieuwe wachtwoord moet minimaal 10 karakters lang zijn, hoofd- en kleine letters bevatten, minimaal \u00e9\u00e9n getal en minimaal \u00e9\u00e9n speciaal teken zoals een uitroepteken. Probeer het opnieuw.",
+  "value": "Het wachtwoord kan niet worden gewijzigd. Het nieuwe wachtwoord moet minimaal 10 karakters lang zijn, hoofd- en kleine letters bevatten, minimaal \u00e9\u00e9n getal en minimaal \u00e9\u00e9n speciaal teken zoals een uitroepteken. Probeer het opnieuw.",
+  "valueAsOriginal": "Y"
  },
  "errorMessages.ITSSessionEditor.NoEditTest": {
   "changeDateTime": "2019-10-25T11:06:53.322080",
@@ -4257,6 +4542,13 @@
   "value": "U heeft geen kredieteenheden meer. Bestel nieuwe kredieteenheden.",
   "valueAsOriginal": "Y"
  },
+ "errorMessages.SessionEditor": {
+  "changeDateTime": "2019-11-03T14:48:55.892182",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "SessionLoadingFailed",
+  "value": "SessionLoadingFailed",
+  "valueAsOriginal": "Y"
+ },
  "infoMessages.Button": {
   "value": "Sluiten"
  },
@@ -4274,6 +4566,13 @@
  "infoMessages.ITSGrantCreditsEditor.SaveOK": {
   "originalValue": "The credits have been granted.",
   "value": "De kredieten zijn toegekend.",
+  "valueAsOriginal": "N"
+ },
+ "infoMessages.ITSPersonEditorShowPassword": {
+  "changeDateTime": "2019-11-09T10:24:54.739529",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "The password of this user is : ",
+  "value": "Het wachtwoord van deze gebruiker is:",
   "valueAsOriginal": "N"
  },
  "infoMessages.ITSReportTemplateLocalPublisherLister.SaveTemplateOK": {
@@ -4318,10 +4617,31 @@
   "value": "Het test sjabloon is met succes gepubliceerd.",
   "valueAsOriginal": "Y"
  },
+ "infoMessages.SessionViewReports.NoReports": {
+  "changeDateTime": "2019-11-03T15:05:00.477690",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "There are no reports to show for this test.",
+  "value": "Er zijn geen rapporten om te laten zien voor deze test.",
+  "valueAsOriginal": "N"
+ },
  "js.MasterTag": {
   "originalValue": "[centrally managed]",
   "value": "[centraal beheerd]",
   "valueAsOriginal": "N"
+ },
+ "raGhg_1": {
+  "changeDateTime": "2019-11-09T10:27:55.844707",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "<span>testbart@quopt.com</span><a href=\"#\" class=\"tm-tag-remove\" id=\"raGhg_Remover_1\" tagidtoremove=\"1\">x</a>",
+  "value": "<span>testbart@quopt.com</span><a href=\"#\" class=\"tm-tag-remove\" id=\"raGhg_Remover_1\" tagidtoremove=\"1\">x</a>",
+  "valueAsOriginal": "Y"
+ },
+ "raGhg_2": {
+  "changeDateTime": "2019-11-09T10:27:55.997887",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "<span>testbart2@quopt.com</span><a href=\"#\" class=\"tm-tag-remove\" id=\"raGhg_Remover_2\" tagidtoremove=\"2\">x</a>",
+  "value": "<span>testbart2@quopt.com</span><a href=\"#\" class=\"tm-tag-remove\" id=\"raGhg_Remover_2\" tagidtoremove=\"2\">x</a>",
+  "valueAsOriginal": "Y"
  },
  "warningMessages.Button": {
   "value": "Sluiten"
