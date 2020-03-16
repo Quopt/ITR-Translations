@@ -19,14 +19,49 @@
   "value": "Testdefinitionen bearbeiten",
   "valueAsOriginal": "N"
  },
+ "#BatteryListerController.ListMenu": {
+  "originalValue": "Edit test batteries",
+  "value": "Testbatterien bearbeiten",
+  "valueAsOriginal": "N"
+ },
  "#ConsultantListerController.ConsultantsMenu": {
   "originalValue": "Manage consultants",
   "value": "Berater verwalten",
   "valueAsOriginal": "N"
  },
+ "#CustomerSettingsController.Menu": {
+  "originalValue": "Customer settings",
+  "value": "Kundeneinstellungen",
+  "valueAsOriginal": "N"
+ },
+ "#GroupSessionListerController.GroupSessionArchivedMenu": {
+  "originalValue": "Group sessions archive",
+  "value": "Gruppensitzungsarchiv",
+  "valueAsOriginal": "N"
+ },
+ "#GroupSessionListerController.GroupSessionReadyMenu": {
+  "originalValue": "Group sessions",
+  "value": "Gruppensitzungen",
+  "valueAsOriginal": "N"
+ },
  "#ITSResetPasswordEditor.Menu": {
   "originalValue": "Reset password",
   "value": "Passwort zur\u00fccksetzen",
+  "valueAsOriginal": "N"
+ },
+ "#MailTemplateEditorController.MyMailTemplatesMenu": {
+  "originalValue": "My e-mail templates",
+  "value": "Meine E-Mail-Vorlagen",
+  "valueAsOriginal": "N"
+ },
+ "#MailTemplateEditorController.OrganisationMailTemplatesMenu": {
+  "originalValue": "Manage e-mail templates",
+  "value": "Verwalten von E-Mail-Vorlagen",
+  "valueAsOriginal": "N"
+ },
+ "#MailTemplateEditorController.ServerMailTemplatesMenu": {
+  "originalValue": "Manage server e-mail templates",
+  "value": "Verwalten von Server-E-Mail-Vorlagen",
   "valueAsOriginal": "N"
  },
  "#OrganisationListerController.OrganisationsMenu": {
@@ -99,6 +134,156 @@
   "value": "Passwort \u00e4ndern",
   "valueAsOriginal": "N"
  },
+ "AdminInterfaceChangeSessionCandidateBirthDateLabel": {
+  "originalValue": "Birthdate",
+  "value": "geburtsdatum",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceChangeSessionCandidateFirstNameLabel": {
+  "originalValue": "First name",
+  "value": "vorname",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceChangeSessionCandidateFor": {
+  "originalValue": "Enter the e-mail address or login of the candidate",
+  "value": "Geben Sie die E-Mail-Adresse oder das Login des Kandidaten ein",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceChangeSessionCandidateForLabel": {
+  "originalValue": "Candidate\n                e-mail address or login",
+  "value": "kandidat\n                E-Mail-Adresse oder Login",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceChangeSessionCandidateInitialsLabel": {
+  "originalValue": "Initials",
+  "value": "Initialen",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceChangeSessionCandidateLastNameLabel": {
+  "originalValue": "Last name",
+  "value": "Nachname",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceChangeSessionCandidatePasswordLabel": {
+  "originalValue": "Please enter a password.",
+  "value": "Geben Sie ein Kennwort ein.",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceChangeSessionCandidateSexFemaleLabel": {
+  "originalValue": "Female",
+  "value": "Weiblich",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceChangeSessionCandidateSexLabel": {
+  "originalValue": "Sex",
+  "value": "Sex",
+  "valueAsOriginal": "Y"
+ },
+ "AdminInterfaceChangeSessionCandidateSexMaleLabel": {
+  "originalValue": "Male",
+  "value": "M\u00e4nnlich",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceChangeSessionCandidateSexUnknownLabel": {
+  "originalValue": "Unknown or gender neutral",
+  "value": "Unbekannt oder geschlechtsneutral",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceChangeSessionDescriptionFor": {
+  "originalValue": "Enter a session description",
+  "value": "Geben Sie eine Sitzungsbeschreibung ein",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceChangeSessionDescriptionLabel": {
+  "originalValue": "Session\n                description",
+  "value": "sitzung\n                beschreibung",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceChangeSessionDescriptionTT": {
+  "originalValue": "Please enter a session description.",
+  "value": "Geben Sie eine Sitzungsbeschreibung ein.",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceChangeSessionEndDateEnforcedLabel": {
+  "originalValue": "Stop the session when still in progress at this date and time",
+  "value": "Beenden der Sitzung, wenn zu diesem Datum und zu dieser Uhrzeit noch ausgef\u00fchrt wird",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceChangeSessionEndDateLabel": {
+  "originalValue": "Session cannot start <b>after</b> this date &amp; time",
+  "value": "Sitzung kann <b>nach</b> diesem Datum und dieser Uhrzeit nicht beginnen",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceChangeSessionHeader": {
+  "originalValue": "Change candidate session",
+  "value": "\u00c4nderung der Kandidatensitzung",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceChangeSessionSaveButtonLabel": {
+  "originalValue": "Save session",
+  "value": "Sitzung speichern",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceChangeSessionStartButtonLabel": {
+  "originalValue": "Reset password and start session now",
+  "value": "Passwort zur\u00fccksetzen und Sitzung jetzt starten",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceChangeSessionStartDateLabel": {
+  "originalValue": "Session cannot start <b>before</b> this date &amp; time",
+  "value": "Sitzung kann nicht <b>vor</b> diesem Datum und dieser Uhrzeit beginnen",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceChangeSessionTestsIncludeOtherLanguagesLabel": {
+  "originalValue": "Include tests in other languages",
+  "value": "Einschlie\u00dfen von Tests in anderen Sprachen",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceChangeSessionTestsInputListLabel": {
+  "originalValue": "Tests in this session",
+  "value": "Tests in dieser Sitzung",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceChangeSessionTestsSelectionC1": {
+  "originalValue": "No tests added yet",
+  "value": "Noch keine Tests hinzugef\u00fcgt",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceChangeSessionTestsSelectionH1": {
+  "originalValue": "Test name",
+  "value": "Testname",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceChangeSessionTestsSelectionH2": {
+  "originalValue": "Test language",
+  "value": "Testsprache",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceChangeSessionTestsSelectionH3": {
+  "originalValue": "Norm 1",
+  "value": "Norm 1",
+  "valueAsOriginal": "Y"
+ },
+ "AdminInterfaceChangeSessionTestsSelectionH4": {
+  "originalValue": "Norm 2",
+  "value": "Norm 2",
+  "valueAsOriginal": "Y"
+ },
+ "AdminInterfaceChangeSessionTestsSelectionH5": {
+  "originalValue": "Norm 3",
+  "value": "Norm 3",
+  "valueAsOriginal": "Y"
+ },
+ "AdminInterfaceChangeSessionTestsSelectionH6": {
+  "originalValue": "Actions",
+  "value": "Aktionen",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceChangeSessionWarningExistsLabel": {
+  "originalValue": "Please note : The candidate you have selected is already known. The session will be added as usual, the password and other data of the candidate will be updated. ",
+  "value": "Bitte beachten Sie: Der von Ihnen gew\u00e4hlte Kandidat ist bereits bekannt. Die Sitzung wird wie gewohnt hinzugef\u00fcgt, das Passwort und andere Daten des Kandidaten werden aktualisiert.",
+  "valueAsOriginal": "N"
+ },
  "AdminInterfaceCompanyHailingHeading": {
   "originalValue": "Welcome to&nbsp;",
   "value": "Willkommen in &nbsp;",
@@ -129,6 +314,11 @@
   "value": "Nutzung anzeigen",
   "valueAsOriginal": "N"
  },
+ "AdminInterfaceEditSessionChangeLabel": {
+  "originalValue": "Change session",
+  "value": "\u00c4nderungssitzung",
+  "valueAsOriginal": "N"
+ },
  "AdminInterfaceEditSessionEditAddTestLabel": {
   "originalValue": "Add another test",
   "value": "weiteren Test hinzuf\u00fcgen",
@@ -139,9 +329,19 @@
   "value": "Diese Sitzung nicht archivieren",
   "valueAsOriginal": "N"
  },
+ "AdminInterfaceEditSessionEditCheckAnswers": {
+  "originalValue": "Check answers",
+  "value": "Antworten \u00fcberpr\u00fcfen",
+  "valueAsOriginal": "N"
+ },
  "AdminInterfaceEditSessionEditDelete": {
   "originalValue": "Delete this session",
   "value": "Diese Sitzung l\u00f6schen",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceEditSessionEditDeleteTest": {
+  "originalValue": "Delete test",
+  "value": "L\u00f6schtest",
   "valueAsOriginal": "N"
  },
  "AdminInterfaceEditSessionEditHeader": {
@@ -149,14 +349,289 @@
   "value": "Kandidatensitzung",
   "valueAsOriginal": "N"
  },
+ "AdminInterfaceEditSessionEditReportTest": {
+  "originalValue": "Test reports",
+  "value": "Testberichte",
+  "valueAsOriginal": "N"
+ },
  "AdminInterfaceEditSessionEditResendInvitationIcon": {
   "originalValue": "Reset password and resend test invitation",
   "value": "Passwort zur\u00fccksetzen und Testeinladung zur\u00fccksenden",
   "valueAsOriginal": "N"
  },
+ "AdminInterfaceEditSessionEditResendInvitationIconNoReset": {
+  "originalValue": "Resend invitation",
+  "value": "Einladung erneut senden",
+  "valueAsOriginal": "N"
+ },
  "AdminInterfaceEditSessionEditStartNowIcon": {
   "originalValue": "Reset password and start now",
   "value": "Passwort zur\u00fccksetzen und jetzt starten",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceEditSessionEditTestScores": {
+  "originalValue": "Test scores",
+  "value": "Testergebnisse",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceEditSessionEditViewResults": {
+  "originalValue": "View answers",
+  "value": "Antworten anzeigen",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionAccordionLabel": {
+  "originalValue": "Session validity",
+  "value": "Sitzungsg\u00fcltigkeit",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionArchive": {
+  "originalValue": "Archive this session",
+  "value": "Diese Sitzung archivieren",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionArchive-Alllabel": {
+  "originalValue": "\n                            Archive this group session and all related person sessions\n                        ",
+  "value": "Archivieren dieser Gruppensitzung und aller zugeh\u00f6rigen Personensitzungen",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionArchive-CloseButton": {
+  "originalValue": "Close",
+  "value": "schlie\u00dfen",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionArchive-OnlyThislabel": {
+  "originalValue": "\n                            Archive only this group sessions\n                        ",
+  "value": "Nur diese Gruppensitzungen archivieren",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionArchive-Unstartedlabel": {
+  "originalValue": "\n                            Archive this group session and all related UNSTARTED person sessions\n                        ",
+  "value": "Archivieren dieser Gruppensitzung und aller zugeh\u00f6rigen UNSTARTED-Personensitzungen",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionArchive-buttonlabel": {
+  "originalValue": "Archive group sessions",
+  "value": "Archivgruppensitzungen",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionArchiveLabel": {
+  "originalValue": "What do you want to archive?",
+  "value": "Was m\u00f6chten Sie archivieren?",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionCandidateFor": {
+  "originalValue": "Enter the e-mail addresses or logins of the candidates in this group",
+  "value": "Geben Sie die E-Mail-Adressen oder Logins der Kandidaten in dieser Gruppe ein.",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionCandidateForLabel": {
+  "originalValue": "Candidate\n                e-mail addresses or logins",
+  "value": "kandidat\n                E-Mail-Adressen oder Logins",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionDelete": {
+  "originalValue": "Delete this session",
+  "value": "Diese Sitzung l\u00f6schen",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionDelete-Alllabel": {
+  "originalValue": "\n                            Delete this group session and all related person sessions\n                        ",
+  "value": "L\u00f6schen dieser Gruppensitzung und aller zugeh\u00f6rigen Personensitzungen",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionDelete-CloseButton": {
+  "originalValue": "Close",
+  "value": "schlie\u00dfen",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionDelete-OnlyThislabel": {
+  "originalValue": "\n                            Delete only this group sessions\n                        ",
+  "value": "Nur diese Gruppensitzungen l\u00f6schen",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionDelete-Unstartedlabel": {
+  "originalValue": "\n                            Delete this group session and all related UNSTARTED person sessions\n                        ",
+  "value": "L\u00f6schen dieser Gruppensitzung und aller zugeh\u00f6rigen UNSTARTED-Personensitzungen",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionDelete-buttonlabel": {
+  "originalValue": "Delete group sessions",
+  "value": "Gruppensitzungen l\u00f6schen",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionDeleteLabel": {
+  "originalValue": "What do you want to delete?",
+  "value": "Was m\u00f6chten Sie l\u00f6schen?",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionDescriptionFor": {
+  "originalValue": "Enter a session description",
+  "value": "Geben Sie eine Sitzungsbeschreibung ein",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionDescriptionLabel": {
+  "originalValue": "Group session\n                description",
+  "value": "Gruppensitzung\n                beschreibung",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionDescriptionTT": {
+  "originalValue": "Please enter a description for this group session.",
+  "value": "Geben Sie eine Beschreibung f\u00fcr diese Gruppensitzung ein.",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionEndDateEnforcedLabel": {
+  "originalValue": "Stop the session when still in progress at this date and time",
+  "value": "Beenden der Sitzung, wenn zu diesem Datum und zu dieser Uhrzeit noch ausgef\u00fchrt wird",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionEndDateLabel": {
+  "originalValue": "Session cannot start <b>after</b> this date &amp; time",
+  "value": "Sitzung kann <b>nach</b> diesem Datum und dieser Uhrzeit nicht beginnen",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionHeader": {
+  "originalValue": "Create or change group session",
+  "value": "Erstellen oder \u00c4ndern einer Gruppensitzung",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionInviteButton-Label": {
+  "originalValue": "Send e-mail invitations",
+  "value": "Senden von E-Mail-Einladungen",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionLoginOverview-CloseButton": {
+  "originalValue": "Close",
+  "value": "schlie\u00dfen",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionLoginOverviewLabel": {
+  "originalValue": "User id and password overview for this group session",
+  "value": "Benutzer-ID- und Kennwort\u00fcbersicht f\u00fcr diese Gruppensitzung",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionMailMeLabel": {
+  "originalValue": "Mail me when this session completes at",
+  "value": "Mailen Sie mir, wenn diese Sitzung abgeschlossen ist,",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionNotificationLabel": {
+  "originalValue": "Session notification settings",
+  "value": "Sitzungsbenachrichtigungseinstellungen",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionOverviewButton-Label": {
+  "originalValue": "Show user id and password overview",
+  "value": "Benutzer-ID und Kennwort\u00fcbersicht anzeigen",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionRemarksLabel": {
+  "originalValue": "Remarks",
+  "value": "Bemerkungen",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionSaveButtonLabel": {
+  "originalValue": "Save session",
+  "value": "Sitzung speichern",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionShowRelatedButton": {
+  "originalValue": "Show related person sessions",
+  "value": "Anzeigen verwandter Personensitzungen",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionStartDateLabel": {
+  "originalValue": "Session cannot start <b>before</b> this date &amp; time",
+  "value": "Sitzung kann nicht <b>vor</b> diesem Datum und dieser Uhrzeit beginnen",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionTestsIncludeOtherLanguagesLabel": {
+  "originalValue": "Include tests in other languages",
+  "value": "Einschlie\u00dfen von Tests in anderen Sprachen",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionTestsInputListLabel": {
+  "originalValue": "Tests in these group sessions",
+  "value": "Tests in diesen Gruppensitzungen",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionTestsSelectionC1": {
+  "originalValue": "No tests added yet",
+  "value": "Noch keine Tests hinzugef\u00fcgt",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionTestsSelectionH1": {
+  "originalValue": "Test name",
+  "value": "Testname",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionTestsSelectionH2": {
+  "originalValue": "Test language",
+  "value": "Testsprache",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionTestsSelectionH3": {
+  "originalValue": "Norm 1",
+  "value": "Norm 1",
+  "valueAsOriginal": "Y"
+ },
+ "AdminInterfaceGroupSessionTestsSelectionH4": {
+  "originalValue": "Norm 2",
+  "value": "Norm 2",
+  "valueAsOriginal": "Y"
+ },
+ "AdminInterfaceGroupSessionTestsSelectionH5": {
+  "originalValue": "Norm 3",
+  "value": "Norm 3",
+  "valueAsOriginal": "Y"
+ },
+ "AdminInterfaceGroupSessionTestsSelectionH6": {
+  "originalValue": "Actions",
+  "value": "Aktionen",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionUnArchive": {
+  "originalValue": "Unarchive this session",
+  "value": "Diese Sitzung aufkleben",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionUnArchive-Alllabel": {
+  "originalValue": "\n                            Unarchive this group session and all related person sessions\n                        ",
+  "value": "Diese Gruppensitzung und alle zugeh\u00f6rigen Personensitzungen aufheben",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionUnArchive-CloseButton": {
+  "originalValue": "Close",
+  "value": "schlie\u00dfen",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionUnArchive-OnlyThislabel": {
+  "originalValue": "\n                            Unarchive only this group sessions\n                        ",
+  "value": "Nur diese Gruppensitzungen aufheben",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionUnArchive-Unstartedlabel": {
+  "originalValue": "\n                            Unarchive this group session and all related UNSTARTED person sessions\n                        ",
+  "value": "Diese Gruppensitzung und alle zugeh\u00f6rigen UNSTARTED-Personensitzungen aufheben",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionUnArchive-buttonlabel": {
+  "originalValue": "Unarchive group sessions",
+  "value": "Gruppensitzungen aufheben",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionUnArchiveLabel": {
+  "originalValue": "What do you want to unarchive?",
+  "value": "Was m\u00f6chten Sie aufbewahren?",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionWarningExistsLabel": {
+  "originalValue": "Please note : Some of the candidates you have selected are already known. The session will be added as usual, the password of the candidate will NOT be updated. ",
+  "value": "Bitte beachten Sie: Einige der von Ihnen ausgew\u00e4hlten Kandidaten sind bereits bekannt. Die Sitzung wird wie gewohnt hinzugef\u00fcgt, das Passwort des Kandidaten wird NICHT aktualisiert.",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceGroupSessionsBusy": {
+  "originalValue": "Please note : Some candidates have already started the test.",
+  "value": "Bitte beachten Sie: Einige Kandidaten haben den Test bereits gestartet.",
   "valueAsOriginal": "N"
  },
  "AdminInterfaceInviteNewCandidateButton": {
@@ -389,6 +864,11 @@
   "value": "Var Name",
   "valueAsOriginal": "N"
  },
+ "AdminInterfaceScreenTemplate-vartranslatablelabel": {
+  "originalValue": "Translatable",
+  "value": "\u00dcbersetzbar",
+  "valueAsOriginal": "N"
+ },
  "AdminInterfaceScreenTemplate-vartype": {
   "originalValue": "Type of variable",
   "value": "Art der Variablen",
@@ -442,6 +922,11 @@
  "AdminInterfaceScreenTemplateSelectHeader": {
   "originalValue": "Select a screen template or add a new one",
   "value": "W\u00e4hlen Sie eine Bildschirmvorlage oder f\u00fcgen Sie eine neue ein",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceScreenTemplateSelectHeaderEdit": {
+  "originalValue": "Test Screen Template editor",
+  "value": "Testbildschirmvorlagen-Editor",
   "valueAsOriginal": "N"
  },
  "AdminInterfaceScreenTemplateSelectList": {
@@ -599,6 +1084,11 @@
   "value": "Sitzung <b>kann nicht vor</b> diesem Datum beginnen &amp;.",
   "valueAsOriginal": "N"
  },
+ "AdminInterfaceSessionNewSessionStartNowButtonLabel": {
+  "originalValue": "Set password and start session now",
+  "value": "Passwort festlegen und Sitzung jetzt starten",
+  "valueAsOriginal": "N"
+ },
  "AdminInterfaceSessionNewSessionTestsIncludeOtherLanguagesLabel": {
   "originalValue": "Include tests in other languages",
   "value": "Tests in anderen Sprachen einschlie\u00dfen",
@@ -659,9 +1149,24 @@
   "value": "Ihre Vorlieben",
   "valueAsOriginal": "N"
  },
+ "AdminInterfaceTestTemplateEditor-AllHeader": {
+  "originalValue": "Translate all screens",
+  "value": "\u00dcbersetze alle Bildschirme",
+  "valueAsOriginal": "N"
+ },
  "AdminInterfaceTestTemplateEditor-LanguageSelectLabel": {
   "originalValue": "Test language",
   "value": "Testsprache",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditor-SourceLanguageSelectLabel": {
+  "originalValue": "Source language",
+  "value": "Ausgangssprache",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditor-TargetLanguageSelectLabel": {
+  "originalValue": "Target language",
+  "value": "Zielsprache",
   "valueAsOriginal": "N"
  },
  "AdminInterfaceTestTemplateEditorActionHeader": {
@@ -784,6 +1289,31 @@
   "value": "Norm variabler Name",
   "valueAsOriginal": "N"
  },
+ "AdminInterfaceTestTemplateEditorNorm_PercentileHeader1_0": {
+  "originalValue": "Percentile 1",
+  "value": "Perzentil 1",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorNorm_PercentileHeader2_0": {
+  "originalValue": "Percentile 2",
+  "value": "Perzentil 2",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorNorm_PercentileHeader3_0": {
+  "originalValue": "Percentile 3",
+  "value": "Perzentil 3",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorNorm_RawHeader_0": {
+  "originalValue": "Score",
+  "value": "punktzahl",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorNorm_ScaleHeader_0": {
+  "originalValue": "Scale",
+  "value": "skala",
+  "valueAsOriginal": "N"
+ },
  "AdminInterfaceTestTemplateEditorScaleActiveHeader": {
   "originalValue": "Show scale as test result",
   "value": "Ma\u00dfstab als Testergebnis anzeigen",
@@ -894,6 +1424,16 @@
   "value": "W\u00e4hlen Sie eine Testdefinition oder f\u00fcgen Sie eine neue hinzu",
   "valueAsOriginal": "N"
  },
+ "AdminInterfaceTestTemplateEditorSelectHeaderEdit": {
+  "originalValue": "Edit test definition",
+  "value": "Testdefinition bearbeiten",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorSelectHeaderEditRow": {
+  "originalValue": "Test definition\n        section",
+  "value": "Testdefinition\n        teil",
+  "valueAsOriginal": "N"
+ },
  "AdminInterfaceTestTemplateEditorSelectListLoading": {
   "originalValue": " list is loading ...",
   "value": " Liste geladen ...",
@@ -954,6 +1494,16 @@
   "value": "Ergebnis",
   "valueAsOriginal": "N"
  },
+ "AdminInterfaceTestTemplateEditorTabScreenPostScriptHeader": {
+  "originalValue": "Screen post script",
+  "value": "Screen-Post-Skript",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorTabScreenPreScriptHeader": {
+  "originalValue": "Screen pre script",
+  "value": "Bildschirm-Pre-Skript",
+  "valueAsOriginal": "N"
+ },
  "AdminInterfaceTestTemplateEditorTestActiveLabel": {
   "originalValue": "Test can be\n                used",
   "value": "Test kann verwendet werden",
@@ -989,6 +1539,16 @@
   "value": "Test hat Bildschirmdynamik",
   "valueAsOriginal": "N"
  },
+ "AdminInterfaceTestTemplateEditorTestCapProtectTestScreenLabel": {
+  "originalValue": "Remove the test scoring &amp; norms during test taking",
+  "value": "Entfernen Sie die Testbewertung &amp; Normen w\u00e4hrend der Testaufnahme",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorTestCapShowTestClosureScreenLabel": {
+  "originalValue": "Show the test closure screen after the test",
+  "value": "Anzeigen des Testverschlussbildschirms nach dem Test",
+  "valueAsOriginal": "N"
+ },
  "AdminInterfaceTestTemplateEditorTestCapabilities": {
   "originalValue": "Test capabilities",
   "value": "Testm\u00f6glichkeiten",
@@ -1002,6 +1562,11 @@
  "AdminInterfaceTestTemplateEditorTestCopyrightsLabel": {
   "originalValue": "Copyrights",
   "value": "Urheberrechte",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorTestCostsLabel": {
+  "originalValue": "Test costs (in credit units)",
+  "value": "Testkosten (in Krediteinheiten)",
   "valueAsOriginal": "N"
  },
  "AdminInterfaceTestTemplateEditorTestDescriptionLabel": {
@@ -1027,6 +1592,21 @@
  "AdminInterfaceTestTemplateEditorTestRemarksLabel": {
   "originalValue": "Remarks (only shown\n                here)",
   "value": "Bemerkungen (nur hier abgebildet)",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorTranslateCloseButton": {
+  "originalValue": "Close",
+  "value": "schlie\u00dfen",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorTranslateLabel": {
+  "originalValue": "Translate",
+  "value": "\u00dcbersetzen",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorTranslateTranslateNowButton": {
+  "originalValue": "Start translation",
+  "value": "\u00dcbersetzung starten",
   "valueAsOriginal": "N"
  },
  "AdminInterfaceTestTemplateEditor_TabCatalog": {
@@ -1099,9 +1679,119 @@
   "value": "Verf\u00fcgbare Tests",
   "valueAsOriginal": "N"
  },
+ "BatteryEditorButtonBar": {
+  "originalValue": "Actions",
+  "value": "Aktionen",
+  "valueAsOriginal": "N"
+ },
+ "BatteryEditorDeleteButtonLabel": {
+  "originalValue": "Delete battery",
+  "value": "L\u00f6schen Sie die Batterie",
+  "valueAsOriginal": "N"
+ },
+ "BatteryEditorDescriptionFor": {
+  "originalValue": "Enter a description",
+  "value": "Geben Sie eine Beschreibung ein",
+  "valueAsOriginal": "N"
+ },
+ "BatteryEditorDescriptionLabel": {
+  "originalValue": "Battery\n                description",
+  "value": "batterie\n                beschreibung",
+  "valueAsOriginal": "N"
+ },
+ "BatteryEditorDescriptionTT": {
+  "originalValue": "Please enter a description.",
+  "value": "Bitte geben Sie eine Beschreibung ein.",
+  "valueAsOriginal": "N"
+ },
+ "BatteryEditorHeader": {
+  "originalValue": "Edit battery",
+  "value": "Batterie bearbeiten",
+  "valueAsOriginal": "N"
+ },
+ "BatteryEditorRemarksLabel": {
+  "originalValue": "Remarks",
+  "value": "Bemerkungen",
+  "valueAsOriginal": "N"
+ },
+ "BatteryEditorSaveButtonLabel": {
+  "originalValue": "Save battery",
+  "value": "Batterie sparen",
+  "valueAsOriginal": "N"
+ },
+ "BatteryEditorTestActiveLabel": {
+  "originalValue": "Battery can be used",
+  "value": "Batterie kann verwendet werden",
+  "valueAsOriginal": "N"
+ },
+ "BatteryEditorTestsIncludeOtherLanguagesLabel": {
+  "originalValue": "Include tests in other languages",
+  "value": "Einschlie\u00dfen von Tests in anderen Sprachen",
+  "valueAsOriginal": "N"
+ },
+ "BatteryEditorTestsInputListLabel": {
+  "originalValue": "Tests in this battery",
+  "value": "Tests in dieser Batterie",
+  "valueAsOriginal": "N"
+ },
+ "BatteryEditorTestsSelectionC1": {
+  "originalValue": "No tests added yet",
+  "value": "Noch keine Tests hinzugef\u00fcgt",
+  "valueAsOriginal": "N"
+ },
+ "BatteryEditorTestsSelectionH1": {
+  "originalValue": "Test name",
+  "value": "Testname",
+  "valueAsOriginal": "N"
+ },
+ "BatteryEditorTestsSelectionH2": {
+  "originalValue": "Test language",
+  "value": "Testsprache",
+  "valueAsOriginal": "N"
+ },
+ "BatteryEditorTestsSelectionH3": {
+  "originalValue": "Norm 1",
+  "value": "Norm 1",
+  "valueAsOriginal": "Y"
+ },
+ "BatteryEditorTestsSelectionH4": {
+  "originalValue": "Norm 2",
+  "value": "Norm 2",
+  "valueAsOriginal": "Y"
+ },
+ "BatteryEditorTestsSelectionH5": {
+  "originalValue": "Norm 3",
+  "value": "Norm 3",
+  "valueAsOriginal": "Y"
+ },
+ "BatteryEditorTestsSelectionH6": {
+  "originalValue": "Actions",
+  "value": "Aktionen",
+  "valueAsOriginal": "N"
+ },
+ "BatteryListerInterfaceEditSessionEditHeader": {
+  "originalValue": "Overview of available batteries",
+  "value": "\u00dcbersicht \u00fcber verf\u00fcgbare Batterien",
+  "valueAsOriginal": "N"
+ },
+ "ConsultantEditorEditAPIKeyHeader": {
+  "originalValue": "External API key",
+  "value": "Externer API-Schl\u00fcssel",
+  "valueAsOriginal": "N"
+ },
+ "ConsultantEditorEditAccordionLabel": {
+  "originalValue": "External API key (DO NOT SHARE OR SHOW TO ANYONE!)",
+  "value": "Externer API-Schl\u00fcssel (NICHT SHARE ODER SHOW TO ANYONE!)",
+  "valueAsOriginal": "N"
+ },
  "ConsultantEditorEditActionHeader": {
   "originalValue": "Actions",
   "value": "Aktionen",
+  "valueAsOriginal": "N"
+ },
+ "ConsultantEditorEditButtonBar_GenerateAPIKeyLabel": {
+  "originalValue": "Generate (new) API key",
+  "value": "Generieren (neuer) API-Schl\u00fcssel",
   "valueAsOriginal": "N"
  },
  "ConsultantEditorEditButtonBar_ResetPasswordButtonLabel": {
@@ -1124,9 +1814,19 @@
   "value": "Nutzungsrechte",
   "valueAsOriginal": "N"
  },
+ "ConsultantEditorEditRightsLimitations": {
+  "originalValue": "User limitations",
+  "value": "Benutzereinschr\u00e4nkungen",
+  "valueAsOriginal": "N"
+ },
  "ConsultantEditorInterfaceEMailLabel": {
   "originalValue": "E-mail address / login",
   "value": "E-Mail-Adresse/Login",
+  "valueAsOriginal": "N"
+ },
+ "ConsultantEditorInterfaceExternalAPIKeyLabel": {
+  "originalValue": "External API Key",
+  "value": "Externer API-Schl\u00fcssel",
   "valueAsOriginal": "N"
  },
  "ConsultantEditorInterfaceHeader": {
@@ -1142,6 +1842,11 @@
  "ConsultantEditorInterfaceInvoiceAddressLabel": {
   "originalValue": "Invoicing address",
   "value": "Rechnungsschrift",
+  "valueAsOriginal": "N"
+ },
+ "ConsultantEditorInterfaceIsDataResearcherHeader": {
+  "originalValue": "Test researcher",
+  "value": "Testforscher",
   "valueAsOriginal": "N"
  },
  "ConsultantEditorInterfaceIsReportAuthorHeader": {
@@ -1167,6 +1872,11 @@
  "ConsultantEditorInterfaceMayOrderCreditsHeader": {
   "originalValue": "May order credits",
   "value": "Kann Kredite bestellen",
+  "valueAsOriginal": "N"
+ },
+ "ConsultantEditorInterfaceMayViewPasswordsHeader": {
+  "originalValue": "May view candidate passwords",
+  "value": "Kann Kandidatenkennw\u00f6rter anzeigen",
   "valueAsOriginal": "N"
  },
  "ConsultantEditorInterfaceMayWorkWithBatteriesOnlyHeader": {
@@ -1259,6 +1969,126 @@
   "value": "Kreditnutzung (Zecken)",
   "valueAsOriginal": "N"
  },
+ "CustomerSettingsDiv-CompanyCopyright-lbl": {
+  "originalValue": "Company copyright text",
+  "value": "Firmencopyrighttext",
+  "valueAsOriginal": "N"
+ },
+ "CustomerSettingsDiv-CompanyCopyright-val": {
+  "originalValue": "Company copyright text ",
+  "value": "Firmencopyrighttext",
+  "valueAsOriginal": "N"
+ },
+ "CustomerSettingsDiv-CompanyLogo-lbl": {
+  "originalValue": "Company logo URL",
+  "value": "URL des Firmenlogos",
+  "valueAsOriginal": "N"
+ },
+ "CustomerSettingsDiv-CompanyLogo-val": {
+  "originalValue": "Company logo URL ",
+  "value": "URL des Firmenlogos",
+  "valueAsOriginal": "N"
+ },
+ "CustomerSettingsDiv-CompanyName-lbl": {
+  "originalValue": "Company name",
+  "value": "Firmenname",
+  "valueAsOriginal": "N"
+ },
+ "CustomerSettingsDiv-CompanyName-val": {
+  "originalValue": "Company name",
+  "value": "Firmenname",
+  "valueAsOriginal": "N"
+ },
+ "CustomerSettingsDiv-ITSLimitations": {
+  "originalValue": "ITS consultant limitation settings",
+  "value": "ITS-Berater-Einschr\u00e4nkungseinstellungen",
+  "valueAsOriginal": "N"
+ },
+ "CustomerSettingsDiv-ITSPreferences": {
+  "originalValue": "Company preferences (only for dedicated server customers) ",
+  "value": "Unternehmenspr\u00e4ferenzen (nur f\u00fcr dedizierte Serverkunden)",
+  "valueAsOriginal": "N"
+ },
+ "CustomerSettingsDiv-MailServer": {
+  "originalValue": "Mail server settings",
+  "value": "Mailserver-Einstellungen",
+  "valueAsOriginal": "N"
+ },
+ "CustomerSettingsDiv-MaxNumberOfConsulants-lbl": {
+  "originalValue": "Max number of consultants",
+  "value": "Max. Anzahl der Berater",
+  "valueAsOriginal": "N"
+ },
+ "CustomerSettingsDiv-MaxNumberOfConsulants-val": {
+  "originalValue": "Maximum number of consultant accounts per customer (enter a number or leave empty for unlimited)",
+  "value": "Maximale Anzahl von Beraterkonten pro Kunde (geben Sie eine Zahl ein oder lassen Sie sie unbegrenzt leer)",
+  "valueAsOriginal": "N"
+ },
+ "CustomerSettingsDiv-SMTPPassword-lbl": {
+  "originalValue": "SMTP Password",
+  "value": "SMTP-Kennwort",
+  "valueAsOriginal": "N"
+ },
+ "CustomerSettingsDiv-SMTPPassword-val": {
+  "originalValue": "Enter the SMTP user password to login to the SMTP server",
+  "value": "Geben Sie das SMTP-Benutzerkennwort ein, um sich beim SMTP-Server anzumelden.",
+  "valueAsOriginal": "N"
+ },
+ "CustomerSettingsDiv-SMTPPort-lbl": {
+  "originalValue": "SMTP Port",
+  "value": "SMTP-Port",
+  "valueAsOriginal": "N"
+ },
+ "CustomerSettingsDiv-SMTPPort-val": {
+  "originalValue": "Enter the SMTP Port name",
+  "value": "Geben Sie den SMTP-Portnamen ein",
+  "valueAsOriginal": "N"
+ },
+ "CustomerSettingsDiv-SMTPSender-lbl": {
+  "originalValue": "SMTP sender",
+  "value": "SMTP-Absender",
+  "valueAsOriginal": "N"
+ },
+ "CustomerSettingsDiv-SMTPSender-val": {
+  "originalValue": "Enter a mail address as the default senders address",
+  "value": "Geben Sie eine E-Mail-Adresse als Standardabsenderadresse ein.",
+  "valueAsOriginal": "N"
+ },
+ "CustomerSettingsDiv-SMTPServer-lbl": {
+  "originalValue": "SMTP Server",
+  "value": "SMTP-Server",
+  "valueAsOriginal": "N"
+ },
+ "CustomerSettingsDiv-SMTPServer-val": {
+  "originalValue": "Enter the SMTP server name",
+  "value": "Geben Sie den SMTP-Servernamen ein",
+  "valueAsOriginal": "N"
+ },
+ "CustomerSettingsDiv-SMTPUseTLS-lbl": {
+  "originalValue": "SMTP UseTLS",
+  "value": "SMTP UseTLS",
+  "valueAsOriginal": "Y"
+ },
+ "CustomerSettingsDiv-SMTPUseTLS-val": {
+  "originalValue": "Enter the SMTP UseTLS flag value (T or F)",
+  "value": "Geben Sie den SMTP UseTLS-Flagwert (T oder F) ein.",
+  "valueAsOriginal": "N"
+ },
+ "CustomerSettingsDiv-SMTPUser-lbl": {
+  "originalValue": "SMTP User",
+  "value": "SMTP-Benutzer",
+  "valueAsOriginal": "N"
+ },
+ "CustomerSettingsDiv-SMTPUser-val": {
+  "originalValue": "Enter the SMTP User name to login to the SMTP server",
+  "value": "Geben Sie den SMTP-Benutzernamen ein, um sich beim SMTP-Server anzumelden.",
+  "valueAsOriginal": "N"
+ },
+ "CustomerSettingsInterfaceEditHeader": {
+  "originalValue": "Edit customer settings",
+  "value": "Bearbeiten von Kundeneinstellungen",
+  "valueAsOriginal": "N"
+ },
  "ForgotWindowBackButton": {
   "originalValue": "\n                    Cancel\n                ",
   "value": "\n                    Abbrechen\n                ",
@@ -1267,6 +2097,11 @@
  "ForgotWindowInstruction": {
   "originalValue": "Please enter your email address below and we will send you a link to reset your password.",
   "value": "Bitte geben Sie unten Ihre E-Mail-Adresse ein und wir senden Ihnen einen Link, um Ihr Passwort zur\u00fcckzusetzen.",
+  "valueAsOriginal": "N"
+ },
+ "ForgotWindowInstructionReset": {
+  "originalValue": "Please enter your email address to reset the password for your account.",
+  "value": "Bitte geben Sie Ihre E-Mail-Adresse ein, um das Passwort f\u00fcr Ihr Konto zur\u00fcckzusetzen.",
   "valueAsOriginal": "N"
  },
  "ForgotWindowResetButton": {
@@ -1304,9 +2139,29 @@
   "value": "Gutschriften an ",
   "valueAsOriginal": "N"
  },
+ "GrantCreditsInterfaceEditHeaderCompany": {
+  "originalValue": "ITRHelpdesk",
+  "value": "ITRHelpdesk",
+  "valueAsOriginal": "Y"
+ },
  "GrantCreditsInterfaceSaveLabel": {
   "originalValue": "Grant credits now",
   "value": "Zuschusskredite jetzt",
+  "valueAsOriginal": "N"
+ },
+ "GroupSessionListerInterfaceEditSessionEditHeader": {
+  "originalValue": "Session overview for group sessions that are",
+  "value": "Sitzungs\u00fcbersicht f\u00fcr Gruppensitzungen, die",
+  "valueAsOriginal": "N"
+ },
+ "ITSBattery.js.AfterBattery": {
+  "originalValue": "/* please see manual for instructions before using battery scripting */",
+  "value": "/* Bitte lesen Sie das Handbuch f\u00fcr Anweisungen vor der Verwendung von Batterieskripting */",
+  "valueAsOriginal": "N"
+ },
+ "ITSBattery.js.BeforeBattery": {
+  "originalValue": "/* please see manual for instructions before using battery scripting */",
+  "value": "/* Bitte lesen Sie das Handbuch f\u00fcr Anweisungen vor der Verwendung von Batterieskripting */",
   "valueAsOriginal": "N"
  },
  "ITSConsultantListerEditor_DescriptionLastLogin": {
@@ -1369,6 +2224,21 @@
   "value": "Gestartet an",
   "valueAsOriginal": "N"
  },
+ "ITSTest.Costs": {
+  "originalValue": "Costs",
+  "value": "kosten",
+  "valueAsOriginal": "N"
+ },
+ "ITSTest.Description": {
+  "originalValue": "Description ",
+  "value": "beschreibung",
+  "valueAsOriginal": "N"
+ },
+ "ITSTest.Language": {
+  "originalValue": "Language",
+  "value": "sprache",
+  "valueAsOriginal": "N"
+ },
  "ITSTest.js.AfterNormingScript": {
   "originalValue": "/* please see manual for instructions before using complex scripting */",
   "value": "/* Bitte lesen Sie das Handbuch f\u00fcr die Anleitung, bevor Sie ein komplexes Scripting verwenden */",
@@ -1409,9 +2279,59 @@
   "value": "/* Bitte lesen Sie das Handbuch f\u00fcr die Anleitung, bevor Sie ein komplexes Scripting verwenden */",
   "valueAsOriginal": "N"
  },
+ "ITSTranslate.af": {
+  "originalValue": "Afrikaans",
+  "value": "Afrikaans",
+  "valueAsOriginal": "Y"
+ },
+ "ITSTranslate.ar": {
+  "originalValue": "Arabic",
+  "value": "Arabisch",
+  "valueAsOriginal": "N"
+ },
+ "ITSTranslate.bg": {
+  "originalValue": "Bulgarian",
+  "value": "Bulgarisch",
+  "valueAsOriginal": "N"
+ },
+ "ITSTranslate.bn": {
+  "originalValue": "Bangla",
+  "value": "Bangla",
+  "valueAsOriginal": "Y"
+ },
+ "ITSTranslate.bs": {
+  "originalValue": "Bosnian (Latin)",
+  "value": "Bosnisch (Lateinisch)",
+  "valueAsOriginal": "N"
+ },
+ "ITSTranslate.ca": {
+  "originalValue": "Catalan",
+  "value": "Katalanisch",
+  "valueAsOriginal": "N"
+ },
+ "ITSTranslate.cs": {
+  "originalValue": "Czech",
+  "value": "Tschechisch",
+  "valueAsOriginal": "N"
+ },
+ "ITSTranslate.cy": {
+  "originalValue": "Welsh",
+  "value": "Walisisch",
+  "valueAsOriginal": "N"
+ },
+ "ITSTranslate.da": {
+  "originalValue": "Danish",
+  "value": "D\u00e4nisch",
+  "valueAsOriginal": "N"
+ },
  "ITSTranslate.de": {
   "originalValue": "German",
   "value": "Deutsch",
+  "valueAsOriginal": "N"
+ },
+ "ITSTranslate.el": {
+  "originalValue": "Greek",
+  "value": "Griechisch",
   "valueAsOriginal": "N"
  },
  "ITSTranslate.en": {
@@ -1424,14 +2344,244 @@
   "value": "Spanisch",
   "valueAsOriginal": "N"
  },
+ "ITSTranslate.et": {
+  "originalValue": "Estonian",
+  "value": "Estnisch",
+  "valueAsOriginal": "N"
+ },
+ "ITSTranslate.fa": {
+  "originalValue": "Persian",
+  "value": "Persisch",
+  "valueAsOriginal": "N"
+ },
+ "ITSTranslate.fi": {
+  "originalValue": "Finnish",
+  "value": "Finnisch",
+  "valueAsOriginal": "N"
+ },
+ "ITSTranslate.fil": {
+  "originalValue": "Filipino",
+  "value": "Philippinisch",
+  "valueAsOriginal": "N"
+ },
+ "ITSTranslate.fj": {
+  "originalValue": "Fijian",
+  "value": "Fijian",
+  "valueAsOriginal": "Y"
+ },
  "ITSTranslate.fr": {
   "originalValue": "French",
   "value": "Franz\u00f6sisch",
   "valueAsOriginal": "N"
  },
+ "ITSTranslate.frr": {
+  "originalValue": "Frisian",
+  "value": "Friesische",
+  "valueAsOriginal": "N"
+ },
+ "ITSTranslate.he": {
+  "originalValue": "Hebrew",
+  "value": "Hebr\u00e4isch",
+  "valueAsOriginal": "N"
+ },
+ "ITSTranslate.hi": {
+  "originalValue": "Hindi",
+  "value": "Hindi",
+  "valueAsOriginal": "Y"
+ },
+ "ITSTranslate.hr": {
+  "originalValue": "Croatian",
+  "value": "Kroatisch",
+  "valueAsOriginal": "N"
+ },
+ "ITSTranslate.ht": {
+  "originalValue": "Haitian Creole",
+  "value": "Haitianisch",
+  "valueAsOriginal": "N"
+ },
+ "ITSTranslate.hu": {
+  "originalValue": "Hungarian",
+  "value": "Ungarisch",
+  "valueAsOriginal": "N"
+ },
+ "ITSTranslate.id": {
+  "originalValue": "Indonesian",
+  "value": "Indonesisch",
+  "valueAsOriginal": "N"
+ },
+ "ITSTranslate.it": {
+  "originalValue": "Italian",
+  "value": "Italienisch",
+  "valueAsOriginal": "N"
+ },
+ "ITSTranslate.ja": {
+  "originalValue": "Japanese",
+  "value": "Japanisch",
+  "valueAsOriginal": "N"
+ },
+ "ITSTranslate.ko": {
+  "originalValue": "Korean",
+  "value": "Koreanisch",
+  "valueAsOriginal": "N"
+ },
+ "ITSTranslate.lt": {
+  "originalValue": "Lithuanian",
+  "value": "Litauisch",
+  "valueAsOriginal": "N"
+ },
+ "ITSTranslate.lv": {
+  "originalValue": "Latvian",
+  "value": "Lettisch",
+  "valueAsOriginal": "N"
+ },
+ "ITSTranslate.mg": {
+  "originalValue": "Malagasy",
+  "value": "Madagassischen",
+  "valueAsOriginal": "N"
+ },
+ "ITSTranslate.ms": {
+  "originalValue": "Malay",
+  "value": "Malaiisch",
+  "valueAsOriginal": "N"
+ },
+ "ITSTranslate.mt": {
+  "originalValue": "Maltese",
+  "value": "Maltesisch",
+  "valueAsOriginal": "N"
+ },
+ "ITSTranslate.mww": {
+  "originalValue": "Hmong Daw",
+  "value": "Hmong Daw",
+  "valueAsOriginal": "Y"
+ },
+ "ITSTranslate.nb": {
+  "originalValue": "Norwegian",
+  "value": "Norwegisch",
+  "valueAsOriginal": "N"
+ },
  "ITSTranslate.nl": {
   "originalValue": "Dutch",
   "value": "Holl\u00e4ndisch",
+  "valueAsOriginal": "N"
+ },
+ "ITSTranslate.otq": {
+  "originalValue": "Queretaro Otomi",
+  "value": "Queretaro Otomi",
+  "valueAsOriginal": "Y"
+ },
+ "ITSTranslate.pl": {
+  "originalValue": "Polish",
+  "value": "Polnisch",
+  "valueAsOriginal": "N"
+ },
+ "ITSTranslate.pt": {
+  "originalValue": "Portuguese",
+  "value": "Portugiesisch",
+  "valueAsOriginal": "N"
+ },
+ "ITSTranslate.ro": {
+  "originalValue": "Romanian",
+  "value": "Rum\u00e4nisch",
+  "valueAsOriginal": "N"
+ },
+ "ITSTranslate.ru": {
+  "originalValue": "Russian",
+  "value": "Russisch",
+  "valueAsOriginal": "N"
+ },
+ "ITSTranslate.sk": {
+  "originalValue": "Slovak",
+  "value": "Slowakisch",
+  "valueAsOriginal": "N"
+ },
+ "ITSTranslate.sl": {
+  "originalValue": "Slovenian",
+  "value": "Slowenisch",
+  "valueAsOriginal": "N"
+ },
+ "ITSTranslate.sm": {
+  "originalValue": "Samoan",
+  "value": "Samoa",
+  "valueAsOriginal": "N"
+ },
+ "ITSTranslate.sr-cyrl": {
+  "originalValue": "Serbian (Cyrillic)",
+  "value": "Serbisch (Kyrillisch)",
+  "valueAsOriginal": "N"
+ },
+ "ITSTranslate.sr-latn": {
+  "originalValue": "Serbian (Latin)",
+  "value": "Serbisch (Lateinisch)",
+  "valueAsOriginal": "N"
+ },
+ "ITSTranslate.sv": {
+  "originalValue": "Swedish",
+  "value": "Schwedisch",
+  "valueAsOriginal": "N"
+ },
+ "ITSTranslate.sw": {
+  "originalValue": "Kiswahili",
+  "value": "Kiswahili",
+  "valueAsOriginal": "Y"
+ },
+ "ITSTranslate.ta": {
+  "originalValue": "Tamil",
+  "value": "Tamil",
+  "valueAsOriginal": "Y"
+ },
+ "ITSTranslate.th": {
+  "originalValue": "Thai",
+  "value": "Thail\u00e4ndisch",
+  "valueAsOriginal": "N"
+ },
+ "ITSTranslate.tlh": {
+  "originalValue": "Klingon",
+  "value": "Klingonischen",
+  "valueAsOriginal": "N"
+ },
+ "ITSTranslate.to": {
+  "originalValue": "Tongan",
+  "value": "Tongan",
+  "valueAsOriginal": "Y"
+ },
+ "ITSTranslate.tr": {
+  "originalValue": "Turkish",
+  "value": "T\u00fcrkisch",
+  "valueAsOriginal": "N"
+ },
+ "ITSTranslate.ty": {
+  "originalValue": "Tahitian",
+  "value": "Tahitian",
+  "valueAsOriginal": "Y"
+ },
+ "ITSTranslate.uk": {
+  "originalValue": "Ukrainian",
+  "value": "Ukrainisch",
+  "valueAsOriginal": "N"
+ },
+ "ITSTranslate.ur": {
+  "originalValue": "Urdu",
+  "value": "Urdu",
+  "valueAsOriginal": "Y"
+ },
+ "ITSTranslate.vi": {
+  "originalValue": "Vietnamese",
+  "value": "Vietnamesisch",
+  "valueAsOriginal": "N"
+ },
+ "ITSTranslate.yua": {
+  "originalValue": "Yucatec Maya",
+  "value": "Yucatec Maya",
+  "valueAsOriginal": "Y"
+ },
+ "ITSTranslate.yue": {
+  "originalValue": "Cantonese (Traditional)",
+  "value": "Kantonesisch (Traditionell)",
+  "valueAsOriginal": "N"
+ },
+ "ITSTranslate.zh-hans": {
+  "originalValue": "Chinese Simplified",
+  "value": "Chinesisch (Vereinfacht)",
   "valueAsOriginal": "N"
  },
  "LoginWindowHeading": {
@@ -1477,6 +2627,76 @@
  "LoginWindowUserName": {
   "originalValue": "User name",
   "value": "Benutzername",
+  "valueAsOriginal": "N"
+ },
+ "LoginWindowWelcomeTo": {
+  "originalValue": "Welcome to",
+  "value": "Willkommen bei",
+  "valueAsOriginal": "N"
+ },
+ "MailTemplateEditor-LanguageSelectLabel": {
+  "originalValue": "Mail template language",
+  "value": "E-Mail-Vorlagensprache",
+  "valueAsOriginal": "N"
+ },
+ "MailTemplateEditorInterfaceEditHeader": {
+  "originalValue": "Edit e-mail templates",
+  "value": "Bearbeiten von E-Mail-Vorlagen",
+  "valueAsOriginal": "N"
+ },
+ "MailTemplateEditorLabel": {
+  "originalValue": "Body of this mail",
+  "value": "Text dieser Mail",
+  "valueAsOriginal": "N"
+ },
+ "MailTemplateEditorTemplateDescriptionHeaderMS": {
+  "originalValue": "Select, add or remove templates",
+  "value": "Vorlagen ausw\u00e4hlen, hinzuf\u00fcgen oder entfernen",
+  "valueAsOriginal": "N"
+ },
+ "MailTemplateEditorTemplateType-O": {
+  "originalValue": "Other",
+  "value": "andere",
+  "valueAsOriginal": "N"
+ },
+ "MailTemplateEditorTemplateType-PC": {
+  "originalValue": "Password reset mail for consultant",
+  "value": "Passwort-Reset-E-Mail f\u00fcr Berater",
+  "valueAsOriginal": "N"
+ },
+ "MailTemplateEditorTemplateType-PS": {
+  "originalValue": "Password reset mail for candidate",
+  "value": "Passwort-Reset-E-Mail f\u00fcr Kandidaten",
+  "valueAsOriginal": "N"
+ },
+ "MailTemplateEditorTemplateType-S": {
+  "originalValue": "Session invitation mail",
+  "value": "Sitzungseinladungsmail",
+  "valueAsOriginal": "N"
+ },
+ "MailTemplateEditorTemplateTypeHeader": {
+  "originalValue": "Template type",
+  "value": "Vorlagentyp",
+  "valueAsOriginal": "N"
+ },
+ "MailTemplateEditorTestDescriptionLabel": {
+  "originalValue": "Description",
+  "value": "beschreibung",
+  "valueAsOriginal": "N"
+ },
+ "MailTemplateEditorTestSubjectLabel": {
+  "originalValue": "Subject",
+  "value": "Betreff",
+  "valueAsOriginal": "N"
+ },
+ "MailTemplateEditor_ActionHeader": {
+  "originalValue": "Actions",
+  "value": "Aktionen",
+  "valueAsOriginal": "N"
+ },
+ "MailTemplateEditor_WriterFieldsLabel": {
+  "originalValue": "Usable fields",
+  "value": "Verwendbare Felder",
   "valueAsOriginal": "N"
  },
  "NavBarsAdminSidebarCompaniesLabel": {
@@ -1679,6 +2899,11 @@
   "value": "Show Person Sessions",
   "valueAsOriginal": "N"
  },
+ "PersonInterfaceEditButtonBar_ViewPasswordButtonLabel": {
+  "originalValue": "View password",
+  "value": "Passwort anzeigen",
+  "valueAsOriginal": "N"
+ },
  "PersonInterfaceEditSelectHeader": {
   "originalValue": "Person information",
   "value": "Person-Informationen",
@@ -1738,6 +2963,36 @@
   "originalValue": "\n    ...",
   "value": "\n    ...",
   "valueAsOriginal": "Y"
+ },
+ "PersonListerDelete-Alllabel": {
+  "originalValue": "\n                            Delete all archived persons that do NOT have a linked session\n                        ",
+  "value": "L\u00f6schen Sie alle archivierten Personen, die KEINE verkn\u00fcpfte Sitzung haben",
+  "valueAsOriginal": "N"
+ },
+ "PersonListerDelete-CloseButton": {
+  "originalValue": "Close",
+  "value": "schlie\u00dfen",
+  "valueAsOriginal": "N"
+ },
+ "PersonListerDelete-OnlyThislabel": {
+  "originalValue": "\n                            Delete all archived persons including ALL their session data (IRREVERSIBLE! ALL DATA WILL BE PERMANENTLY DELETED.)\n                        ",
+  "value": "L\u00f6schen Sie alle archivierten Personen einschlie\u00dflich ALLE ihrer Sitzungsdaten (IRREVERSIBLE! ALLE DATEN WERDEN DAUERHAFT GEL\u00d6SCHT.)",
+  "valueAsOriginal": "N"
+ },
+ "PersonListerDelete-buttonlabel": {
+  "originalValue": "Delete persons",
+  "value": "Personen l\u00f6schen",
+  "valueAsOriginal": "N"
+ },
+ "PersonListerDeleteButtonLabel": {
+  "originalValue": "Delete persons currently listed",
+  "value": "L\u00f6schen von Personen, die derzeit aufgef\u00fchrt sind",
+  "valueAsOriginal": "N"
+ },
+ "PersonListerDeleteLabel": {
+  "originalValue": "What do you want to delete?",
+  "value": "Was m\u00f6chten Sie l\u00f6schen?",
+  "valueAsOriginal": "N"
  },
  "PersonListerInterfaceEditSessionEditHeader": {
   "originalValue": "Overview of candidates",
@@ -1904,9 +3159,154 @@
   "value": "Bildschirmvorlagen f\u00fcr die Nutzung durch andere Organisationen auf diesem Server ver\u00f6ffentlichen",
   "valueAsOriginal": "N"
  },
+ "ServerSettingsActions-ActionsHeader": {
+  "originalValue": "Actions",
+  "value": "Aktionen",
+  "valueAsOriginal": "N"
+ },
+ "ServerSettingsActions-installButton-label": {
+  "originalValue": "Install open source publics",
+  "value": "Installieren von Open-Source-Publics",
+  "valueAsOriginal": "N"
+ },
+ "ServerSettingsDiv-CompanyName-lbl": {
+  "originalValue": "Company name",
+  "value": "Firmenname",
+  "valueAsOriginal": "N"
+ },
+ "ServerSettingsDiv-CompanyName-val": {
+  "originalValue": "Company name",
+  "value": "Firmenname",
+  "valueAsOriginal": "N"
+ },
+ "ServerSettingsDiv-ITSLimitations": {
+  "originalValue": "ITS consultant limitation settings",
+  "value": "ITS-Berater-Einschr\u00e4nkungseinstellungen",
+  "valueAsOriginal": "N"
+ },
+ "ServerSettingsDiv-LegalCopyright-lbl": {
+  "originalValue": "Copyright message",
+  "value": "Copyright-Nachricht",
+  "valueAsOriginal": "N"
+ },
+ "ServerSettingsDiv-LegalCopyright-val": {
+  "originalValue": "Copyright message",
+  "value": "Copyright-Nachricht",
+  "valueAsOriginal": "N"
+ },
+ "ServerSettingsDiv-LegalStuff": {
+  "originalValue": "Legal notices",
+  "value": "Rechtliche Hinweise",
+  "valueAsOriginal": "N"
+ },
+ "ServerSettingsDiv-Mail": {
+  "originalValue": "Mail address settings",
+  "value": "E-Mail-Adresseinstellungen",
+  "valueAsOriginal": "N"
+ },
+ "ServerSettingsDiv-MailServer": {
+  "originalValue": "Mail server settings",
+  "value": "Mailserver-Einstellungen",
+  "valueAsOriginal": "N"
+ },
+ "ServerSettingsDiv-MaxNumberOfConsulants-lbl": {
+  "originalValue": "Max number of consultants",
+  "value": "Max. Anzahl der Berater",
+  "valueAsOriginal": "N"
+ },
+ "ServerSettingsDiv-MaxNumberOfConsulants-val": {
+  "originalValue": "Maximum number of consultant accounts per customer (enter a number or leave empty for unlimited)",
+  "value": "Maximale Anzahl von Beraterkonten pro Kunde (geben Sie eine Zahl ein oder lassen Sie sie unbegrenzt leer)",
+  "valueAsOriginal": "N"
+ },
+ "ServerSettingsDiv-SMTPPassword-lbl": {
+  "originalValue": "SMTP Password",
+  "value": "SMTP-Kennwort",
+  "valueAsOriginal": "N"
+ },
+ "ServerSettingsDiv-SMTPPassword-val": {
+  "originalValue": "Enter the SMTP user password to login to the SMTP server",
+  "value": "Geben Sie das SMTP-Benutzerkennwort ein, um sich beim SMTP-Server anzumelden.",
+  "valueAsOriginal": "N"
+ },
+ "ServerSettingsDiv-SMTPPort-lbl": {
+  "originalValue": "SMTP Port",
+  "value": "SMTP-Port",
+  "valueAsOriginal": "N"
+ },
+ "ServerSettingsDiv-SMTPPort-val": {
+  "originalValue": "Enter the SMTP Port name",
+  "value": "Geben Sie den SMTP-Portnamen ein",
+  "valueAsOriginal": "N"
+ },
+ "ServerSettingsDiv-SMTPSender-lbl": {
+  "originalValue": "SMTP sender",
+  "value": "SMTP-Absender",
+  "valueAsOriginal": "N"
+ },
+ "ServerSettingsDiv-SMTPSender-val": {
+  "originalValue": "Enter a mail address as the default senders address",
+  "value": "Geben Sie eine E-Mail-Adresse als Standardabsenderadresse ein.",
+  "valueAsOriginal": "N"
+ },
+ "ServerSettingsDiv-SMTPServer-lbl": {
+  "originalValue": "SMTP Server",
+  "value": "SMTP-Server",
+  "valueAsOriginal": "N"
+ },
+ "ServerSettingsDiv-SMTPServer-val": {
+  "originalValue": "Enter the SMTP server name",
+  "value": "Geben Sie den SMTP-Servernamen ein",
+  "valueAsOriginal": "N"
+ },
+ "ServerSettingsDiv-SMTPUseTLS-lbl": {
+  "originalValue": "SMTP UseTLS",
+  "value": "SMTP UseTLS",
+  "valueAsOriginal": "Y"
+ },
+ "ServerSettingsDiv-SMTPUseTLS-val": {
+  "originalValue": "Enter the SMTP UseTLS flag value (T or F)",
+  "value": "Geben Sie den SMTP UseTLS-Flagwert (T oder F) ein.",
+  "valueAsOriginal": "N"
+ },
+ "ServerSettingsDiv-SMTPUser-lbl": {
+  "originalValue": "SMTP User",
+  "value": "SMTP-Benutzer",
+  "valueAsOriginal": "N"
+ },
+ "ServerSettingsDiv-SMTPUser-val": {
+  "originalValue": "Enter the SMTP User name to login to the SMTP server",
+  "value": "Geben Sie den SMTP-Benutzernamen ein, um sich beim SMTP-Server anzumelden.",
+  "valueAsOriginal": "N"
+ },
+ "ServerSettingsDiv-TranslateKey-lbl": {
+  "originalValue": "Microsoft Azure translation key",
+  "value": "Microsoft Azure-\u00dcbersetzungsschl\u00fcssel",
+  "valueAsOriginal": "N"
+ },
+ "ServerSettingsDiv-TranslateKey-val": {
+  "originalValue": "Enter the Microsoft Azure translation key to enable translation services",
+  "value": "Geben Sie den Microsoft Azure-\u00dcbersetzungsschl\u00fcssel ein, um \u00dcbersetzungsdienste zu aktivieren.",
+  "valueAsOriginal": "N"
+ },
+ "ServerSettingsDiv-Translation": {
+  "originalValue": "Translation settings",
+  "value": "\u00dcbersetzungseinstellungen",
+  "valueAsOriginal": "N"
+ },
  "ServerSettingsInterfaceEditHeader": {
   "originalValue": "Edit server settings",
   "value": "Server-Einstellungen bearbeiten",
+  "valueAsOriginal": "N"
+ },
+ "ServerSettingsLanguageTemplate-ActionsHeader": {
+  "originalValue": "Translations",
+  "value": "\u00dcbersetzungen",
+  "valueAsOriginal": "N"
+ },
+ "ServerSettingsLanguageTemplate_SaveButtonLabel": {
+  "originalValue": "Install all translations",
+  "value": "Installieren aller \u00dcbersetzungen",
   "valueAsOriginal": "N"
  },
  "ServerSettingsOrderByMailAddress": {
@@ -1917,6 +3317,41 @@
  "ServerSettingsOrderByMailAddressLabel": {
   "originalValue": "Send credit order by e-mail to",
   "value": "Kreditbestellung per E-Mail an",
+  "valueAsOriginal": "N"
+ },
+ "ServerSettingsPublicsInterfaceEditHeader": {
+  "originalValue": "Install or update from open source repo",
+  "value": "Installieren oder Aktualisieren von Open Source Repo",
+  "valueAsOriginal": "N"
+ },
+ "ServerSettingsPublicsReportTemplate-ActionsHeader": {
+  "originalValue": "Report templates",
+  "value": "Berichtsvorlagen",
+  "valueAsOriginal": "N"
+ },
+ "ServerSettingsPublicsReportTemplate_SaveButtonLabel": {
+  "originalValue": "Install all report templates",
+  "value": "Installieren aller Berichtsvorlagen",
+  "valueAsOriginal": "N"
+ },
+ "ServerSettingsPublicsTestScreenTemplate-ActionsHeader": {
+  "originalValue": "Test screen templates",
+  "value": "Testbildschirmvorlagen",
+  "valueAsOriginal": "N"
+ },
+ "ServerSettingsPublicsTestScreenTemplate_SaveButtonLabel": {
+  "originalValue": "Install all test screen templates",
+  "value": "Installieren aller Testbildschirmvorlagen",
+  "valueAsOriginal": "N"
+ },
+ "ServerSettingsPublicsTestTemplate-ActionsHeader": {
+  "originalValue": "Test templates",
+  "value": "Testvorlagen",
+  "valueAsOriginal": "N"
+ },
+ "ServerSettingsPublicsTestTemplate_SaveButtonLabel": {
+  "originalValue": "Install all test templates",
+  "value": "Installieren aller Testvorlagen",
   "valueAsOriginal": "N"
  },
  "SessionListerController.SessionStatusCommon": {
@@ -2027,6 +3462,11 @@
  "UserName": {
   "originalValue": "New password",
   "value": "Neues Passwort",
+  "valueAsOriginal": "N"
+ },
+ "UserNameReset": {
+  "originalValue": "E-mail",
+  "value": "e-mail",
   "valueAsOriginal": "N"
  },
  "js.MasterTag": {

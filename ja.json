@@ -1,0 +1,2494 @@
+{
+ "#AdminInterfaceDataDownload.DownloadMenu": {
+  "changeDateTime": "2020-03-16T12:01:59.995831",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Download test data",
+  "value": "\u30c6\u30b9\u30c8 \u30c7\u30fc\u30bf\u306e\u30c0\u30a6\u30f3\u30ed\u30fc\u30c9",
+  "valueAsOriginal": "N"
+ },
+ "#AdminInterfaceNewSessionEditorDiv.NewSessionMenu": {
+  "changeDateTime": "2020-03-16T11:59:28.475216",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "New session",
+  "value": "\u65b0\u3057\u3044\u30bb\u30c3\u30b7\u30e7\u30f3",
+  "valueAsOriginal": "N"
+ },
+ "#AdminInterfaceScreenTemplateEditor.EditMenu": {
+  "changeDateTime": "2020-03-16T12:01:50.672118",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Edit test screen templates",
+  "value": "\u30c6\u30b9\u30c8\u753b\u9762\u30c6\u30f3\u30d7\u30ec\u30fc\u30c8\u306e\u7de8\u96c6",
+  "valueAsOriginal": "N"
+ },
+ "#BatteryListerController.ListMenu": {
+  "changeDateTime": "2020-03-16T12:01:59.808341",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Edit test batteries",
+  "value": "\u30c6\u30b9\u30c8\u7528\u30d0\u30c3\u30c6\u30ea\u30fc\u306e\u7de8\u96c6",
+  "valueAsOriginal": "N"
+ },
+ "#ConsultantListerController.ConsultantsMenu": {
+  "changeDateTime": "2020-03-16T12:01:57.507389",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Manage consultants",
+  "value": "\u30b3\u30f3\u30b5\u30eb\u30bf\u30f3\u30c8\u306e\u7ba1\u7406",
+  "valueAsOriginal": "N"
+ },
+ "#CreditsOrderByMail.ListMenu": {
+  "changeDateTime": "2020-03-16T12:01:58.449052",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Order credits by e-mail",
+  "value": "\u96fb\u5b50\u30e1\u30fc\u30eb\u3067\u30af\u30ec\u30b8\u30c3\u30c8\u3092\u6ce8\u6587\u3059\u308b",
+  "valueAsOriginal": "N"
+ },
+ "#CreditsUserLister.ListMenu": {
+  "changeDateTime": "2020-03-16T12:01:58.245832",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Credit usage",
+  "value": "\u30af\u30ec\u30b8\u30c3\u30c8\u306e\u4f7f\u7528",
+  "valueAsOriginal": "N"
+ },
+ "#CustomerSettingsController.Menu": {
+  "changeDateTime": "2020-03-16T12:01:59.027080",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Customer settings",
+  "value": "\u9867\u5ba2\u8a2d\u5b9a",
+  "valueAsOriginal": "N"
+ },
+ "#GroupSessionListerController.GroupSessionArchivedMenu": {
+  "changeDateTime": "2020-03-16T12:02:00.378456",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Group sessions archive",
+  "value": "\u30b0\u30eb\u30fc\u30d7 \u30bb\u30c3\u30b7\u30e7\u30f3 \u30a2\u30fc\u30ab\u30a4\u30d6",
+  "valueAsOriginal": "N"
+ },
+ "#GroupSessionListerController.GroupSessionReadyMenu": {
+  "changeDateTime": "2020-03-16T12:02:00.183426",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Group sessions",
+  "value": "\u30b0\u30eb\u30fc\u30d7 \u30bb\u30c3\u30b7\u30e7\u30f3",
+  "valueAsOriginal": "N"
+ },
+ "#ITSResetPasswordEditor.Menu": {
+  "changeDateTime": "2020-03-16T12:01:57.319895",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Reset password",
+  "value": "\u30d1\u30b9\u30ef\u30fc\u30c9\u306e\u30ea\u30bb\u30c3\u30c8",
+  "valueAsOriginal": "N"
+ },
+ "#MailTemplateEditorController.MyMailTemplatesMenu": {
+  "changeDateTime": "2020-03-16T12:01:59.621229",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "My e-mail templates",
+  "value": "\u81ea\u5206\u306e\u96fb\u5b50\u30e1\u30fc\u30eb \u30c6\u30f3\u30d7\u30ec\u30fc\u30c8",
+  "valueAsOriginal": "N"
+ },
+ "#MailTemplateEditorController.OrganisationMailTemplatesMenu": {
+  "changeDateTime": "2020-03-16T12:01:59.230207",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Manage e-mail templates",
+  "value": "\u96fb\u5b50\u30e1\u30fc\u30eb \u30c6\u30f3\u30d7\u30ec\u30fc\u30c8\u306e\u7ba1\u7406",
+  "valueAsOriginal": "N"
+ },
+ "#MailTemplateEditorController.ServerMailTemplatesMenu": {
+  "changeDateTime": "2020-03-16T12:01:59.433340",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Manage server e-mail templates",
+  "value": "\u30b5\u30fc\u30d0\u30fc\u306e\u96fb\u5b50\u30e1\u30fc\u30eb \u30c6\u30f3\u30d7\u30ec\u30fc\u30c8\u3092\u7ba1\u7406\u3059\u308b",
+  "valueAsOriginal": "N"
+ },
+ "#OrganisationListerController.OrganisationsMenu": {
+  "changeDateTime": "2020-03-16T12:01:57.698955",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Manage organisations",
+  "value": "\u7d44\u7e54\u306e\u7ba1\u7406",
+  "valueAsOriginal": "N"
+ },
+ "#PersonListerController.PersonArchivedMenu": {
+  "changeDateTime": "2020-03-16T12:01:55.398023",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Show archived candidates",
+  "value": "\u30a2\u30fc\u30ab\u30a4\u30d6\u3055\u308c\u305f\u5019\u88dc\u8005\u3092\u8868\u793a",
+  "valueAsOriginal": "N"
+ },
+ "#PersonListerController.PersonMenu": {
+  "changeDateTime": "2020-03-16T12:01:55.194890",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Show active candidates",
+  "value": "\u6709\u52b9\u306a\u5019\u88dc\u8005\u3092\u8868\u793a",
+  "valueAsOriginal": "N"
+ },
+ "#ReportTemplateInterfaceSessionEdit.EditMenu": {
+  "changeDateTime": "2020-03-16T12:01:55.007390",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Edit report definitions",
+  "value": "\u30ec\u30dd\u30fc\u30c8\u5b9a\u7fa9\u306e\u7de8\u96c6",
+  "valueAsOriginal": "N"
+ },
+ "#ReportTemplateLocalPublisherController.LocalPublisherMenu": {
+  "changeDateTime": "2020-03-16T12:01:58.636461",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Publish report templates",
+  "value": "\u30ec\u30dd\u30fc\u30c8 \u30c6\u30f3\u30d7\u30ec\u30fc\u30c8\u306e\u767a\u884c",
+  "valueAsOriginal": "N"
+ },
+ "#ScreenTemplateLocalPublisherController.LocalPublisherMenu": {
+  "changeDateTime": "2020-03-16T12:01:58.058329",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Publish screen templates",
+  "value": "\u753b\u9762\u30c6\u30f3\u30d7\u30ec\u30fc\u30c8\u306e\u516c\u958b",
+  "valueAsOriginal": "N"
+ },
+ "#ServerSettingsController.Menu": {
+  "changeDateTime": "2020-03-16T12:01:58.823955",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Server settings",
+  "value": "\u30b5\u30fc\u30d0\u30fc\u8a2d\u5b9a",
+  "valueAsOriginal": "N"
+ },
+ "#SessionListerController.SessionArchivedMenu": {
+  "changeDateTime": "2020-03-16T12:01:54.819899",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Show archived sessions",
+  "value": "\u30a2\u30fc\u30ab\u30a4\u30d6\u3055\u308c\u305f\u30bb\u30c3\u30b7\u30e7\u30f3\u3092\u8868\u793a",
+  "valueAsOriginal": "N"
+ },
+ "#SessionListerController.SessionDoneMenu": {
+  "changeDateTime": "2020-03-16T12:01:54.632375",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Show report ready sessions",
+  "value": "\u30ec\u30dd\u30fc\u30c8\u6e96\u5099\u5b8c\u4e86\u30bb\u30c3\u30b7\u30e7\u30f3\u306e\u8868\u793a",
+  "valueAsOriginal": "N"
+ },
+ "#SessionListerController.SessionInProgressMenu": {
+  "changeDateTime": "2020-03-16T12:01:54.452921",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Show in progress sessions",
+  "value": "\u9032\u884c\u4e2d\u306e\u30bb\u30c3\u30b7\u30e7\u30f3\u3092\u8868\u793a",
+  "valueAsOriginal": "N"
+ },
+ "#SessionListerController.SessionReadyMenu": {
+  "changeDateTime": "2020-03-16T12:01:54.265472",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Show sessions ready for test taking",
+  "value": "\u30c6\u30b9\u30c8\u306e\u6e96\u5099\u304c\u3067\u304d\u305f\u30bb\u30c3\u30b7\u30e7\u30f3\u3092\u8868\u793a\u3059\u308b",
+  "valueAsOriginal": "N"
+ },
+ "#TestTemplateLocalPublisherController.LocalPublisherMenu": {
+  "changeDateTime": "2020-03-16T12:01:57.886484",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Publish test templates",
+  "value": "\u30c6\u30b9\u30c8 \u30c6\u30f3\u30d7\u30ec\u30fc\u30c8\u306e\u767a\u884c",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceAdminInterfaceSettingsDropdownButton": {
+  "changeDateTime": "2020-03-16T11:59:33.568973",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "\n                Select what you want to do\n            ",
+  "value": "\u5b9f\u884c\u3059\u308b\u64cd\u4f5c\u3092\u9078\u629e\u3059\u308b",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceCompanyHailingHeading": {
+  "changeDateTime": "2020-03-16T11:59:17.456657",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Welcome to&nbsp;",
+  "value": "\u3088\u3046\u3053\u305d",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceCreditManagementBody": {
+  "changeDateTime": "2020-03-16T11:59:31.178347",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "You have <label class=\"alert-info\" id=\"AdminInterfaceCreditManagementBodyAmount\">-</label>\n\t\t\tcredit units left in your system.<br>",
+  "value": "\u3042\u306a\u305f\u306f\u6301\u3063\u3066\u3044\u308b<label class=\"alert-info\" id=\"AdminInterfaceCreditManagementBodyAmount\">-</label>\n\t\t\t\u30b7\u30b9\u30c6\u30e0\u306b\u6b8b\u3055\u308c\u305f\u5358\u4f4d\u6570\u3002<br>",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceCreditManagementBodyAmount": {
+  "changeDateTime": "2020-03-16T11:59:31.334588",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "-",
+  "value": "-",
+  "valueAsOriginal": "Y"
+ },
+ "AdminInterfaceCreditManagementHeader": {
+  "changeDateTime": "2020-03-16T11:59:30.912719",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Credit\n\t\t\t\tmanagement",
+  "value": "\u30af\u30ec\u30b8\u30c3\u30c8\n\t\t\t\t\u7ba1\u7406",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceCreditManagementOrderButton": {
+  "changeDateTime": "2020-03-16T11:59:31.490856",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Order\n\t\t\t\tcredits",
+  "value": "\u9806\u5e8f\n\t\t\t\t\u30af\u30ec\u30b8\u30c3\u30c8",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceCreditManagementViewButton": {
+  "changeDateTime": "2020-03-16T11:59:31.678364",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "View usage",
+  "value": "\u4f7f\u7528\u72b6\u6cc1\u306e\u8868\u793a",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceEditSessionChange": {
+  "changeDateTime": "2020-03-16T11:59:34.709588",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "<i class=\"fa fa-fw fa-edit\"></i><span id=\"AdminInterfaceEditSessionChangeLabel\">Change session</span>\n    ",
+  "value": "<i class=\"fa fa-fw fa-edit\"></i><span id=\"AdminInterfaceEditSessionChangeLabel\">\u30bb\u30c3\u30b7\u30e7\u30f3\u306e\u5909\u66f4</span>\n    ",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceEditSessionChangeLabel": {
+  "changeDateTime": "2020-03-16T11:59:36.318963",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Change session",
+  "value": "\u30bb\u30c3\u30b7\u30e7\u30f3\u306e\u5909\u66f4",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceEditSessionEditAddTest": {
+  "changeDateTime": "2020-03-16T11:59:34.537712",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "<i class=\"fa fa-fw fa-plus \"></i><span id=\"AdminInterfaceEditSessionEditAddTestLabel\">Add another test</span>\n    ",
+  "value": "<i class=\"fa fa-fw fa-plus \"></i><span id=\"AdminInterfaceEditSessionEditAddTestLabel\">\u5225\u306e\u30c6\u30b9\u30c8\u3092\u8ffd\u52a0\u3059\u308b</span>\n    ",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceEditSessionEditAddTestLabel": {
+  "changeDateTime": "2020-03-16T11:59:36.131462",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Add another test",
+  "value": "\u5225\u306e\u30c6\u30b9\u30c8\u3092\u8ffd\u52a0\u3059\u308b",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceEditSessionEditArchive": {
+  "changeDateTime": "2020-03-16T11:59:36.506471",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Archive this session",
+  "value": "\u3053\u306e\u30bb\u30c3\u30b7\u30e7\u30f3\u3092\u30a2\u30fc\u30ab\u30a4\u30d6",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceEditSessionEditArchiveTest": {
+  "changeDateTime": "2020-03-16T11:59:34.912724",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "<i id=\"AdminInterfaceEditSessionEditArchiveTestIcon\" class=\"fa fa-fw fa-archive \"></i><span id=\"AdminInterfaceEditSessionEditArchive\">Archive this session</span>",
+  "value": "<i id=\"AdminInterfaceEditSessionEditArchiveTestIcon\" class=\"fa fa-fw fa-archive \"></i><span id=\"AdminInterfaceEditSessionEditArchive\">\u3053\u306e\u30bb\u30c3\u30b7\u30e7\u30f3\u3092\u30a2\u30fc\u30ab\u30a4\u30d6</span>",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceEditSessionEditDelete": {
+  "changeDateTime": "2020-03-16T11:59:36.709587",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Delete this session",
+  "value": "\u3053\u306e\u30bb\u30c3\u30b7\u30e7\u30f3\u3092\u524a\u9664",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceEditSessionEditDownload": {
+  "changeDateTime": "2020-03-16T11:59:36.912713",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Download session results archive",
+  "value": "\u30bb\u30c3\u30b7\u30e7\u30f3\u7d50\u679c\u30a2\u30fc\u30ab\u30a4\u30d6\u306e\u30c0\u30a6\u30f3\u30ed\u30fc\u30c9",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceEditSessionEditDownloadButton": {
+  "changeDateTime": "2020-03-16T11:59:35.318962",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "<i class=\"fa fa-fw fa-download \"></i><span id=\"AdminInterfaceEditSessionEditDownload\">Download session results archive</span>",
+  "value": "<i class=\"fa fa-fw fa-download \"></i><span id=\"AdminInterfaceEditSessionEditDownload\">\u30bb\u30c3\u30b7\u30e7\u30f3\u7d50\u679c\u30a2\u30fc\u30ab\u30a4\u30d6\u306e\u30c0\u30a6\u30f3\u30ed\u30fc\u30c9</span>",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceEditSessionEditHeader": {
+  "changeDateTime": "2020-03-16T11:59:33.756464",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Candidate session",
+  "value": "\u5019\u88dc\u8005\u30bb\u30c3\u30b7\u30e7\u30f3",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceEditSessionEditResendInvitation": {
+  "changeDateTime": "2020-03-16T11:59:34.147104",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "<i class=\"fa fa-fw fa-envelope \"></i><span id=\"AdminInterfaceEditSessionEditResendInvitationIcon\">Reset password and resend</span>",
+  "value": "<i class=\"fa fa-fw fa-envelope \"></i><span id=\"AdminInterfaceEditSessionEditResendInvitationIcon\">\u30d1\u30b9\u30ef\u30fc\u30c9\u3092\u30ea\u30bb\u30c3\u30c8\u3057\u3066\u518d\u9001\u4fe1\u3059\u308b</span>",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceEditSessionEditResendInvitationIcon": {
+  "changeDateTime": "2020-03-16T11:59:35.709598",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Reset password and resend",
+  "value": "\u30d1\u30b9\u30ef\u30fc\u30c9\u3092\u30ea\u30bb\u30c3\u30c8\u3057\u3066\u518d\u9001\u4fe1\u3059\u308b",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceEditSessionEditResendInvitationIconNoReset": {
+  "changeDateTime": "2020-03-16T11:59:35.506885",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Resend invitation",
+  "value": "\u62db\u5f85\u3092\u518d\u9001\u4fe1",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceEditSessionEditResendInvitationNoReset": {
+  "changeDateTime": "2020-03-16T11:59:33.959586",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "<i class=\"fa fa-fw fa-envelope \"></i><span id=\"AdminInterfaceEditSessionEditResendInvitationIconNoReset\">Resend invitation</span>",
+  "value": "<i class=\"fa fa-fw fa-envelope \"></i><span id=\"AdminInterfaceEditSessionEditResendInvitationIconNoReset\">\u62db\u5f85\u3092\u518d\u9001\u4fe1</span>",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceEditSessionEditStartNow": {
+  "changeDateTime": "2020-03-16T11:59:34.350219",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "<i class=\"fa fa-fw fa-envelope \"></i><span id=\"AdminInterfaceEditSessionEditStartNowIcon\">Reset password and start now</span>",
+  "value": "<i class=\"fa fa-fw fa-envelope \"></i><span id=\"AdminInterfaceEditSessionEditStartNowIcon\">\u30d1\u30b9\u30ef\u30fc\u30c9\u3092\u30ea\u30bb\u30c3\u30c8\u3057\u3066\u4eca\u3059\u3050\u958b\u59cb</span>",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceEditSessionEditStartNowIcon": {
+  "changeDateTime": "2020-03-16T11:59:35.912713",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Reset password and start now",
+  "value": "\u30d1\u30b9\u30ef\u30fc\u30c9\u3092\u30ea\u30bb\u30c3\u30c8\u3057\u3066\u4eca\u3059\u3050\u958b\u59cb",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceEditSessionEditUnarchiveTest": {
+  "changeDateTime": "2020-03-16T11:59:35.136044",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "<i id=\"AdminInterfaceEditSessionEditUnarchiveTestIcon\" class=\"fa fa-fw fa-archive \"></i><span id=\"AdminInterfaceEditSessionEditArchive\">Unarchive this session</span>",
+  "value": "<i id=\"AdminInterfaceEditSessionEditUnarchiveTestIcon\" class=\"fa fa-fw fa-archive \"></i><span id=\"AdminInterfaceEditSessionEditArchive\">\u3053\u306e\u30bb\u30c3\u30b7\u30e7\u30f3\u306e\u30a2\u30fc\u30ab\u30a4\u30d6\u3092\u89e3\u9664\u3059\u308b</span>",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceInviteNewCandidateButton": {
+  "changeDateTime": "2020-03-16T11:59:29.287713",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Start\n            inviting the candidate",
+  "value": "\u958b\u59cb\n            \u5019\u88dc\u8005\u3092\u62db\u5f85\u3059\u308b",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceInviteNewCandidateExplanation": {
+  "changeDateTime": "2020-03-16T11:59:28.897087",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Invite a new candidate to take one or\n            more tests on the ITS. Fill in the e-mail address of the candidate below and press the\n            <b>Start inviting the candidate</b> link below. ",
+  "value": "\u65b0\u3057\u3044\u5019\u88dc\u8005\u3092\u62db\u5f85\u3057\u3066\u30011 \u4eba\u307e\u305f\u306f\n            ITS\u306b\u95a2\u3059\u308b\u3088\u308a\u591a\u304f\u306e\u30c6\u30b9\u30c8\u3002\u4ee5\u4e0b\u306e\u5019\u88dc\u8005\u306e\u96fb\u5b50\u30e1\u30fc\u30eb\u30a2\u30c9\u30ec\u30b9\u3092\u5165\u529b\u3057\u3001\n            \u4ee5\u4e0b<b>\u306e\u5019\u88dc\u30ea\u30f3\u30af\u306e\u62db\u5f85\u3092\u958b\u59cb</b>\u3057\u307e\u3059\u3002",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceInviteNewCandidateHeading": {
+  "changeDateTime": "2020-03-16T11:59:28.678338",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Invite\n            new candidate",
+  "value": "\u62db\u5f85\n            \u65b0\u3057\u3044\u5019\u88dc\u8005",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceInviteNewCandidateUserName": {
+  "changeDateTime": "2020-03-16T11:59:29.084595",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "E-mail address",
+  "value": "\u30e1\u30fc\u30eb\u30a2\u30c9\u30ec\u30b9",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceInviteRRSessionsButton": {
+  "changeDateTime": "2020-03-16T11:59:30.756464",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Show sessions ready for reporting",
+  "value": "\u30ec\u30dd\u30fc\u30c8\u306e\u6e96\u5099\u304c\u3067\u304d\u305f\u30bb\u30c3\u30b7\u30e7\u30f3\u3092\u8868\u793a",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceInviteRRSessionsHeader": {
+  "changeDateTime": "2020-03-16T11:59:30.240837",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Report\n            ready sessions",
+  "value": "\u30ec\u30dd\u30fc\u30c8\n            \u6e96\u5099\u5b8c\u4e86\u30bb\u30c3\u30b7\u30e7\u30f3",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceInviteRRSessionsbody": {
+  "changeDateTime": "2020-03-16T11:59:30.522087",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "The sessions below have completed recently. Is\n            the session still in progress or not on the list below? Then click the link.",
+  "value": "\u4ee5\u4e0b\u306e\u30bb\u30c3\u30b7\u30e7\u30f3\u306f\u6700\u8fd1\u5b8c\u4e86\u3057\u307e\u3057\u305f\u3002\u306f\n            \u30bb\u30c3\u30b7\u30e7\u30f3\u306f\u307e\u3060\u9032\u884c\u4e2d\u3067\u3059\u304b\u3001\u4ee5\u4e0b\u306e\u30ea\u30b9\u30c8\u306b\u3042\u308a\u307e\u305b\u3093\u304b?\u6b21\u306b\u3001\u30ea\u30f3\u30af\u3092\u30af\u30ea\u30c3\u30af\u3057\u307e\u3059\u3002",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceInviteTCatalogBody": {
+  "changeDateTime": "2020-03-16T11:59:32.756468",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "If you would like to view the list of available\n            tests or read the test manual then select the test or click the link below.",
+  "value": "\u5229\u7528\u53ef\u80fd\u306a\u30ea\u30b9\u30c8\u3092\u8868\u793a\u3059\u308b\u5834\u5408\n            \u30c6\u30b9\u30c8\u3092\u884c\u3046\u304b\u3001\u30c6\u30b9\u30c8\u30de\u30cb\u30e5\u30a2\u30eb\u3092\u8aad\u3093\u3067\u304b\u3089\u3001\u30c6\u30b9\u30c8\u3092\u9078\u629e\u3059\u308b\u304b\u3001\u4ee5\u4e0b\u306e\u30ea\u30f3\u30af\u3092\u30af\u30ea\u30c3\u30af\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceInviteTCatalogHeader": {
+  "changeDateTime": "2020-03-16T11:59:32.428337",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Test\n            catalog",
+  "value": "\u30c6\u30b9\u30c8\n            \u30ab\u30bf\u30ed\u30b0",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceInviteTCatalogdropdownMenu": {
+  "changeDateTime": "2020-03-16T11:59:32.943963",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "\n                Select your test\n            ",
+  "value": "\u30c6\u30b9\u30c8\u3092\u9078\u629e\u3059\u308b",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceInviteUserMngtBody": {
+  "changeDateTime": "2020-03-16T11:59:32.084589",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "The following users have logged in recently. Need a\n            new user or does user access need to be revoked? Click <b>control user access</b>.",
+  "value": "\u6b21\u306e\u30e6\u30fc\u30b6\u30fc\u306f\u6700\u8fd1\u30ed\u30b0\u30a4\u30f3\u3057\u3066\u3044\u307e\u3059\u3002\u5fc5\u8981\u306a\n            \u65b0\u3057\u3044\u30e6\u30fc\u30b6\u30fc\u307e\u305f\u306f\u30e6\u30fc\u30b6\u30fc \u30a2\u30af\u30bb\u30b9\u3092\u53d6\u308a\u6d88\u3059\u5fc5\u8981\u304c\u3042\u308a\u307e\u3059\u304b\u3002[<b>\u30e6\u30fc\u30b6\u30fc \u30a2\u30af\u30bb\u30b9\u306e\u5236\u5fa1</b>] \u3092\u30af\u30ea\u30c3\u30af\u3057\u307e\u3059\u3002",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceInviteUserMngtButton": {
+  "changeDateTime": "2020-03-16T11:59:32.272095",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Control user\n            access",
+  "value": "\u30e6\u30fc\u30b6\u30fc\u3092\u5236\u5fa1\u3059\u308b\n            \u30a2\u30af\u30bb\u30b9",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceInviteUserMngtHeader": {
+  "changeDateTime": "2020-03-16T11:59:31.835867",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "User\n            management",
+  "value": "\u30e6\u30fc\u30b6\u30fc\n            \u7ba1\u7406",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceScreenTemplate-ActionsHeader": {
+  "changeDateTime": "2020-03-16T12:01:50.484168",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Actions",
+  "value": "\u30a2\u30af\u30b7\u30e7\u30f3",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceScreenTemplate-GenericHeader": {
+  "changeDateTime": "2020-03-16T11:59:39.694004",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Generic section",
+  "value": "\u6c4e\u7528\u30bb\u30af\u30b7\u30e7\u30f3",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceScreenTemplate-HTMLHeader": {
+  "changeDateTime": "2020-03-16T12:01:46.018706",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "HTML and scripting section",
+  "value": "HTML \u304a\u3088\u3073\u30b9\u30af\u30ea\u30d7\u30c8\u306e\u30bb\u30af\u30b7\u30e7\u30f3",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceScreenTemplate-PreviewHeader": {
+  "changeDateTime": "2020-03-16T12:01:48.768719",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Preview section",
+  "value": "\u30d7\u30ec\u30d3\u30e5\u30fc \u30bb\u30af\u30b7\u30e7\u30f3",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceScreenTemplate-PreviewHeaderPnP": {
+  "changeDateTime": "2020-03-16T12:01:49.758990",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "PnP preview",
+  "value": "PnP \u30d7\u30ec\u30d3\u30e5\u30fc",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceScreenTemplate-PreviewHeaderSummary": {
+  "changeDateTime": "2020-03-16T12:01:50.109179",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Summary preview",
+  "value": "\u6982\u8981\u30d7\u30ec\u30d3\u30e5\u30fc",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceScreenTemplate-PreviewHeaderTE": {
+  "changeDateTime": "2020-03-16T12:01:48.971829",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Test Editor preview",
+  "value": "\u30c6\u30b9\u30c8 \u30a8\u30c7\u30a3\u30bf\u30fc\u306e\u30d7\u30ec\u30d3\u30e5\u30fc",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceScreenTemplate-PreviewHeaderTT": {
+  "changeDateTime": "2020-03-16T12:01:49.368401",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Test Taking preview",
+  "value": "\u30c6\u30b9\u30c8\u53d7\u9a13\u30d7\u30ec\u30d3\u30e5\u30fc",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceScreenTemplate-TemplateVarSelectHeader": {
+  "changeDateTime": "2020-03-16T11:59:40.756467",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Select template variable",
+  "value": "\u30c6\u30f3\u30d7\u30ec\u30fc\u30c8\u5909\u6570\u306e\u9078\u629e",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceScreenTemplate-VarHeader": {
+  "changeDateTime": "2020-03-16T11:59:40.553337",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Template variable section",
+  "value": "\u30c6\u30f3\u30d7\u30ec\u30fc\u30c8\u5909\u6570\u30bb\u30af\u30b7\u30e7\u30f3",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceScreenTemplate-addTemplateVar": {
+  "changeDateTime": "2020-03-16T11:59:41.147091",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "\n                        <i class=\"fa fa-sm fa-plus aria-hidden='true'\"></i> Add new template variable\n                    ",
+  "value": "\n                        <i class=\"fa fa-sm fa-plus aria-hidden='true'\"></i>\u65b0\u3057\u3044\u30c6\u30f3\u30d7\u30ec\u30fc\u30c8\u5909\u6570\u306e\u8ffd\u52a0",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceScreenTemplate-copyButton": {
+  "changeDateTime": "2020-03-16T11:59:38.740838",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "<i class=\"fa fa-fw fa-copy\"></i> Copy this template",
+  "value": "<i class=\"fa fa-fw fa-copy\"></i>\u3053\u306e\u30c6\u30f3\u30d7\u30ec\u30fc\u30c8\u3092\u30b3\u30d4\u30fc",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceScreenTemplate-deleteButton": {
+  "changeDateTime": "2020-03-16T11:59:38.943980",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "<i class=\"fa fa-fw fa-trash\"></i> Delete this template",
+  "value": "<i class=\"fa fa-fw fa-trash\"></i>\u3053\u306e\u30c6\u30f3\u30d7\u30ec\u30fc\u30c8\u3092\u524a\u9664\u3057\u307e\u3059",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceScreenTemplate-description": {
+  "changeDateTime": "2020-03-16T11:59:40.053338",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "screen template description as shown in the test editor",
+  "value": "\u30c6\u30b9\u30c8 \u30a8\u30c7\u30a3\u30bf\u30fc\u306b\u793a\u3055\u308c\u3066\u3044\u308b\u753b\u9762\u30c6\u30f3\u30d7\u30ec\u30fc\u30c8\u306e\u8aac\u660e",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceScreenTemplate-descriptionHeader": {
+  "changeDateTime": "2020-03-16T11:59:39.850213",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Description",
+  "value": "\u8aac\u660e",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceScreenTemplate-downloadButton": {
+  "changeDateTime": "2020-03-16T11:59:39.147092",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "<i class=\"fa fa-fw fa-download\"></i> Download template definition",
+  "value": "<i class=\"fa fa-fw fa-download\"></i>\u30c6\u30f3\u30d7\u30ec\u30fc\u30c8\u5b9a\u7fa9\u306e\u30c0\u30a6\u30f3\u30ed\u30fc\u30c9",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceScreenTemplate-explanationHeader": {
+  "changeDateTime": "2020-03-16T11:59:40.209598",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Explanation",
+  "value": "\u8aac\u660e",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceScreenTemplate-labelGenerator": {
+  "changeDateTime": "2020-03-16T12:01:48.346835",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Generator snippet (id, num_blocks, template_values)",
+  "value": "\u30b8\u30a7\u30cd\u30ec\u30fc\u30bf \u30b9\u30cb\u30da\u30c3\u30c8 (id\u3001num_blocks\u3001template_values)",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceScreenTemplate-labelGeneratorGeneratePreviews": {
+  "changeDateTime": "2020-03-16T12:01:46.424967",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "\n                    <i class=\"fa fa-sm fa-check aria-hidden='true'\"></i> Show previews\n                ",
+  "value": "\n                    <i class=\"fa fa-sm fa-check aria-hidden='true'\"></i>\u30d7\u30ec\u30d3\u30e5\u30fc\u3092\u8868\u793a\u3059\u308b",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceScreenTemplate-labelGeneratorGetValue": {
+  "changeDateTime": "2020-03-16T12:01:47.065581",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Snippet to get value (id, num_blocks)",
+  "value": "\u5024\u3092\u53d6\u5f97\u3059\u308b\u30b9\u30cb\u30da\u30c3\u30c8 (id\u3001num_blocks)",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceScreenTemplate-labelGeneratorHTML": {
+  "changeDateTime": "2020-03-16T12:01:46.206206",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "HTML template",
+  "value": "HTML \u30c6\u30f3\u30d7\u30ec\u30fc\u30c8",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceScreenTemplate-labelGeneratorHTMLPnP": {
+  "changeDateTime": "2020-03-16T12:01:46.643712",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "HTML template for PnP input (if different from\n                    html template)",
+  "value": "PnP \u5165\u529b\u7528\u306e HTML \u30c6\u30f3\u30d7\u30ec\u30fc\u30c8 (\u6b21\u306e\u5834\u5408\u306f\n                    html \u30c6\u30f3\u30d7\u30ec\u30fc\u30c8)",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceScreenTemplate-labelGeneratorInitScript": {
+  "changeDateTime": "2020-03-16T12:01:47.534329",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Initialisation snippet (id, num_blocks, test_mode, template_values)",
+  "value": "\u521d\u671f\u5316\u30b9\u30cb\u30da\u30c3\u30c8 (id\u3001num_blocks\u3001test_mode\u3001template_values)",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceScreenTemplate-labelGeneratorPnP": {
+  "changeDateTime": "2020-03-16T12:01:48.581203",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Generator snippet PnP (id, num_blocks, template_values)",
+  "value": "\u30b8\u30a7\u30cd\u30ec\u30fc\u30bf \u30b9\u30cb\u30da\u30c3\u30c8 PnP (id\u3001num_blocks\u3001template_values)",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceScreenTemplate-labelGeneratorSetValue": {
+  "changeDateTime": "2020-03-16T12:01:47.315579",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Snippet to set value (id, num_blocks, varvalue)",
+  "value": "\u5024\u3092\u8a2d\u5b9a\u3059\u308b\u30b9\u30cb\u30da\u30c3\u30c8 (id\u3001num_blocks\u3001varvalue)",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceScreenTemplate-labelGeneratorSummary": {
+  "changeDateTime": "2020-03-16T12:01:46.846829",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "HTML template for summary view",
+  "value": "\u6982\u8981\u30d3\u30e5\u30fc\u7528\u306e HTML \u30c6\u30f3\u30d7\u30ec\u30fc\u30c8",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceScreenTemplate-labelGeneratorValidateScript": {
+  "changeDateTime": "2020-03-16T12:01:47.831205",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Validation snippet (id, num_blocks, test_mode, template_values, runtime_values)",
+  "value": "\u691c\u8a3c\u30b9\u30cb\u30da\u30c3\u30c8 (id\u3001num_blocks\u3001test_mode\u3001template_values\u3001runtime_values)",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceScreenTemplate-labelIsAnsweredScript": {
+  "changeDateTime": "2020-03-16T12:01:48.112455",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "IsAnswered snippet (id, num_blocks, test_mode, template_values, runtime_values)",
+  "value": "\u56de\u7b54\u6e08\u307f\u30b9\u30cb\u30da\u30c3\u30c8 (id\u3001num_blocks\u3001test_mode\u3001template_values\u3001runtime_values)",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceScreenTemplate-remarksHeader": {
+  "changeDateTime": "2020-03-16T11:59:40.381462",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Remarks",
+  "value": "\u767a\u8a00",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceScreenTemplate-removeTemplateVar": {
+  "changeDateTime": "2020-03-16T11:59:41.334600",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "\n                    <i class=\"fa fa-sm fa-minus aria-hidden='true'\"></i> Remove template variable\n                ",
+  "value": "\n                    <i class=\"fa fa-sm fa-minus aria-hidden='true'\"></i>\u30c6\u30f3\u30d7\u30ec\u30fc\u30c8\u5909\u6570\u306e\u524a\u9664",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceScreenTemplate-saveButton": {
+  "changeDateTime": "2020-03-16T11:59:38.553338",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "<i id=\"AdminInterfaceScreenTemplate-saveIcon\" class=\"fa fa-fw fa-thumbs-up\"></i> Save screen template",
+  "value": "<i id=\"AdminInterfaceScreenTemplate-saveIcon\" class=\"fa fa-fw fa-thumbs-up\"></i>\u753b\u9762\u30c6\u30f3\u30d7\u30ec\u30fc\u30c8\u306e\u4fdd\u5b58",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceScreenTemplate-showValuesPnPButton": {
+  "changeDateTime": "2020-03-16T12:01:49.937293",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "<i class=\"fa fa-eye\"></i> Show values",
+  "value": "<i class=\"fa fa-eye\"></i>\u5024\u306e\u8868\u793a",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceScreenTemplate-showValuesSummaryButton": {
+  "changeDateTime": "2020-03-16T12:01:50.327929",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "<i class=\"fa fa-eye\"></i> Show values",
+  "value": "<i class=\"fa fa-eye\"></i>\u5024\u306e\u8868\u793a",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceScreenTemplate-showValuesTEButton": {
+  "changeDateTime": "2020-03-16T12:01:49.143705",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "<i class=\"fa fa-eye\"></i> Show values",
+  "value": "<i class=\"fa fa-eye\"></i>\u5024\u306e\u8868\u793a",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceScreenTemplate-showValuesTTButton": {
+  "changeDateTime": "2020-03-16T12:01:49.571464",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "<i class=\"fa fa-eye\"></i> Show values",
+  "value": "<i class=\"fa fa-eye\"></i>\u5024\u306e\u8868\u793a",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceScreenTemplate-uploadButton": {
+  "changeDateTime": "2020-03-16T11:59:39.319757",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "<i class=\"fa fa-fw fa-upload\"></i> Upload template definition",
+  "value": "<i class=\"fa fa-fw fa-upload\"></i>\u30c6\u30f3\u30d7\u30ec\u30fc\u30c8\u5b9a\u7fa9\u306e\u30a2\u30c3\u30d7\u30ed\u30fc\u30c9",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceScreenTemplate-vardefaultvalue": {
+  "changeDateTime": "2020-03-16T12:01:43.829485",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "screen template default value",
+  "value": "\u753b\u9762\u30c6\u30f3\u30d7\u30ec\u30fc\u30c8\u306e\u65e2\u5b9a\u5024",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceScreenTemplate-vardefaultvalueheader": {
+  "changeDateTime": "2020-03-16T12:01:43.657609",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Default value",
+  "value": "\u30c7\u30d5\u30a9\u30eb\u30c8\u5024",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceScreenTemplate-vardescription": {
+  "changeDateTime": "2020-03-16T12:01:43.454497",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "description of the purpose of the variable as shown in the test editor",
+  "value": "\u30c6\u30b9\u30c8\u30fb\u30a8\u30c7\u30a3\u30bf\u30fc\u306b\u793a\u3055\u308c\u3066\u3044\u308b\u5909\u6570\u306e\u76ee\u7684\u306e\u8aac\u660e",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceScreenTemplate-vardescriptionheader": {
+  "changeDateTime": "2020-03-16T12:01:43.220122",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Description",
+  "value": "\u8aac\u660e",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceScreenTemplate-varname": {
+  "changeDateTime": "2020-03-16T12:01:43.063857",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "screen template variable name",
+  "value": "\u753b\u9762\u30c6\u30f3\u30d7\u30ec\u30fc\u30c8\u5909\u6570\u540d",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceScreenTemplate-varnameheader": {
+  "changeDateTime": "2020-03-16T12:01:42.876368",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Var name",
+  "value": "Var \u540d",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceScreenTemplate-vartranslatablelabel": {
+  "changeDateTime": "2020-03-16T12:01:43.985745",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Translatable",
+  "value": "\u7ffb\u8a33",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceScreenTemplate-vartype": {
+  "changeDateTime": "2020-03-16T12:01:44.188857",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Type of variable",
+  "value": "\u5909\u6570\u306e\u30bf\u30a4\u30d7",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceScreenTemplate-vartypeA": {
+  "changeDateTime": "2020-03-16T12:01:44.532620",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Text (multiple lines)",
+  "value": "\u30c6\u30ad\u30b9\u30c8 (\u8907\u6570\u884c)",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceScreenTemplate-vartypeB": {
+  "changeDateTime": "2020-03-16T12:01:45.158077",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "On/off switch",
+  "value": "\u30aa\u30f3/\u30aa\u30d5\u30b9\u30a4\u30c3\u30c1",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceScreenTemplate-vartypeC": {
+  "changeDateTime": "2020-03-16T12:01:45.329555",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Color picker",
+  "value": "\u30ab\u30e9\u30fc\u30d4\u30c3\u30ab\u30fc",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceScreenTemplate-vartypeE": {
+  "changeDateTime": "2020-03-16T12:01:45.831216",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Explanation",
+  "value": "\u8aac\u660e",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceScreenTemplate-vartypeH": {
+  "changeDateTime": "2020-03-16T12:01:44.751368",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "HTML Text (multiple lines)",
+  "value": "HTML \u30c6\u30ad\u30b9\u30c8 (\u8907\u6570\u884c)",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceScreenTemplate-vartypeI": {
+  "changeDateTime": "2020-03-16T12:01:45.485734",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Image",
+  "value": "\u30a4\u30e1\u30fc\u30b8",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceScreenTemplate-vartypeL": {
+  "changeDateTime": "2020-03-16T12:01:44.970109",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "List of choices",
+  "value": "\u9078\u629e\u80a2\u306e\u4e00\u89a7",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceScreenTemplate-vartypeP": {
+  "changeDateTime": "2020-03-16T12:01:45.665886",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Placeholder",
+  "value": "\u30d7\u30ec\u30fc\u30b9 \u30db\u30eb\u30c0\u30fc",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceScreenTemplate-vartypeT": {
+  "changeDateTime": "2020-03-16T12:01:44.345165",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Text",
+  "value": "\u30c6\u30ad\u30b9\u30c8",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceScreenTemplateEditHeaderH4": {
+  "changeDateTime": "2020-03-16T11:59:37.709588",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Edit and create test screen templates",
+  "value": "\u30c6\u30b9\u30c8\u753b\u9762\u30c6\u30f3\u30d7\u30ec\u30fc\u30c8\u306e\u7de8\u96c6\u3068\u4f5c\u6210",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceScreenTemplateSelectHeader": {
+  "changeDateTime": "2020-03-16T11:59:37.959590",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Select a screen template or add a new one",
+  "value": "\u753b\u9762\u30c6\u30f3\u30d7\u30ec\u30fc\u30c8\u3092\u9078\u629e\u3059\u308b\u304b\u3001\u65b0\u3057\u3044\u30c6\u30f3\u30d7\u30ec\u30fc\u30c8\u3092\u8ffd\u52a0\u3059\u308b",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceScreenTemplateSelectHeaderEdit": {
+  "changeDateTime": "2020-03-16T11:59:39.522088",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Test Screen Template editor",
+  "value": "\u30c6\u30b9\u30c8\u753b\u9762\u30c6\u30f3\u30d7\u30ec\u30fc\u30c8\u30a8\u30c7\u30a3\u30bf",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceScreenTemplateSelectList": {
+  "changeDateTime": "2020-03-16T11:59:38.162713",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "\n            <li id=\"AdminInterfaceScreenTemplateSelectListLoading\"> list is loading ...</li>\n        ",
+  "value": "\n            <li id=\"AdminInterfaceScreenTemplateSelectListLoading\">\u30ea\u30b9\u30c8\u304c\u8aad\u307f\u8fbc\u3093\u3067\u3044\u307e\u3059.</li>\n        ",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceScreenTemplateSelectListLoading": {
+  "changeDateTime": "2020-03-16T11:59:38.350223",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": " list is loading ...",
+  "value": "\u30ea\u30b9\u30c8\u304c\u8aad\u307f\u8fbc\u3093\u3067\u3044\u307e\u3059.",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceScreenVarSelectListLoading": {
+  "changeDateTime": "2020-03-16T11:59:40.943964",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "list is loading ...",
+  "value": "\u30ea\u30b9\u30c8\u304c\u8aad\u307f\u8fbc\u3093\u3067\u3044\u307e\u3059.",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceSessionEditAccordionLabel": {
+  "changeDateTime": "2020-03-16T11:59:24.397086",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Session validity",
+  "value": "\u30bb\u30c3\u30b7\u30e7\u30f3\u306e\u6709\u52b9\u6027",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceSessionEditHeader": {
+  "changeDateTime": "2020-03-16T11:59:19.394156",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Create new candidate session",
+  "value": "\u65b0\u3057\u3044\u5019\u88dc\u30bb\u30c3\u30b7\u30e7\u30f3\u306e\u4f5c\u6210",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceSessionEditInformationLabel": {
+  "changeDateTime": "2020-03-16T11:59:22.475228",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Information about the candidate",
+  "value": "\u5019\u88dc\u8005\u306b\u95a2\u3059\u308b\u60c5\u5831",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceSessionEditMailMeLabel": {
+  "changeDateTime": "2020-03-16T11:59:25.522087",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Mail me when this session completes at",
+  "value": "\u3053\u306e\u30bb\u30c3\u30b7\u30e7\u30f3\u304c\u5b8c\u4e86\u3057\u305f\u3089\u30e1\u30fc\u30eb\u3067\u9001\u4fe1\u3059\u308b",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceSessionEditNotificationLabel": {
+  "changeDateTime": "2020-03-16T11:59:25.287713",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Session notification settings",
+  "value": "\u30bb\u30c3\u30b7\u30e7\u30f3\u901a\u77e5\u8a2d\u5b9a",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceSessionEditRemarksLabel": {
+  "changeDateTime": "2020-03-16T11:59:25.678462",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Remarks",
+  "value": "\u767a\u8a00",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceSessionNewSessionAddMoreButton": {
+  "changeDateTime": "2020-03-16T11:59:26.350213",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "<i id=\"AdminInterfaceSessionNewSession-newIcon\" class=\"fa fa-fw fa-plus-square\"></i> <span id=\"AdminInterfaceSessionNewSessionNewButtonLabel\">Add another session</span>\n",
+  "value": "<i id=\"AdminInterfaceSessionNewSession-newIcon\" class=\"fa fa-fw fa-plus-square\"></i><span id=\"AdminInterfaceSessionNewSessionNewButtonLabel\">\u5225\u306e\u30bb\u30c3\u30b7\u30e7\u30f3\u3092\u8ffd\u52a0\u3059\u308b</span>\n",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceSessionNewSessionCandidateAgeLabel": {
+  "changeDateTime": "2020-03-16T11:59:23.318962",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Age",
+  "value": "\u5e74\u9f62",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceSessionNewSessionCandidateBirthDateLabel": {
+  "changeDateTime": "2020-03-16T11:59:23.162713",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Birthdate",
+  "value": "\u8a95\u751f\u65e5",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceSessionNewSessionCandidateFirstNameLabel": {
+  "changeDateTime": "2020-03-16T11:59:22.662724",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "First name",
+  "value": "\u540d",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceSessionNewSessionCandidateFor": {
+  "changeDateTime": "2020-03-16T11:59:20.534794",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Enter the e-mail address or login of the candidate",
+  "value": "\u5019\u88dc\u8005\u306e\u30e1\u30fc\u30eb\u30a2\u30c9\u30ec\u30b9\u307e\u305f\u306f\u30ed\u30b0\u30a4\u30f3\u3092\u5165\u529b\u3057\u3066\u304f\u3060\u3055\u3044",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceSessionNewSessionCandidateForLabel": {
+  "changeDateTime": "2020-03-16T11:59:20.300416",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Candidate\n                e-mail address or login",
+  "value": "\u5019\u88dc\n                \u96fb\u5b50\u30e1\u30fc\u30eb \u30a2\u30c9\u30ec\u30b9\u307e\u305f\u306f\u30ed\u30b0\u30a4\u30f3",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceSessionNewSessionCandidateInitialsLabel": {
+  "changeDateTime": "2020-03-16T11:59:22.818961",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Initials",
+  "value": "\u30a4\u30cb\u30b7\u30e3\u30eb",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceSessionNewSessionCandidateLastNameLabel": {
+  "changeDateTime": "2020-03-16T11:59:23.006480",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Last name",
+  "value": "\u59d3",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceSessionNewSessionCandidatePasswordLabel": {
+  "changeDateTime": "2020-03-16T11:59:24.209588",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Please enter a password.",
+  "value": "\u30d1\u30b9\u30ef\u30fc\u30c9\u3092\u5165\u529b\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceSessionNewSessionCandidateSexFemaleLabel": {
+  "changeDateTime": "2020-03-16T11:59:23.819105",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Female",
+  "value": "\u5973\u6027",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceSessionNewSessionCandidateSexLabel": {
+  "changeDateTime": "2020-03-16T11:59:23.490863",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Sex",
+  "value": "\u30bb\u30c3\u30af\u30b9",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceSessionNewSessionCandidateSexMaleLabel": {
+  "changeDateTime": "2020-03-16T11:59:23.662781",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Male",
+  "value": "\u7537\u6027",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceSessionNewSessionCandidateSexUnknownLabel": {
+  "changeDateTime": "2020-03-16T11:59:24.022098",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Unknown or gender neutral",
+  "value": "\u4e0d\u660e\u307e\u305f\u306f\u6027\u5225\u306b\u4f9d\u5b58\u3057\u306a\u3044",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceSessionNewSessionDeleteButton": {
+  "changeDateTime": "2020-03-16T11:59:27.272086",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "<i class=\"fa fa-fw fa-trash aria-hidden='true'\"></i> <span id=\"AdminInterfaceSessionNewSessionDeleteButtonLabel\">Delete session</span>\n",
+  "value": "<i class=\"fa fa-fw fa-trash aria-hidden='true'\"></i><span id=\"AdminInterfaceSessionNewSessionDeleteButtonLabel\">\u30bb\u30c3\u30b7\u30e7\u30f3\u306e\u524a\u9664</span>\n",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceSessionNewSessionDeleteButtonLabel": {
+  "changeDateTime": "2020-03-16T11:59:28.287721",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Delete session",
+  "value": "\u30bb\u30c3\u30b7\u30e7\u30f3\u306e\u524a\u9664",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceSessionNewSessionDescriptionFor": {
+  "changeDateTime": "2020-03-16T11:59:19.909858",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Enter a session description",
+  "value": "\u30bb\u30c3\u30b7\u30e7\u30f3\u306e\u8aac\u660e\u3092\u5165\u529b\u3059\u308b",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceSessionNewSessionDescriptionLabel": {
+  "changeDateTime": "2020-03-16T11:59:19.581657",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Session\n                description",
+  "value": "\u30bb\u30c3\u30b7\u30e7\u30f3\n                \u8aac\u660e",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceSessionNewSessionDescriptionTT": {
+  "changeDateTime": "2020-03-16T11:59:20.112907",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Please enter a session description.",
+  "value": "\u30bb\u30c3\u30b7\u30e7\u30f3\u306e\u8aac\u660e\u3092\u5165\u529b\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceSessionNewSessionEndDateEnforcedLabel": {
+  "changeDateTime": "2020-03-16T11:59:25.084597",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Stop the session when still in progress at this date and time",
+  "value": "\u3053\u306e\u65e5\u6642\u306b\u9032\u884c\u4e2d\u306e\u30bb\u30c3\u30b7\u30e7\u30f3\u3092\u505c\u6b62\u3059\u308b",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceSessionNewSessionEndDateLabel": {
+  "changeDateTime": "2020-03-16T11:59:24.865855",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Session cannot start <b>after</b> this date &amp; time",
+  "value": "\u3053\u306e\u65e5\u4ed8\u3068\u6642\u523b<b>\u4ee5\u964d</b>\u306b\u30bb\u30c3\u30b7\u30e7\u30f3\u3092\u958b\u59cb\u3059\u308b\u3053\u3068\u306f\u3067\u304d\u307e\u305b\u3093\u3002",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceSessionNewSessionInviteButton": {
+  "changeDateTime": "2020-03-16T11:59:26.584588",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "<i class=\"fa fa-fw fa-envelope\"></i><span id=\"AdminInterfaceSessionNewSessionInviteButtonLabel\">Invite candidate by e-mail</span>\n",
+  "value": "<i class=\"fa fa-fw fa-envelope\"></i><span id=\"AdminInterfaceSessionNewSessionInviteButtonLabel\">\u96fb\u5b50\u30e1\u30fc\u30eb\u3067\u5019\u88dc\u8005\u3092\u62db\u5f85\u3059\u308b</span>\n",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceSessionNewSessionInviteButtonLabel": {
+  "changeDateTime": "2020-03-16T11:59:27.881463",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Invite candidate by e-mail",
+  "value": "\u96fb\u5b50\u30e1\u30fc\u30eb\u3067\u5019\u88dc\u8005\u3092\u62db\u5f85\u3059\u308b",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceSessionNewSessionNewButtonLabel": {
+  "changeDateTime": "2020-03-16T11:59:27.662712",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Add another session",
+  "value": "\u5225\u306e\u30bb\u30c3\u30b7\u30e7\u30f3\u3092\u8ffd\u52a0\u3059\u308b",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceSessionNewSessionSaveButton": {
+  "changeDateTime": "2020-03-16T11:59:26.162720",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "<i id=\"AdminInterfaceSessionNewSession-saveIcon\" class=\"fa fa-fw fa-thumbs-up\"></i> <span id=\"AdminInterfaceSessionNewSessionSaveButtonLabel\">Save session</span>\n",
+  "value": "<i id=\"AdminInterfaceSessionNewSession-saveIcon\" class=\"fa fa-fw fa-thumbs-up\"></i><span id=\"AdminInterfaceSessionNewSessionSaveButtonLabel\">\u30bb\u30c3\u30b7\u30e7\u30f3\u306e\u4fdd\u5b58</span>\n",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceSessionNewSessionSaveButtonLabel": {
+  "changeDateTime": "2020-03-16T11:59:27.459599",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Save session",
+  "value": "\u30bb\u30c3\u30b7\u30e7\u30f3\u306e\u4fdd\u5b58",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceSessionNewSessionStartButton": {
+  "changeDateTime": "2020-03-16T11:59:27.084607",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "<i id=\"AdminInterfaceSessionNewSession-startNowIcon\" class=\"fa fa-fw fa-hourglass-start\"></i><span id=\"AdminInterfaceSessionNewSessionStartNowButtonLabel\">Set password and start session now</span>\n",
+  "value": "<i id=\"AdminInterfaceSessionNewSession-startNowIcon\" class=\"fa fa-fw fa-hourglass-start\"></i><span id=\"AdminInterfaceSessionNewSessionStartNowButtonLabel\">\u30d1\u30b9\u30ef\u30fc\u30c9\u3092\u8a2d\u5b9a\u3057\u3001\u4eca\u3059\u3050\u30bb\u30c3\u30b7\u30e7\u30f3\u3092\u958b\u59cb\u3059\u308b</span>\n",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceSessionNewSessionStartDateLabel": {
+  "changeDateTime": "2020-03-16T11:59:24.647088",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Session cannot start <b>before</b> this date &amp; time",
+  "value": "\u30bb\u30c3\u30b7\u30e7\u30f3\u3092\u3053\u306e\u65e5\u4ed8\u3068\u6642\u523b<b>\u3088\u308a\u524d\u306b</b>\u958b\u59cb\u3059\u308b\u3053\u3068\u306f\u3067\u304d\u307e\u305b\u3093\u3002",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceSessionNewSessionStartNowButtonLabel": {
+  "changeDateTime": "2020-03-16T11:59:28.115837",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Set password and start session now",
+  "value": "\u30d1\u30b9\u30ef\u30fc\u30c9\u3092\u8a2d\u5b9a\u3057\u3001\u4eca\u3059\u3050\u30bb\u30c3\u30b7\u30e7\u30f3\u3092\u958b\u59cb\u3059\u308b",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceSessionNewSessionTestsIncludeOtherLanguagesLabel": {
+  "changeDateTime": "2020-03-16T11:59:20.972280",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Include tests in other languages",
+  "value": "\u4ed6\u306e\u8a00\u8a9e\u306e\u30c6\u30b9\u30c8\u3092\u542b\u3081\u308b",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceSessionNewSessionTestsInputListLabel": {
+  "changeDateTime": "2020-03-16T11:59:20.753532",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Tests in this session",
+  "value": "\u3053\u306e\u30bb\u30c3\u30b7\u30e7\u30f3\u3067\u306e\u30c6\u30b9\u30c8",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceSessionNewSessionTestsSelectionC1": {
+  "changeDateTime": "2020-03-16T11:59:22.256463",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "No tests added yet",
+  "value": "\u30c6\u30b9\u30c8\u306f\u307e\u3060\u8ffd\u52a0\u3055\u308c\u3066\u3044\u307e\u305b\u3093",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceSessionNewSessionTestsSelectionH1": {
+  "changeDateTime": "2020-03-16T11:59:21.147070",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Test name",
+  "value": "\u30c6\u30b9\u30c8\u540d",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceSessionNewSessionTestsSelectionH2": {
+  "changeDateTime": "2020-03-16T11:59:21.334596",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Test language",
+  "value": "\u30c6\u30b9\u30c8\u8a00\u8a9e",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceSessionNewSessionTestsSelectionH3": {
+  "changeDateTime": "2020-03-16T11:59:21.522095",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Norm 1",
+  "value": "\u30ce\u30eb\u30e01",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceSessionNewSessionTestsSelectionH4": {
+  "changeDateTime": "2020-03-16T11:59:21.709587",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Norm 2",
+  "value": "\u30ce\u30eb\u30e02",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceSessionNewSessionTestsSelectionH5": {
+  "changeDateTime": "2020-03-16T11:59:21.897105",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Norm 3",
+  "value": "\u30ce\u30eb\u30e03",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceSessionNewSessionTestsSelectionH6": {
+  "changeDateTime": "2020-03-16T11:59:22.053337",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Actions",
+  "value": "\u30a2\u30af\u30b7\u30e7\u30f3",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceSessionNewWarningExistsLabel": {
+  "changeDateTime": "2020-03-16T11:59:25.943962",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Please note : The candidate you have selected is already known. The session will be added as usual, the password and other data of the candidate will be updated. ",
+  "value": "\u6ce8\u610f: \u9078\u629e\u3057\u305f\u5019\u88dc\u8005\u306f\u65e2\u306b\u308f\u304b\u3063\u3066\u3044\u308b\u3002\u30bb\u30c3\u30b7\u30e7\u30f3\u306f\u901a\u5e38\u3069\u304a\u308a\u8ffd\u52a0\u3055\u308c\u3001\u5019\u88dc\u306e\u30d1\u30b9\u30ef\u30fc\u30c9\u3084\u305d\u306e\u4ed6\u306e\u30c7\u30fc\u30bf\u304c\u66f4\u65b0\u3055\u308c\u307e\u3059\u3002",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceSessionProgressBusyHeader": {
+  "changeDateTime": "2020-03-16T11:59:30.053337",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "In progress sessions",
+  "value": "\u9032\u884c\u4e2d\u306e\u30bb\u30c3\u30b7\u30e7\u30f3",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceSessionProgressPortletBusyButton": {
+  "changeDateTime": "2020-03-16T11:59:29.850225",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Show list",
+  "value": "\u30ea\u30b9\u30c8\u3092\u8868\u793a",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceSessionProgressPortletButton": {
+  "changeDateTime": "2020-03-16T11:59:29.475214",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Show list",
+  "value": "\u30ea\u30b9\u30c8\u3092\u8868\u793a",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceSessionProgressPortletHeader": {
+  "changeDateTime": "2020-03-16T11:59:29.662852",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Prepared sessions",
+  "value": "\u6e96\u5099\u3055\u308c\u305f\u30bb\u30c3\u30b7\u30e7\u30f3",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceSettingsBody": {
+  "changeDateTime": "2020-03-16T11:59:33.381475",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Control your personal or your companies preferences by\n            choosing what you want to do from the list below. Or open the system menu for more\n            options.",
+  "value": "\u500b\u4eba\u307e\u305f\u306f\u4f1a\u793e\u306e\u597d\u307f\u3092\u5236\u5fa1\u3059\u308b\n            \u4ee5\u4e0b\u306e\u30ea\u30b9\u30c8\u304b\u3089\u3001\u4f55\u3092\u3057\u305f\u3044\u304b\u3092\u9078\u629e\u3057\u307e\u3059\u3002\u307e\u305f\u306f\u3001\u30b7\u30b9\u30c6\u30e0\u30e1\u30cb\u30e5\u30fc\u3092\u958b\u3044\u3066\u3001\u3088\u308a\u591a\u304f\u3092\u8868\u793a\u3057\u307e\u3059\u3002\n            \u30aa\u30d7\u30b7\u30e7\u30f3\u3002",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceSettingsHeader": {
+  "changeDateTime": "2020-03-16T11:59:33.131461",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Your preferences",
+  "value": "\u3042\u306a\u305f\u306e\u597d\u307f",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditor-LanguageSelectLabel": {
+  "changeDateTime": "2020-03-16T12:02:04.784717",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Test language",
+  "value": "\u30c6\u30b9\u30c8\u8a00\u8a9e",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditor-uploadButtonA": {
+  "changeDateTime": "2020-03-16T12:02:19.983694",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "<i class=\"fa fa-fw fa-upload\"></i> Upload file",
+  "value": "<i class=\"fa fa-fw fa-upload\"></i>\u30d5\u30a1\u30a4\u30eb\u306e\u30a2\u30c3\u30d7\u30ed\u30fc\u30c9",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditor-uploadButtonB": {
+  "changeDateTime": "2020-03-16T12:02:20.936640",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "<i class=\"fa fa-fw fa-upload\"></i> Upload PDF file",
+  "value": "<i class=\"fa fa-fw fa-upload\"></i>PDF \u30d5\u30a1\u30a4\u30eb\u306e\u30a2\u30c3\u30d7\u30ed\u30fc\u30c9",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorActionButtonCopy": {
+  "changeDateTime": "2020-03-16T12:02:01.831581",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "<i class=\"fa fa-fw fa-copy\"></i>\n        Copy\n        this test\n    ",
+  "value": "<i class=\"fa fa-fw fa-copy\"></i>\u30b3\u30d4\u30fc\n        \u3053\u306e\u30c6\u30b9\u30c8",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorActionButtonDelete": {
+  "changeDateTime": "2020-03-16T12:02:02.051120",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "<i class=\"fa fa-fw fa-trash\"></i> Delete this test definition\n    ",
+  "value": "<i class=\"fa fa-fw fa-trash\"></i>\u3053\u306e\u30c6\u30b9\u30c8\u5b9a\u7fa9\u3092\u524a\u9664\u3057\u307e\u3059",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorActionButtonSave": {
+  "changeDateTime": "2020-03-16T12:02:01.659719",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "<i id=\"AdminInterfaceTestTemplateEditor-saveIcon\" class=\"fa fa-fw fa-thumbs-up\"></i> Save test definition\n    ",
+  "value": "<i id=\"AdminInterfaceTestTemplateEditor-saveIcon\" class=\"fa fa-fw fa-thumbs-up\"></i>\u30c6\u30b9\u30c8\u5b9a\u7fa9\u306e\u4fdd\u5b58",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorActionButtonTrial": {
+  "changeDateTime": "2020-03-16T12:02:02.253457",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "<i class=\"fa fa-fw fa-flask\"></i>\n        Trial lab run\n    ",
+  "value": "<i class=\"fa fa-fw fa-flask\"></i>\u8a66\u7528\u7248\u30e9\u30dc\u306e\u5b9f\u884c",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorActionButtonTrialPnP": {
+  "changeDateTime": "2020-03-16T12:02:02.487834",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "<i class=\"fa fa-fw fa-flask\"></i>\n        Trial lab run PnP\n    ",
+  "value": "<i class=\"fa fa-fw fa-flask\"></i>\u8a66\u7528\u7248\u30e9\u30dc\u306e\u5b9f\u884c PnP",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorAddNewTest": {
+  "changeDateTime": "2020-03-16T12:02:01.440957",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "\n            <i class=\"fa fa-sm fa-plus aria-hidden='true'\"></i> Add new test definition\n        ",
+  "value": "\n            <i class=\"fa fa-sm fa-plus aria-hidden='true'\"></i>\u65b0\u3057\u3044\u30c6\u30b9\u30c8\u5b9a\u7fa9\u306e\u8ffd\u52a0",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorAddNormButton": {
+  "changeDateTime": "2020-03-16T12:02:15.811545",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "<i class=\"fa fa-fw fa-plus\"></i>Add\n                new norm\n            ",
+  "value": "<i class=\"fa fa-fw fa-plus\"></i>\u8ffd\u52a0\n                \u65b0\u3057\u3044\u898f\u7bc4",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorAddScaleButton": {
+  "changeDateTime": "2020-03-16T12:02:11.467489",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "<i class=\"fa fa-fw fa-plus\"></i>Add\n                        new scale\n                    ",
+  "value": "<i class=\"fa fa-fw fa-plus\"></i>\u8ffd\u52a0\n                        \u65b0\u3057\u3044\u30b9\u30b1\u30fc\u30eb",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorAddScoreMatrixButton": {
+  "changeDateTime": "2020-03-16T12:02:14.170971",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "<i class=\"fa fa-fw fa-plus\"></i>Add new scoring line\n                ",
+  "value": "<i class=\"fa fa-fw fa-plus\"></i>\u65b0\u3057\u3044\u30b9\u30b3\u30a2\u30e9\u30a4\u30f3\u3092\u8ffd\u52a0\u3059\u308b",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorAddScreenButton": {
+  "changeDateTime": "2020-03-16T12:02:08.260635",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "<i class=\"fa fa-fw fa-plus\"></i> Add new screen\n                ",
+  "value": "<i class=\"fa fa-fw fa-plus\"></i>\u65b0\u3057\u3044\u753b\u9762\u3092\u8ffd\u52a0",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorAddScreenComponentButton": {
+  "changeDateTime": "2020-03-16T12:02:08.885636",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "<i class=\"fa fa-fw fa-plus\"></i> Add new screen component\n                    ",
+  "value": "<i class=\"fa fa-fw fa-plus\"></i>\u65b0\u3057\u3044\u753b\u9762\u30b3\u30f3\u30dd\u30fc\u30cd\u30f3\u30c8\u306e\u8ffd\u52a0",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorCatalogMediaHeader": {
+  "changeDateTime": "2020-03-16T12:02:20.749047",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Catalog media",
+  "value": "\u30ab\u30bf\u30ed\u30b0 \u30e1\u30c7\u30a3\u30a2",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorCopyFromScreenButton": {
+  "changeDateTime": "2020-03-16T12:02:09.104392",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "\n                            <i class=\"fa fa-fw fa-copy\"></i> Copy from screen\n                    ",
+  "value": "\n                            <i class=\"fa fa-fw fa-copy\"></i>\u753b\u9762\u304b\u3089\u30b3\u30d4\u30fc",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorHeaderH4": {
+  "changeDateTime": "2020-03-16T12:02:00.581583",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Edit and create test definitions",
+  "value": "\u30c6\u30b9\u30c8\u5b9a\u7fa9\u306e\u7de8\u96c6\u3068\u4f5c\u6210",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorMedia_AvailableCatalogCol": {
+  "changeDateTime": "2020-03-16T12:02:21.139670",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Available catalog files",
+  "value": "\u4f7f\u7528\u53ef\u80fd\u306a\u30ab\u30bf\u30ed\u30b0 \u30d5\u30a1\u30a4\u30eb",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorMedia_AvailableMediaCol": {
+  "changeDateTime": "2020-03-16T12:02:20.170921",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Available media files",
+  "value": "\u4f7f\u7528\u53ef\u80fd\u306a\u30e1\u30c7\u30a3\u30a2 \u30d5\u30a1\u30a4\u30eb",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorMedia_FileLink": {
+  "changeDateTime": "2020-03-16T12:02:20.561547",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "File link",
+  "value": "\u30d5\u30a1\u30a4\u30eb\u30ea\u30f3\u30af",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorMedia_FileName": {
+  "changeDateTime": "2020-03-16T12:02:20.358422",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "File name",
+  "value": "\u30d5\u30a1\u30a4\u30eb\u540d",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorNormActiveHeader": {
+  "changeDateTime": "2020-03-16T12:02:16.233438",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Norm can be used",
+  "value": "\u30ce\u30eb\u30e0\u3092\u4f7f\u7528\u3067\u304d\u307e\u3059",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorNormDefaultOrderLabel": {
+  "changeDateTime": "2020-03-16T12:02:18.327181",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Default norm order",
+  "value": "\u65e2\u5b9a\u306e\u6a19\u6e96\u9806\u5e8f",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorNormExplanationHeader": {
+  "changeDateTime": "2020-03-16T12:02:18.749060",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Norm explanation",
+  "value": "\u30ce\u30eb\u30e0\u8aac\u660e",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorNormHeader": {
+  "changeDateTime": "2020-03-16T12:02:15.625915",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Select norm",
+  "value": "\u30ce\u30eb\u30e0\u3092\u9078\u629e",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorNormNameHeader": {
+  "changeDateTime": "2020-03-16T12:02:16.420922",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Norm description",
+  "value": "\u30ce\u30eb\u30e0\u306e\u8aac\u660e",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorNormPercentilesHeader": {
+  "changeDateTime": "2020-03-16T12:02:18.548564",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Percentile values present",
+  "value": "\u73fe\u5728\u306e\u767e\u5206\u4f4d\u6570\u306e\u5024",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorNormRemarksHeader": {
+  "changeDateTime": "2020-03-16T12:02:18.999047",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Remarks (only shown here)",
+  "value": "\u5099\u8003 (\u3053\u3053\u306b\u793a\u3059\u5834\u5408\u306e\u307f)",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorNormType-D": {
+  "changeDateTime": "2020-03-16T12:02:17.295930",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Decile (1-10)",
+  "value": "\u30c7\u30b7\u30eb (1-10)",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorNormType-O": {
+  "changeDateTime": "2020-03-16T12:02:18.108435",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Other",
+  "value": "\u4ed6",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorNormType-P": {
+  "changeDateTime": "2020-03-16T12:02:17.751028",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Percentile (1-100)",
+  "value": "\u30d1\u30fc\u30bb\u30f3\u30bf\u30a4\u30eb (1-100)",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorNormType-S": {
+  "changeDateTime": "2020-03-16T12:02:17.045934",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Stanine (1-9)",
+  "value": "\u30b9\u30bf\u30cb\u30fc\u30f3 (1-9)",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorNormType-T": {
+  "changeDateTime": "2020-03-16T12:02:17.920920",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Textual",
+  "value": "\u30c6\u30ad\u30b9\u30c8",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorNormType-V": {
+  "changeDateTime": "2020-03-16T12:02:17.514677",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Vigintile (1-20)",
+  "value": "\u30f4\u30a3\u30ac\u30f3\u30bf\u30a4\u30eb (1-20)",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorNormTypeHeader": {
+  "changeDateTime": "2020-03-16T12:02:16.827437",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Norm type",
+  "value": "\u30ce\u30eb\u30e0\u30bf\u30a4\u30d7",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorNormVarNameHeader": {
+  "changeDateTime": "2020-03-16T12:02:16.624098",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Norm variable name",
+  "value": "\u30ce\u30eb\u30e0\u5909\u6570\u540d",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorRemoveNormButton": {
+  "changeDateTime": "2020-03-16T12:02:16.014692",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "<i class=\"fa fa-fw fa-trash\"></i>Remove norm\n            ",
+  "value": "<i class=\"fa fa-fw fa-trash\"></i>\u30ce\u30eb\u30e0\u3092\u524a\u9664\u3059\u308b",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorRemoveScaleButton": {
+  "changeDateTime": "2020-03-16T12:02:11.670604",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "<i class=\"fa fa-fw fa-trash\"></i>Remove scale\n                    ",
+  "value": "<i class=\"fa fa-fw fa-trash\"></i>\u30b9\u30b1\u30fc\u30eb\u3092\u524a\u9664\u3059\u308b",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorScaleActiveHeader": {
+  "changeDateTime": "2020-03-16T12:02:11.890665",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Show scale as test result",
+  "value": "\u30c6\u30b9\u30c8\u7d50\u679c\u3068\u3057\u3066\u30b9\u30b1\u30fc\u30eb\u3092\u8868\u793a",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorScaleDefaultHeader": {
+  "changeDateTime": "2020-03-16T12:02:13.342848",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Default value",
+  "value": "\u30c7\u30d5\u30a9\u30eb\u30c8\u5024",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorScaleExplanationHeader": {
+  "changeDateTime": "2020-03-16T12:02:13.717804",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Scale explanation",
+  "value": "\u30b9\u30b1\u30fc\u30eb\u8aac\u660e",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorScaleHeader": {
+  "changeDateTime": "2020-03-16T12:02:11.267559",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Select scale",
+  "value": "\u30b9\u30b1\u30fc\u30eb\u3092\u9078\u629e",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorScaleMaxHeader": {
+  "changeDateTime": "2020-03-16T12:02:12.811674",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Maximum value",
+  "value": "\u6700\u5927\u5024",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorScaleMinHeader": {
+  "changeDateTime": "2020-03-16T12:02:12.623729",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Minimum value",
+  "value": "\u6700\u5c0f\u5024",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorScaleNameHeader": {
+  "changeDateTime": "2020-03-16T12:02:12.061365",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Scale description",
+  "value": "\u30b9\u30b1\u30fc\u30eb\u306e\u8aac\u660e",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorScalePrecisionHeader": {
+  "changeDateTime": "2020-03-16T12:02:13.530345",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Scale precision",
+  "value": "\u30b9\u30b1\u30fc\u30eb\u7cbe\u5ea6",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorScaleRemarksHeader": {
+  "changeDateTime": "2020-03-16T12:02:13.936549",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Remarks (only shown here)",
+  "value": "\u5099\u8003 (\u3053\u3053\u306b\u793a\u3059\u5834\u5408\u306e\u307f)",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorScaleType-N": {
+  "changeDateTime": "2020-03-16T12:02:12.983432",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Numeric",
+  "value": "\u6570\u5024",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorScaleType-T": {
+  "changeDateTime": "2020-03-16T12:02:13.155512",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Textual",
+  "value": "\u30c6\u30ad\u30b9\u30c8",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorScaleTypeHeader": {
+  "changeDateTime": "2020-03-16T12:02:12.451853",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Scale type",
+  "value": "\u30b9\u30b1\u30fc\u30eb\u30bf\u30a4\u30d7",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorScaleVarNameHeader": {
+  "changeDateTime": "2020-03-16T12:02:12.264368",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Scale variable name",
+  "value": "\u30b9\u30b1\u30fc\u30eb\u5909\u6570\u540d",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorScreenContentsHeaderText": {
+  "changeDateTime": "2020-03-16T12:02:08.479376",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Screen contents",
+  "value": "\u753b\u9762\u306e\u5185\u5bb9",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorScreenDynamics": {
+  "changeDateTime": "2020-03-16T12:02:09.479376",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Screen\n                    dynamics",
+  "value": "\u753b\u9762\n                    \u30c0\u30a4\u30ca\u30df\u30af\u30b9",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorScreenDynamics_addNewLine": {
+  "changeDateTime": "2020-03-16T12:02:09.698127",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "<i class=\"fa fa-fw fa-plus\"></i> Add new screen dynamics rule\n                    ",
+  "value": "<i class=\"fa fa-fw fa-plus\"></i>\u65b0\u3057\u3044\u753b\u9762\u306e\u30c0\u30a4\u30ca\u30df\u30af\u30b9 \u30eb\u30fc\u30eb\u306e\u8ffd\u52a0",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorScreenDynamics_source": {
+  "changeDateTime": "2020-03-16T12:02:10.120013",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Value",
+  "value": "\u5024",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorScreenDynamics_sourcecomponent": {
+  "changeDateTime": "2020-03-16T12:02:09.901288",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Screen\n                                component (source)\n                            ",
+  "value": "\u753b\u9762\n                                \u30b3\u30f3\u30dd\u30fc\u30cd\u30f3\u30c8 (\u30bd\u30fc\u30b9)",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorScreenDynamics_targetcomponent": {
+  "changeDateTime": "2020-03-16T12:02:10.307502",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Screen\n                                component (target)\n                            ",
+  "value": "\u753b\u9762\n                                \u30b3\u30f3\u30dd\u30fc\u30cd\u30f3\u30c8 (\u30bf\u30fc\u30b2\u30c3\u30c8)",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorScreenDynamics_targetvisible": {
+  "changeDateTime": "2020-03-16T12:02:10.495002",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Visible\n                            ",
+  "value": "\u8868\u793a",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorScreenHeaderText": {
+  "changeDateTime": "2020-03-16T12:02:08.026269",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Screen list",
+  "value": "\u753b\u9762\u4e00\u89a7",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorScreenVarText": {
+  "changeDateTime": "2020-03-16T12:02:08.682501",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Screen item settings",
+  "value": "\u753b\u9762\u9805\u76ee\u306e\u8a2d\u5b9a",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorSelectHeader": {
+  "changeDateTime": "2020-03-16T12:02:00.815976",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Select a test definition or add a new one",
+  "value": "\u30c6\u30b9\u30c8\u5b9a\u7fa9\u3092\u9078\u629e\u3059\u308b\u304b\u3001\u65b0\u3057\u3044\u30c6\u30b9\u30c8\u5b9a\u7fa9\u3092\u8ffd\u52a0\u3059\u308b",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorSelectHeaderEdit": {
+  "changeDateTime": "2020-03-16T12:02:02.722207",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Edit test definition",
+  "value": "\u30c6\u30b9\u30c8\u5b9a\u7fa9\u306e\u7de8\u96c6",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorSelectHeaderEditRow": {
+  "changeDateTime": "2020-03-16T12:02:03.003528",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Test definition\n        section",
+  "value": "\u30c6\u30b9\u30c8\u5b9a\u7fa9\n        \u30bb\u30af\u30b7\u30e7\u30f3",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorSelectListLoading": {
+  "changeDateTime": "2020-03-16T12:02:01.237831",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": " list is loading ...",
+  "value": "\u30ea\u30b9\u30c8\u304c\u8aad\u307f\u8fbc\u3093\u3067\u3044\u307e\u3059.",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorSelectSelectList": {
+  "changeDateTime": "2020-03-16T12:02:01.019082",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "\n            <li id=\"AdminInterfaceTestTemplateEditorSelectListLoading\"> list is loading ...</li>\n        ",
+  "value": "\n            <li id=\"AdminInterfaceTestTemplateEditorSelectListLoading\">\u30ea\u30b9\u30c8\u304c\u8aad\u307f\u8fbc\u3093\u3067\u3044\u307e\u3059.</li>\n        ",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorTabNormColumnsHeader": {
+  "changeDateTime": "2020-03-16T12:02:19.202193",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Norm columns",
+  "value": "\u30ce\u30eb\u30e0\u5217",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorTabNormComplexScoringHeader": {
+  "changeDateTime": "2020-03-16T12:02:19.405305",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Complex norming\n                    script",
+  "value": "\u8907\u96d1\u306a\u898f\u7bc4\n                    \u30b9\u30af\u30ea\u30d7\u30c8",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorTabNormsListHeader": {
+  "changeDateTime": "2020-03-16T12:02:15.436563",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Norms",
+  "value": "\u898f\u7bc4",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorTabScalesComplexScoringHeader": {
+  "changeDateTime": "2020-03-16T12:02:15.280297",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Complex scoring\n                    script",
+  "value": "\u8907\u96d1\u306a\u30b9\u30b3\u30a2\u30ea\u30f3\u30b0\n                    \u30b9\u30af\u30ea\u30d7\u30c8",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorTabScalesListHeader": {
+  "changeDateTime": "2020-03-16T12:02:11.061236",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Scales",
+  "value": "\u30b9\u30b1\u30fc\u30eb",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorTabScalesScoreMatrixHeader": {
+  "changeDateTime": "2020-03-16T12:02:14.405296",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Scoring matrix",
+  "value": "\u30b9\u30b3\u30a2\u4ed8\u3051\u884c\u5217",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorTabScalesScoreMatrixHeaderA": {
+  "changeDateTime": "2020-03-16T12:02:14.717980",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Answer",
+  "value": "\u7b54\u3048",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorTabScalesScoreMatrixHeaderQ": {
+  "changeDateTime": "2020-03-16T12:02:14.562216",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Question",
+  "value": "\u8cea\u554f",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorTabScalesScoreMatrixHeaderScale": {
+  "changeDateTime": "2020-03-16T12:02:14.905299",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Scale",
+  "value": "\u30b9\u30b1\u30fc\u30eb",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorTabScalesScoreMatrixHeaderScore": {
+  "changeDateTime": "2020-03-16T12:02:15.077316",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Score",
+  "value": "\u30b9\u30b3\u30a2",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorTabScreenPostScriptHeader": {
+  "changeDateTime": "2020-03-16T12:02:10.873853",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Screen post script",
+  "value": "\u30b9\u30af\u30ea\u30fc\u30f3\u30dd\u30b9\u30c8\u30b9\u30af\u30ea\u30d7\u30c8",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorTabScreenPreScriptHeader": {
+  "changeDateTime": "2020-03-16T12:02:10.694574",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Screen pre script",
+  "value": "\u30b9\u30af\u30ea\u30fc\u30f3\u30d7\u30ea\u30b9\u30af\u30ea\u30d7\u30c8",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorTestActiveLabel": {
+  "changeDateTime": "2020-03-16T12:02:04.237844",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Test can be\n                used",
+  "value": "\u30c6\u30b9\u30c8\u306f\u53ef\u80fd\n                \u4f7f\u7528",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorTestCapHasAdditionalFilesLabel": {
+  "changeDateTime": "2020-03-16T12:02:05.847217",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Test uses additional files like images",
+  "value": "\u30c6\u30b9\u30c8\u3067\u306f\u753b\u50cf\u306e\u3088\u3046\u306a\u8ffd\u52a0\u30d5\u30a1\u30a4\u30eb\u3092\u4f7f\u7528\u3057\u307e\u3059",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorTestCapHasCatalogLabel": {
+  "changeDateTime": "2020-03-16T12:02:05.612840",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Test has catalog information",
+  "value": "\u30c6\u30b9\u30c8\u306b\u30ab\u30bf\u30ed\u30b0\u60c5\u5831\u304c\u3042\u308b",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorTestCapHasMultipleScreensLabel": {
+  "changeDateTime": "2020-03-16T12:02:06.050426",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Test has multiple screens",
+  "value": "\u30c6\u30b9\u30c8\u306b\u306f\u8907\u6570\u306e\u753b\u9762\u304c\u3042\u308a\u307e\u3059",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorTestCapHasNormsLabel": {
+  "changeDateTime": "2020-03-16T12:02:05.378477",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Test has norms",
+  "value": "\u30c6\u30b9\u30c8\u306b\u306f\u898f\u7bc4\u304c\u3042\u308a\u307e\u3059",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorTestCapHasScoringLabel": {
+  "changeDateTime": "2020-03-16T12:02:05.175338",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Test has scoring",
+  "value": "\u30c6\u30b9\u30c8\u306b\u30b9\u30b3\u30a2\u30ea\u30f3\u30b0\u304c\u3042\u308a\u307e\u3059",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorTestCapHasScreenDynamicsLabel": {
+  "changeDateTime": "2020-03-16T12:02:06.284707",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Test has screen dynamics",
+  "value": "\u30c6\u30b9\u30c8\u306f\u753b\u9762\u306e\u30c0\u30a4\u30ca\u30df\u30af\u30b9\u3092\u6301\u3063\u3066\u3044\u307e\u3059",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorTestCapProtectTestScreenLabel": {
+  "changeDateTime": "2020-03-16T12:02:06.585128",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Remove the test scoring &amp; norms during test taking",
+  "value": "\u30c6\u30b9\u30c8\u306e\u53d7\u9a13\u4e2d\u306b\u30c6\u30b9\u30c8\u306e\u30b9\u30b3\u30a2\u30ea\u30f3\u30b0\u3068\u898f\u7bc4\u3092\u524a\u9664\u3059\u308b",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorTestCapShowTestClosureScreenLabel": {
+  "changeDateTime": "2020-03-16T12:02:06.866397",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Show the test closure screen after the test",
+  "value": "\u30c6\u30b9\u30c8\u7d42\u4e86\u5f8c\u306e\u30c6\u30b9\u30c8\u7d42\u4e86\u753b\u9762\u3092\u8868\u793a\u3059\u308b",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorTestCapabilities": {
+  "changeDateTime": "2020-03-16T12:02:04.972207",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Test capabilities",
+  "value": "\u30c6\u30b9\u30c8\u6a5f\u80fd",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorTestCatalogExplanationLabel": {
+  "changeDateTime": "2020-03-16T12:02:19.593422",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Catalog information",
+  "value": "\u30ab\u30bf\u30ed\u30b0\u60c5\u5831",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorTestCodeLabel": {
+  "changeDateTime": "2020-03-16T12:02:07.463763",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Invoice code",
+  "value": "\u8acb\u6c42\u66f8\u30b3\u30fc\u30c9",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorTestCopyrightsLabel": {
+  "changeDateTime": "2020-03-16T12:02:07.041877",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Copyrights",
+  "value": "\u8457\u4f5c\u6a29",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorTestCostsLabel": {
+  "changeDateTime": "2020-03-16T12:02:07.276252",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Test costs (in credit units)",
+  "value": "\u30c6\u30b9\u30c8\u539f\u4fa1 (\u5358\u4f4d\u5358\u4f4d)",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorTestDescriptionLabel": {
+  "changeDateTime": "2020-03-16T12:02:04.597273",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Description",
+  "value": "\u8aac\u660e",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorTestExplanationLabel": {
+  "changeDateTime": "2020-03-16T12:02:07.620000",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Explanation",
+  "value": "\u8aac\u660e",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorTestMediaHeader": {
+  "changeDateTime": "2020-03-16T12:02:19.780296",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Test media",
+  "value": "\u30c6\u30b9\u30c8\u30e1\u30c7\u30a3\u30a2",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorTestNameLabel": {
+  "changeDateTime": "2020-03-16T12:02:04.440956",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Test name",
+  "value": "\u30c6\u30b9\u30c8\u540d",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorTestRemarksLabel": {
+  "changeDateTime": "2020-03-16T12:02:07.823131",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Remarks (only shown\n                here)",
+  "value": "\u5099\u8003 (\u8868\u793a\u306e\u307f)\n                \u3053\u3061\u3089)",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorTranslateScreenButton": {
+  "changeDateTime": "2020-03-16T12:02:09.307511",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "\n                            <i class=\"fa fa-fw fa-language\"></i> Translate screen\n                    ",
+  "value": "\n                            <i class=\"fa fa-fw fa-language\"></i>\u7ffb\u8a33\u753b\u9762",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditor_TabCatalog": {
+  "changeDateTime": "2020-03-16T12:02:03.862831",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Catalog information",
+  "value": "\u30ab\u30bf\u30ed\u30b0\u60c5\u5831",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditor_TabMedia": {
+  "changeDateTime": "2020-03-16T12:02:04.050347",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Media",
+  "value": "\u30e1\u30c7\u30a3\u30a2",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditor_TabNorms": {
+  "changeDateTime": "2020-03-16T12:02:03.659708",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Norms",
+  "value": "\u898f\u7bc4",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditor_TabScoring": {
+  "changeDateTime": "2020-03-16T12:02:03.487843",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Scoring",
+  "value": "\u5f97\u70b9",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditor_TabScreens": {
+  "changeDateTime": "2020-03-16T12:02:03.349041",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Contents",
+  "value": "\u5185\u5bb9",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditor_TabTestInformation": {
+  "changeDateTime": "2020-03-16T12:02:03.190967",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Test information",
+  "value": "\u30c6\u30b9\u30c8\u60c5\u5831",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceViewTestCatalogDropdownButton": {
+  "changeDateTime": "2020-03-16T12:01:41.751362",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "\n        Select your test\n    ",
+  "value": "\u30c6\u30b9\u30c8\u3092\u9078\u629e\u3059\u308b",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceViewTestCatalogHeader": {
+  "changeDateTime": "2020-03-16T12:01:41.298235",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "View test catalog information",
+  "value": "\u30c6\u30b9\u30c8 \u30ab\u30bf\u30ed\u30b0\u60c5\u5831\u306e\u8868\u793a",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceViewTestCatalogTestCostsLabel": {
+  "changeDateTime": "2020-03-16T12:01:42.360741",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Costs",
+  "value": "\u30b3\u30b9\u30c8",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceViewTestCatalogTestDescriptionLabel": {
+  "changeDateTime": "2020-03-16T12:01:42.517009",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Description",
+  "value": "\u8aac\u660e",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceViewTestCatalogTestExplanationLabel": {
+  "changeDateTime": "2020-03-16T12:01:42.673243",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Explanation",
+  "value": "\u8aac\u660e",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceViewTestCatalogTestInfoHeader": {
+  "changeDateTime": "2020-03-16T12:01:41.985734",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Test information",
+  "value": "\u30c6\u30b9\u30c8\u60c5\u5831",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceViewTestCatalogTestNameLabel": {
+  "changeDateTime": "2020-03-16T12:01:42.188861",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Test name",
+  "value": "\u30c6\u30b9\u30c8\u540d",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceViewTestCatalogTestSelectHeader": {
+  "changeDateTime": "2020-03-16T12:01:41.516984",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Available tests",
+  "value": "\u5229\u7528\u53ef\u80fd\u306a\u30c6\u30b9\u30c8",
+  "valueAsOriginal": "N"
+ },
+ "ConsultantListerInterfaceEditSessionEditHeader": {
+  "changeDateTime": "2020-03-16T12:02:41.472579",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Edit Consultants",
+  "value": "\u30b3\u30f3\u30b5\u30eb\u30bf\u30f3\u30c8\u306e\u7de8\u96c6",
+  "valueAsOriginal": "N"
+ },
+ "CreditsUsedPortlet.GraphHeader": {
+  "changeDateTime": "2020-03-16T12:00:13.861739",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Credit usage (ticks)",
+  "value": "\u30af\u30ec\u30b8\u30c3\u30c8\u306e\u4f7f\u7528 (\u30c6\u30a3\u30c3\u30af)",
+  "valueAsOriginal": "N"
+ },
+ "ForgotWindowBackButton": {
+  "changeDateTime": "2020-03-16T11:59:15.898145",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "\n                Cancel\n            ",
+  "value": "\u30ad\u30e3\u30f3\u30bb\u30eb",
+  "valueAsOriginal": "N"
+ },
+ "ForgotWindowInstruction": {
+  "changeDateTime": "2020-03-16T11:59:16.331643",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Please enter your email address below and we will send you a link to reset your password.",
+  "value": "\u4e0b\u8a18\u306e\u30e1\u30fc\u30eb\u30a2\u30c9\u30ec\u30b9\u3092\u5165\u529b\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+  "valueAsOriginal": "N"
+ },
+ "ForgotWindowInstructionReset": {
+  "changeDateTime": "2020-03-16T11:59:17.097289",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Please enter your email address to reset the password for your account.",
+  "value": "\u30a2\u30ab\u30a6\u30f3\u30c8\u306e\u30d1\u30b9\u30ef\u30fc\u30c9\u3092\u30ea\u30bb\u30c3\u30c8\u3059\u308b\u306b\u306f\u3001\u30e1\u30fc\u30eb\u30a2\u30c9\u30ec\u30b9\u3092\u5165\u529b\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+  "valueAsOriginal": "N"
+ },
+ "ForgotWindowResetButton": {
+  "changeDateTime": "2020-03-16T11:59:16.101285",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "\n                Send password reset mail\n            ",
+  "value": "\u30d1\u30b9\u30ef\u30fc\u30c9\u30ea\u30bb\u30c3\u30c8\u30e1\u30fc\u30eb\u306e\u9001\u4fe1",
+  "valueAsOriginal": "N"
+ },
+ "ITSConsultantListerEditor_DescriptionLastLogin": {
+  "changeDateTime": "2020-03-16T12:02:42.160080",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Last login date and time",
+  "value": "\u6700\u7d42\u30ed\u30b0\u30a4\u30f3\u65e5\u6642",
+  "valueAsOriginal": "N"
+ },
+ "ITSConsultantListerEditor_DescriptionLogin": {
+  "changeDateTime": "2020-03-16T12:02:41.769457",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Login",
+  "value": "\u30ed\u30b0\u30a4\u30f3",
+  "valueAsOriginal": "N"
+ },
+ "ITSConsultantListerEditor_DescriptionName": {
+  "changeDateTime": "2020-03-16T12:02:41.957233",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Name",
+  "value": "\u540d\u524d",
+  "valueAsOriginal": "N"
+ },
+ "ITSConsultantListerEditor_DescriptionPasswordExpiration": {
+  "changeDateTime": "2020-03-16T12:02:42.410078",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Password expiration date",
+  "value": "\u30d1\u30b9\u30ef\u30fc\u30c9\u306e\u6709\u52b9\u671f\u9650",
+  "valueAsOriginal": "N"
+ },
+ "ITSTranslate.ar": {
+  "changeDateTime": "2020-03-16T11:59:18.097280",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Arabic",
+  "value": "\u30a2\u30e9\u30d3\u30a2\u8a9e",
+  "valueAsOriginal": "N"
+ },
+ "ITSTranslate.de": {
+  "changeDateTime": "2020-03-16T11:59:18.253530",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "German",
+  "value": "\u30c9\u30a4\u30c4\u8a9e",
+  "valueAsOriginal": "N"
+ },
+ "ITSTranslate.en": {
+  "changeDateTime": "2020-03-16T11:59:17.941045",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "English",
+  "value": "\u82f1\u8a9e",
+  "valueAsOriginal": "N"
+ },
+ "ITSTranslate.es": {
+  "changeDateTime": "2020-03-16T11:59:18.394155",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Spanish",
+  "value": "\u30b9\u30da\u30a4\u30f3\u8a9e",
+  "valueAsOriginal": "N"
+ },
+ "ITSTranslate.fr": {
+  "changeDateTime": "2020-03-16T11:59:18.550407",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "French",
+  "value": "\u30d5\u30e9\u30f3\u30b9\u8a9e",
+  "valueAsOriginal": "N"
+ },
+ "ITSTranslate.hi": {
+  "changeDateTime": "2020-03-16T11:59:18.722291",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Hindi",
+  "value": "\u30d2\u30f3\u30c7\u30a3\u30fc\u8a9e",
+  "valueAsOriginal": "N"
+ },
+ "ITSTranslate.ja": {
+  "changeDateTime": "2020-03-16T11:59:18.878530",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Japanese",
+  "value": "\u65e5\u672c\u8a9e",
+  "valueAsOriginal": "N"
+ },
+ "ITSTranslate.nl": {
+  "changeDateTime": "2020-03-16T11:59:19.034791",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Dutch",
+  "value": "\u30aa\u30e9\u30f3\u30c0\u8a9e",
+  "valueAsOriginal": "N"
+ },
+ "ITSTranslate.zh": {
+  "changeDateTime": "2020-03-16T11:59:19.206656",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Chinese Simplified",
+  "value": "\u7c21\u4f53\u5b57\u4e2d\u56fd\u8a9e",
+  "valueAsOriginal": "N"
+ },
+ "LoginWindowHeading": {
+  "changeDateTime": "2020-03-16T11:59:13.179408",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Login",
+  "value": "\u30ed\u30b0\u30a4\u30f3",
+  "valueAsOriginal": "N"
+ },
+ "LoginWindowIEWarning": {
+  "changeDateTime": "2020-03-16T11:59:12.320021",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Internet Explorer is <b>NOT</b> supported for this website. <br>Please use a recent version of Microsoft Edge,<br>Google Chrome, Mozilla Firefox, Apple Safari or Opera.",
+  "value": "\u3053\u306e Web \u30b5\u30a4\u30c8\u3067\u306f\u3001\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8 \u30a8\u30af\u30b9\u30d7\u30ed\u30fc\u30e9\u306f\u30b5\u30dd\u30fc\u30c8<b>\u3055\u308c\u3066\u3044\u307e\u305b\u3093</b>\u3002<br>\u30de\u30a4\u30af\u30ed\u30bd\u30d5\u30c8\u30a8\u30c3\u30b8\u306e\u6700\u65b0\u30d0\u30fc\u30b8\u30e7\u30f3\u3092\u4f7f\u7528\u3057\u3066\u304f\u3060\u3055\u3044,<br>\u30b0\u30fc\u30b0\u30eb\u30af\u30ed\u30fc\u30e0\u3001\u30e2\u30b8\u30e9\u30d5\u30a1\u30a4\u30a2\u30d5\u30a9\u30c3\u30af\u30b9\u3001\u30a2\u30c3\u30d7\u30eb\u30b5\u30d5\u30a1\u30ea\u3084\u30aa\u30da\u30e9\u3002",
+  "valueAsOriginal": "N"
+ },
+ "LoginWindowLoginButton": {
+  "changeDateTime": "2020-03-16T11:59:12.773148",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "\n                Login\n            ",
+  "value": "\u30ed\u30b0\u30a4\u30f3",
+  "valueAsOriginal": "N"
+ },
+ "LoginWindowPassword": {
+  "changeDateTime": "2020-03-16T11:59:13.710711",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Password",
+  "value": "\u30d1\u30b9\u30ef\u30fc\u30c9",
+  "valueAsOriginal": "N"
+ },
+ "LoginWindowPasswordForgotten": {
+  "changeDateTime": "2020-03-16T11:59:12.976271",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Have you forgotten your\n                    password?",
+  "value": "\u3042\u306a\u305f\u306f\u5fd8\u308c\u307e\u3057\u305f\u304b?\n                    \u30d1\u30b9\u30ef\u30fc\u30c9\u3002",
+  "valueAsOriginal": "N"
+ },
+ "LoginWindowSelectCompanyHeader": {
+  "changeDateTime": "2020-03-16T11:59:15.741896",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "\n                <!-- <img src=\"images\\its.png\" style=\"width:64px;height:64px;vertical-align:text-bottom;\"/>-->\n                Select the company you want to work with ",
+  "value": "\n                <!-- <img src=\"images\\its.png\" style=\"width:64px;height:64px;vertical-align:text-bottom;\"/>-->\u4f5c\u696d\u3059\u308b\u4f1a\u793e\u3092\u9078\u629e\u3057\u307e\u3059",
+  "valueAsOriginal": "N"
+ },
+ "LoginWindowSelectLanguageLabel": {
+  "changeDateTime": "2020-03-16T11:59:13.913779",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Select other language",
+  "value": "\u4ed6\u306e\u8a00\u8a9e\u3092\u9078\u629e\u3059\u308b",
+  "valueAsOriginal": "N"
+ },
+ "LoginWindowUnknownBrowserWarning": {
+  "changeDateTime": "2020-03-16T11:59:12.601383",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Your browser could not be detected and <br>may not work with this website.<br>Please use a recent version of Microsoft Edge,<br>Google Chrome, Mozilla Firefox, Apple Safari or Opera.",
+  "value": "\u30d6\u30e9\u30a6\u30b6\u304c\u691c\u51fa\u3067\u304d\u307e\u305b\u3093\u3067\u3057\u305f\u3002<br>\u3053\u306e\u30a6\u30a7\u30d6\u30b5\u30a4\u30c8\u3067\u306f\u52d5\u4f5c\u3057\u306a\u3044\u53ef\u80fd\u6027\u304c\u3042\u308a\u307e\u3059\u3002<br>\u30de\u30a4\u30af\u30ed\u30bd\u30d5\u30c8\u30a8\u30c3\u30b8\u306e\u6700\u65b0\u30d0\u30fc\u30b8\u30e7\u30f3\u3092\u4f7f\u7528\u3057\u3066\u304f\u3060\u3055\u3044,<br>\u30b0\u30fc\u30b0\u30eb\u30af\u30ed\u30fc\u30e0\u3001\u30e2\u30b8\u30e9\u30d5\u30a1\u30a4\u30a2\u30d5\u30a9\u30c3\u30af\u30b9\u3001\u30a2\u30c3\u30d7\u30eb\u30b5\u30d5\u30a1\u30ea\u3084\u30aa\u30da\u30e9\u3002",
+  "valueAsOriginal": "N"
+ },
+ "LoginWindowUserName": {
+  "changeDateTime": "2020-03-16T11:59:13.554399",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "User name",
+  "value": "\u30e6\u30fc\u30b6\u30fc\u540d",
+  "valueAsOriginal": "N"
+ },
+ "LoginWindowWelcomeTo": {
+  "changeDateTime": "2020-03-16T11:59:13.366906",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Welcome to",
+  "value": "\u3088\u3046\u3053\u305d",
+  "valueAsOriginal": "N"
+ },
+ "NavBarActiveSessionsMenuLabel": {
+  "changeDateTime": "2020-03-16T11:59:15.538782",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "There are {0} active sessions",
+  "value": "\u30a2\u30af\u30c6\u30a3\u30d6\u306a\u30bb\u30c3\u30b7\u30e7\u30f3{0}",
+  "valueAsOriginal": "N"
+ },
+ "NavBarsAdminSidebarCompaniesLabel": {
+  "changeDateTime": "2020-03-16T11:59:15.179396",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Organisation",
+  "value": "\u7d44\u7e54",
+  "valueAsOriginal": "N"
+ },
+ "NavBarsAdminSidebarLogoutLabel": {
+  "changeDateTime": "2020-03-16T11:59:15.351272",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Logout",
+  "value": "\u30ed\u30b0\u30a2\u30a6\u30c8",
+  "valueAsOriginal": "N"
+ },
+ "NavBarsAdminSidebarSessionsLabel": {
+  "changeDateTime": "2020-03-16T11:59:14.679395",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Sessions",
+  "value": "\u30bb\u30c3\u30b7\u30e7\u30f3",
+  "valueAsOriginal": "N"
+ },
+ "NavBarsAdminSidebarSettingsLabel": {
+  "changeDateTime": "2020-03-16T11:59:15.023153",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Settings",
+  "value": "\u8a2d\u5b9a",
+  "valueAsOriginal": "N"
+ },
+ "NavBarsAdminSidebarSwitchboardLabel": {
+  "changeDateTime": "2020-03-16T11:59:14.366899",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Switchboard",
+  "value": "\u914d\u96fb\u76e4",
+  "valueAsOriginal": "N"
+ },
+ "NavBarsAdminSidebarTestAndReportsLabel": {
+  "changeDateTime": "2020-03-16T11:59:14.866895",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Tests and Reports",
+  "value": "\u30c6\u30b9\u30c8\u3068\u30ec\u30dd\u30fc\u30c8",
+  "valueAsOriginal": "N"
+ },
+ "NavBarsAdminSidebarUsersLabel": {
+  "changeDateTime": "2020-03-16T11:59:14.523469",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Candidates",
+  "value": "\u5019\u88dc \u8005",
+  "valueAsOriginal": "N"
+ },
+ "NavbarsAdminLogoutButton": {
+  "changeDateTime": "2020-03-16T11:59:14.226279",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Logout\n        ",
+  "value": "\u30ed\u30b0\u30a2\u30a6\u30c8",
+  "valueAsOriginal": "N"
+ },
+ "NavbarsAdminLogoutButtonTT": {
+  "changeDateTime": "2020-03-16T11:59:17.784781",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Logout\n        ",
+  "value": "\u30ed\u30b0\u30a2\u30a6\u30c8",
+  "valueAsOriginal": "N"
+ },
+ "NavbarsLabelHeadingWelcome": {
+  "changeDateTime": "2020-03-16T11:59:14.070019",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Welcome",
+  "value": "\u3088\u3046\u3053\u305d",
+  "valueAsOriginal": "N"
+ },
+ "NavbarsLabelHeadingWelcomeTT": {
+  "changeDateTime": "2020-03-16T11:59:17.628536",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Welcome",
+  "value": "\u3088\u3046\u3053\u305d",
+  "valueAsOriginal": "N"
+ },
+ "PasswordResetWindowBackButton": {
+  "changeDateTime": "2020-03-16T11:59:16.691030",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "\n                Cancel\n            ",
+  "value": "\u30ad\u30e3\u30f3\u30bb\u30eb",
+  "valueAsOriginal": "N"
+ },
+ "PasswordResetWindowButton": {
+  "changeDateTime": "2020-03-16T11:59:16.878545",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "\n                Reset password\n            ",
+  "value": "\u30d1\u30b9\u30ef\u30fc\u30c9\u306e\u30ea\u30bb\u30c3\u30c8",
+  "valueAsOriginal": "N"
+ },
+ "SessionMailerInterfaceSendButton": {
+  "changeDateTime": "2020-03-16T12:01:53.843579",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "<i id=\"SessionMailerInterfaceSession-mailIcon\" class=\"fa fa-fw fa-thumbs-up\"></i> <span id=\"SessionMailerInterfaceSessionSendButtonLabel\">Send mail now</span>\n    ",
+  "value": "<i id=\"SessionMailerInterfaceSession-mailIcon\" class=\"fa fa-fw fa-thumbs-up\"></i><span id=\"SessionMailerInterfaceSessionSendButtonLabel\">\u4eca\u3059\u3050\u30e1\u30fc\u30eb\u3092\u9001\u4fe1</span>\n    ",
+  "valueAsOriginal": "N"
+ },
+ "SessionMailerInterfaceSessionEditHeader": {
+  "changeDateTime": "2020-03-16T12:01:50.890759",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Send mail for this session",
+  "value": "\u3053\u306e\u30bb\u30c3\u30b7\u30e7\u30f3\u306e\u30e1\u30fc\u30eb\u3092\u9001\u4fe1\u3059\u308b",
+  "valueAsOriginal": "N"
+ },
+ "SessionMailerInterfaceSessionEditMailBodyLabel": {
+  "changeDateTime": "2020-03-16T12:01:53.656049",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Body of this mail",
+  "value": "\u3053\u306e\u30e1\u30fc\u30eb\u306e\u672c\u6587",
+  "valueAsOriginal": "N"
+ },
+ "SessionMailerInterfaceSessionEditMailCc": {
+  "changeDateTime": "2020-03-16T12:01:52.437305",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Enter a mail address to send a copy of this mail to",
+  "value": "\u3053\u306e\u30e1\u30fc\u30eb\u306e\u30b3\u30d4\u30fc\u3092\u9001\u4fe1\u3059\u308b\u30e1\u30fc\u30eb \u30a2\u30c9\u30ec\u30b9\u3092\u5165\u529b\u3057\u3066\u304f\u3060\u3055\u3044",
+  "valueAsOriginal": "N"
+ },
+ "SessionMailerInterfaceSessionEditMailCcLabel": {
+  "changeDateTime": "2020-03-16T12:01:52.218971",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Send a copy of this mail to",
+  "value": "\u3053\u306e\u30e1\u30fc\u30eb\u306e\u30b3\u30d4\u30fc\u3092",
+  "valueAsOriginal": "N"
+ },
+ "SessionMailerInterfaceSessionEditMailCopyMeLabel": {
+  "changeDateTime": "2020-03-16T12:01:52.656043",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Send me a copy of this mail",
+  "value": "\u3053\u306e\u30e1\u30fc\u30eb\u306e\u30b3\u30d4\u30fc\u3092\u9001\u3063\u3066\u304f\u3060\u3055\u3044",
+  "valueAsOriginal": "N"
+ },
+ "SessionMailerInterfaceSessionEditMailFrom": {
+  "changeDateTime": "2020-03-16T12:01:51.593547",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "The email address that will receive replies from the person receiving the e-mail",
+  "value": "\u96fb\u5b50\u30e1\u30fc\u30eb\u3092\u53d7\u4fe1\u3057\u305f\u30e6\u30fc\u30b6\u30fc\u304b\u3089\u306e\u8fd4\u4fe1\u3092\u53d7\u4fe1\u3059\u308b\u96fb\u5b50\u30e1\u30fc\u30eb \u30a2\u30c9\u30ec\u30b9",
+  "valueAsOriginal": "N"
+ },
+ "SessionMailerInterfaceSessionEditMailFromLabel": {
+  "changeDateTime": "2020-03-16T12:01:51.343916",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Reply address",
+  "value": "\u8fd4\u4fe1\u30a2\u30c9\u30ec\u30b9",
+  "valueAsOriginal": "N"
+ },
+ "SessionMailerInterfaceSessionEditMailSubject": {
+  "changeDateTime": "2020-03-16T12:01:53.468546",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Enter a subject for this mail",
+  "value": "\u3053\u306e\u30e1\u30fc\u30eb\u306e\u4ef6\u540d\u3092\u5165\u529b\u3057\u3066\u304f\u3060\u3055\u3044",
+  "valueAsOriginal": "N"
+ },
+ "SessionMailerInterfaceSessionEditMailSubjectLabel": {
+  "changeDateTime": "2020-03-16T12:01:53.249794",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Subject of this mail",
+  "value": "\u3053\u306e\u30e1\u30fc\u30eb\u306e\u4ef6\u540d",
+  "valueAsOriginal": "N"
+ },
+ "SessionMailerInterfaceSessionEditMailTo": {
+  "changeDateTime": "2020-03-16T12:01:52.015418",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Enter a mail address to send this mail to",
+  "value": "\u3053\u306e\u30e1\u30fc\u30eb\u306e\u9001\u4fe1\u5148\u306e\u30e1\u30fc\u30eb \u30a2\u30c9\u30ec\u30b9\u3092\u5165\u529b\u3057\u3066\u304f\u3060\u3055\u3044",
+  "valueAsOriginal": "N"
+ },
+ "SessionMailerInterfaceSessionEditMailToLabel": {
+  "changeDateTime": "2020-03-16T12:01:51.781044",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Send mail to",
+  "value": "\u30e1\u30fc\u30eb\u306e\u9001\u4fe1\u5148",
+  "valueAsOriginal": "N"
+ },
+ "SessionMailerInterfaceSessionSendButtonLabel": {
+  "changeDateTime": "2020-03-16T12:01:54.047026",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Send mail now",
+  "value": "\u4eca\u3059\u3050\u30e1\u30fc\u30eb\u3092\u9001\u4fe1",
+  "valueAsOriginal": "N"
+ },
+ "SessionMailerInterfaceShowGroupWarningBadge": {
+  "changeDateTime": "2020-03-16T12:01:51.156063",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Please note : You are selecting the e-mail template which will be used to send mails to your group. You will not see candidate data in the example below. You can change the template text for group invitations. ",
+  "value": "\u3054\u6ce8\u610f : \u30b0\u30eb\u30fc\u30d7\u306b\u30e1\u30fc\u30eb\u3092\u9001\u4fe1\u3059\u308b\u305f\u3081\u306b\u4f7f\u7528\u3059\u308b\u96fb\u5b50\u30e1\u30fc\u30eb \u30c6\u30f3\u30d7\u30ec\u30fc\u30c8\u3092\u9078\u629e\u3057\u3066\u3044\u307e\u3059\u3002\u6b21\u306e\u4f8b\u3067\u306f\u3001\u5019\u88dc\u30c7\u30fc\u30bf\u306f\u8868\u793a\u3055\u308c\u307e\u305b\u3093\u3002\u30b0\u30eb\u30fc\u30d7\u62db\u5f85\u306e\u30c6\u30f3\u30d7\u30ec\u30fc\u30c8 \u30c6\u30ad\u30b9\u30c8\u3092\u5909\u66f4\u3067\u304d\u307e\u3059\u3002",
+  "valueAsOriginal": "N"
+ },
+ "SessionMailerInterfaceTemplateIncludeOtherLanguagesLabel": {
+  "changeDateTime": "2020-03-16T12:01:53.046742",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Include templates in other languages",
+  "value": "\u4ed6\u306e\u8a00\u8a9e\u306e\u30c6\u30f3\u30d7\u30ec\u30fc\u30c8\u3092\u542b\u3081\u308b",
+  "valueAsOriginal": "N"
+ },
+ "SessionMailerInterfaceTemplateSelectLabel": {
+  "changeDateTime": "2020-03-16T12:01:52.843547",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Mail template for mail generation",
+  "value": "\u30e1\u30fc\u30eb\u751f\u6210\u7528\u306e\u30e1\u30fc\u30eb\u30c6\u30f3\u30d7\u30ec\u30fc\u30c8",
+  "valueAsOriginal": "N"
+ },
+ "SessionViewAnswersInterfaceSessionEditHeader": {
+  "changeDateTime": "2020-03-16T12:01:55.601140",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Check session test answers",
+  "value": "\u30bb\u30c3\u30b7\u30e7\u30f3\u30c6\u30b9\u30c8\u56de\u7b54\u306e\u78ba\u8a8d",
+  "valueAsOriginal": "N"
+ },
+ "SessionViewReportsInterfaceSessionEditHeader": {
+  "changeDateTime": "2020-03-16T12:01:55.788731",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "View test reports",
+  "value": "\u30c6\u30b9\u30c8 \u30ec\u30dd\u30fc\u30c8\u306e\u8868\u793a",
+  "valueAsOriginal": "N"
+ },
+ "SessionViewReportsReportDeleteLabel": {
+  "changeDateTime": "2020-03-16T12:01:57.116766",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Remove changes to standard report",
+  "value": "\u6a19\u6e96\u30ec\u30dd\u30fc\u30c8\u3078\u306e\u5909\u66f4\u3092\u524a\u9664\u3059\u308b",
+  "valueAsOriginal": "N"
+ },
+ "SessionViewReportsReportHeader": {
+  "changeDateTime": "2020-03-16T12:01:56.351141",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Report",
+  "value": "\u30ec\u30dd\u30fc\u30c8",
+  "valueAsOriginal": "N"
+ },
+ "SessionViewReportsReportModifiedLabel": {
+  "changeDateTime": "2020-03-16T12:01:56.929265",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Show modified report",
+  "value": "\u5909\u66f4\u3055\u308c\u305f\u30ec\u30dd\u30fc\u30c8\u3092\u8868\u793a",
+  "valueAsOriginal": "N"
+ },
+ "SessionViewReportsReportOriginalLabel": {
+  "changeDateTime": "2020-03-16T12:01:56.726138",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Show unmodified report",
+  "value": "\u5909\u66f4\u3055\u308c\u3066\u3044\u306a\u3044\u30ec\u30dd\u30fc\u30c8\u3092\u8868\u793a",
+  "valueAsOriginal": "N"
+ },
+ "SessionViewReportsReportStoreLabel": {
+  "changeDateTime": "2020-03-16T12:01:56.523022",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Save",
+  "value": "\u4fdd\u5b58",
+  "valueAsOriginal": "N"
+ },
+ "SessionViewReportsSelectHeader": {
+  "changeDateTime": "2020-03-16T12:01:55.976157",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Available reports",
+  "value": "\u5229\u7528\u53ef\u80fd\u306a\u30ec\u30dd\u30fc\u30c8",
+  "valueAsOriginal": "N"
+ },
+ "SessionViewReportsSelectHeaderDropdownButton": {
+  "changeDateTime": "2020-03-16T12:01:56.163638",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "\n        Select your report\n    ",
+  "value": "\u30ec\u30dd\u30fc\u30c8\u3092\u9078\u629e\u3059\u308b",
+  "valueAsOriginal": "N"
+ },
+ "UserName": {
+  "changeDateTime": "2020-03-16T11:59:16.487912",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "E-mail",
+  "value": "\u96fb\u5b50\u30e1\u30fc\u30eb",
+  "valueAsOriginal": "N"
+ },
+ "UserNameReset": {
+  "changeDateTime": "2020-03-16T11:59:17.284877",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "E-mail",
+  "value": "\u96fb\u5b50\u30e1\u30fc\u30eb",
+  "valueAsOriginal": "N"
+ },
+ "UserPreferencesPortlet.ChangePassword": {
+  "changeDateTime": "2020-03-16T11:59:37.100213",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Change my password",
+  "value": "\u30d1\u30b9\u30ef\u30fc\u30c9\u3092\u5909\u66f4\u3059\u308b",
+  "valueAsOriginal": "N"
+ },
+ "UserPreferencesPortlet.ManageConsultants": {
+  "changeDateTime": "2020-03-16T11:59:37.303346",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Manage consultants",
+  "value": "\u30b3\u30f3\u30b5\u30eb\u30bf\u30f3\u30c8\u306e\u7ba1\u7406",
+  "valueAsOriginal": "N"
+ },
+ "UserPreferencesPortlet.ManageOrganisations": {
+  "changeDateTime": "2020-03-16T11:59:37.490837",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Manage organisations",
+  "value": "\u7d44\u7e54\u306e\u7ba1\u7406",
+  "valueAsOriginal": "N"
+ }
+}
