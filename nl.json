@@ -12,7 +12,12 @@
   "value": "Mijn wachtwoord wijzigen"
  },
  "#AdminInterface.AdminInterfaceCompanyHailingHeading": {
-  "value": "Welkom bij &nbsp;"
+  "changeDateTime": "2020-04-06T11:06:13.168534",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "id": "#AdminInterface.AdminInterfaceCompanyHailingHeading",
+  "originalValue": "Welkom bij\u00a0",
+  "value": "Welkom bij\u00a0",
+  "valueAsOriginal": "Y"
  },
  "#AdminInterface.AdminInterfaceCreditManagementBody": {
   "value": "U heeft nog <label class=\"alert-info\" id=\"AdminInterfaceCreditManagementBodyAmount\">-</label> kredieteenheden.<br>"
@@ -1755,6 +1760,20 @@
  "#TestTemplateLocalPublisherInterfaceSessionEdit.TestTemplateLocalPublisherListerTableFindMoreButton": {
   "value": "<i class=\"fa fa-fw fa-layer-group\"></i>Meer informatie weergeven"
  },
+ "AdminInterfaceChangeSessionAuditTrailButton": {
+  "changeDateTime": "2020-04-04T18:12:42.432799",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "<i id=\"AdminInterfaceChangeSessionAuditTrailButton-Icon\" class=\"fa fa-fw fa-train\"></i><span id=\"AdminInterfaceChangeSessionAuditTrailButtonLabel\">Show audit trail</span>\n",
+  "value": "<i id=\"AdminInterfaceChangeSessionAuditTrailButton-Icon\" class=\"fa fa-fw fa-train\"></i><span id=\"AdminInterfaceChangeSessionAuditTrailButtonLabel\">Controlespoor weergeven</span>\n",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceChangeSessionAuditTrailButtonLabel": {
+  "changeDateTime": "2020-04-04T18:12:42.878703",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Show audit trail",
+  "value": "Controlespoor weergeven",
+  "valueAsOriginal": "N"
+ },
  "AdminInterfaceChangeSessionCandidateAgeLabel": {
   "changeDateTime": "2020-02-21T17:51:57.648175",
   "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
@@ -2582,8 +2601,36 @@
   "value": "Percentiel 1",
   "valueAsOriginal": "N"
  },
+ "AdminInterfaceTestTemplateEditorNorm_PercentileHeader1_1": {
+  "changeDateTime": "2020-03-16T14:53:14.394642",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Percentile 1",
+  "value": "Percentiel 1",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorNorm_PercentileHeader1_2": {
+  "changeDateTime": "2020-04-07T16:30:35.103764",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Percentile 1",
+  "value": "Percentiel 1",
+  "valueAsOriginal": "N"
+ },
  "AdminInterfaceTestTemplateEditorNorm_PercentileHeader2_0": {
   "changeDateTime": "2020-03-10T19:37:51.133070",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Percentile 2",
+  "value": "Percentiel 2",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorNorm_PercentileHeader2_1": {
+  "changeDateTime": "2020-03-16T14:53:14.521135",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Percentile 2",
+  "value": "Percentiel 2",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorNorm_PercentileHeader2_2": {
+  "changeDateTime": "2020-04-07T16:30:35.541206",
   "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
   "originalValue": "Percentile 2",
   "value": "Percentiel 2",
@@ -2596,6 +2643,20 @@
   "value": "Percentiel 3",
   "valueAsOriginal": "N"
  },
+ "AdminInterfaceTestTemplateEditorNorm_PercentileHeader3_1": {
+  "changeDateTime": "2020-03-16T14:53:14.654900",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Percentile 3",
+  "value": "Percentiel 3",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorNorm_PercentileHeader3_2": {
+  "changeDateTime": "2020-04-07T16:30:36.005677",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Percentile 3",
+  "value": "Percentiel 3",
+  "valueAsOriginal": "N"
+ },
  "AdminInterfaceTestTemplateEditorNorm_RawHeader_0": {
   "changeDateTime": "2020-03-10T19:37:50.801183",
   "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
@@ -2603,8 +2664,36 @@
   "value": "Score",
   "valueAsOriginal": "Y"
  },
+ "AdminInterfaceTestTemplateEditorNorm_RawHeader_1": {
+  "changeDateTime": "2020-03-16T14:53:14.271421",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Score",
+  "value": "Score",
+  "valueAsOriginal": "Y"
+ },
+ "AdminInterfaceTestTemplateEditorNorm_RawHeader_2": {
+  "changeDateTime": "2020-04-07T16:30:34.657402",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Score",
+  "value": "Score",
+  "valueAsOriginal": "Y"
+ },
  "AdminInterfaceTestTemplateEditorNorm_ScaleHeader_0": {
   "changeDateTime": "2020-03-10T19:37:50.654390",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Scale",
+  "value": "Schaal",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorNorm_ScaleHeader_1": {
+  "changeDateTime": "2020-03-16T14:53:14.073672",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Scale",
+  "value": "Schaal",
+  "valueAsOriginal": "N"
+ },
+ "AdminInterfaceTestTemplateEditorNorm_ScaleHeader_2": {
+  "changeDateTime": "2020-04-07T16:30:34.149220",
   "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
   "originalValue": "Scale",
   "value": "Schaal",
@@ -3496,6 +3585,20 @@
  "ITSHelpers.js.saveFileLocally.FileNameToSave": {
   "value": "Geef bestandsnaam op om op te slaan"
  },
+ "ITSOrganisationEditor_DescriptionCosts": {
+  "changeDateTime": "2020-03-16T14:34:27.504896",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Test costs override",
+  "value": "Testkosten overschrijven",
+  "valueAsOriginal": "N"
+ },
+ "ITSOrganisationEditor_DescriptionInvoiceCode": {
+  "changeDateTime": "2020-03-16T14:34:27.378445",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Invoice code",
+  "value": "Factuurcode",
+  "valueAsOriginal": "N"
+ },
  "ITSOrganisationListerEditor_DescriptionContactMail": {
   "originalValue": "Contact e-mail",
   "value": "Contact e-mail",
@@ -3519,6 +3622,27 @@
  "ITSOrganisationListerEditor_DescriptionLicenseEndDate": {
   "originalValue": "License end date",
   "value": "Einddatum licentie",
+  "valueAsOriginal": "N"
+ },
+ "ITSSessionAuditTrailEditor_Message": {
+  "changeDateTime": "2020-04-04T18:12:45.497221",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Message",
+  "value": "Bericht",
+  "valueAsOriginal": "N"
+ },
+ "ITSSessionAuditTrailEditor_When": {
+  "changeDateTime": "2020-04-04T18:12:44.682552",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Change date/time",
+  "value": "Datum/tijd wijzigen",
+  "valueAsOriginal": "N"
+ },
+ "ITSSessionAuditTrailEditor_Who": {
+  "changeDateTime": "2020-04-04T18:12:45.107893",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "By who",
+  "value": "Door wie",
   "valueAsOriginal": "N"
  },
  "ITSSessionEditor.ScoreOverview": {
@@ -3912,6 +4036,13 @@
   "value": "Kantonees (traditioneel)",
   "valueAsOriginal": "N"
  },
+ "ITSTranslate.zh": {
+  "changeDateTime": "2020-03-16T14:56:49.923607",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Chinese Simplified",
+  "value": "Vereenvoudigd Chinees",
+  "valueAsOriginal": "N"
+ },
  "ITSTranslate.zh-hans": {
   "originalValue": "Chinese Simplified",
   "value": "Vereenvoudigd Chinees",
@@ -3935,6 +4066,62 @@
  "ITSTranslationEditor_Translation": {
   "originalValue": "Translated text",
   "value": "Vertaalde tekst",
+  "valueAsOriginal": "N"
+ },
+ "LoginWindowEnterMfaCodeBackButton": {
+  "changeDateTime": "2020-04-05T09:16:24.927050",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "\n                Cancel\n            ",
+  "value": "Annuleren",
+  "valueAsOriginal": "N"
+ },
+ "LoginWindowEnterMfaCodeFieldLabel": {
+  "changeDateTime": "2020-04-05T09:16:26.265091",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "MFA code",
+  "value": "MFA-code",
+  "valueAsOriginal": "N"
+ },
+ "LoginWindowEnterMfaCodeHeader": {
+  "changeDateTime": "2020-04-05T09:16:24.529111",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Enter MFA code",
+  "value": "MFA-code invoeren",
+  "valueAsOriginal": "N"
+ },
+ "LoginWindowEnterMfaCodeLabel": {
+  "changeDateTime": "2020-04-05T09:16:25.857481",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Start the authenticator app on your phone. Locate the code for this website. Enter the code below.",
+  "value": "Start de authenticator-app op je telefoon. Zoek de code voor deze website. Voer de onderstaande code in.",
+  "valueAsOriginal": "N"
+ },
+ "LoginWindowEnterMfaCodeProceedButton": {
+  "changeDateTime": "2020-04-05T09:16:25.356334",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "\n                Proceed with login\n            ",
+  "value": "Doorgaan met inloggen",
+  "valueAsOriginal": "N"
+ },
+ "LoginWindowMfaQRBackButton": {
+  "changeDateTime": "2020-04-05T09:16:23.484962",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "\n                Back to login\n            ",
+  "value": "Terug naar inloggen",
+  "valueAsOriginal": "N"
+ },
+ "LoginWindowMfaQRSetupHeader": {
+  "changeDateTime": "2020-04-05T09:16:23.008283",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "One-time setup for multi factor authentication for your account",
+  "value": "Eenmalige installatie voor meervoudige verificatie voor uw account",
+  "valueAsOriginal": "N"
+ },
+ "LoginWindowMfaQRSetupInstruction": {
+  "changeDateTime": "2020-04-05T09:16:24.068738",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Please use your smartphone. Install Google Authenticator, Microsoft Authenticator, or another OTP compatible application from the appstore. Scan the QR code below. When scanned press the back button and restart the login procedure. In case you do not scan the MFA code now ask your system administrator to remove your account and create your account again at a more convenient time. This QR code will be shown only once.",
+  "value": "Gebruik je smartphone. Installeer Google Authenticator, Microsoft Authenticator of een andere OTP-compatibele toepassing uit de appstore. Scan de QR-code hieronder. Druk bij het scannen op de terugknop en start de inlogprocedure opnieuw. Als u de MFA-code niet scant, vraag dan uw systeembeheerder om uw account te verwijderen en uw account op een geschikter moment opnieuw aan te maken. Deze QR-code wordt slechts \u00e9\u00e9n keer getoond.",
   "valueAsOriginal": "N"
  },
  "LoginWindowWelcomeTo": {
@@ -4055,6 +4242,20 @@
   "value": "Welkom",
   "valueAsOriginal": "N"
  },
+ "OrganisationEditorEditKeySecurityHeader": {
+  "changeDateTime": "2020-04-02T17:38:07.820655",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Security settings",
+  "value": "Beveiligingsinstellingen",
+  "valueAsOriginal": "N"
+ },
+ "OrganisationEditorEditOtherInfoHeader": {
+  "changeDateTime": "2020-04-02T17:38:08.782451",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Other information",
+  "value": "Overige informatie",
+  "valueAsOriginal": "N"
+ },
  "OrganisationEditorInterfaceContactCCMailLabel": {
   "changeDateTime": "2020-02-21T17:51:55.513430",
   "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
@@ -4081,6 +4282,13 @@
   "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
   "originalValue": "Test taking discount percentage",
   "value": "Test het nemen van kortingspercentage",
+  "valueAsOriginal": "N"
+ },
+ "OrganisationEditorSecuritySettingsHeader": {
+  "changeDateTime": "2020-04-02T17:38:08.338795",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Enable MFA login for consultants",
+  "value": "MFA-login inschakelen voor consultants",
   "valueAsOriginal": "N"
  },
  "PasswordResetMail.Body": {
@@ -4141,6 +4349,279 @@
   "value": "Wat wilt u verwijderen?",
   "valueAsOriginal": "N"
  },
+ "ServerDataDiv-ArchivedCheck-label": {
+  "changeDateTime": "2020-04-06T15:44:28.622207",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Show archived records",
+  "value": "Gearchiveerde records weergeven",
+  "valueAsOriginal": "N"
+ },
+ "ServerDataDiv-DataOption-audittrail": {
+  "changeDateTime": "2020-04-06T15:44:16.219984",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Audit trail",
+  "value": "Controlespoor",
+  "valueAsOriginal": "N"
+ },
+ "ServerDataDiv-DataOption-batteries": {
+  "changeDateTime": "2020-04-06T15:44:16.621892",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Test batteries",
+  "value": "Batterijen testen",
+  "valueAsOriginal": "N"
+ },
+ "ServerDataDiv-DataOption-companies": {
+  "changeDateTime": "2020-04-06T15:44:21.625115",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Companies",
+  "value": "Bedrijven",
+  "valueAsOriginal": "N"
+ },
+ "ServerDataDiv-DataOption-creditgrants": {
+  "changeDateTime": "2020-04-06T15:44:22.043355",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Credit grants",
+  "value": "Kredietsubsidies",
+  "valueAsOriginal": "N"
+ },
+ "ServerDataDiv-DataOption-creditusages": {
+  "changeDateTime": "2020-04-06T15:44:22.497092",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Credit usages",
+  "value": "Kredietgebruik",
+  "valueAsOriginal": "N"
+ },
+ "ServerDataDiv-DataOption-creditusagespermonth": {
+  "changeDateTime": "2020-04-06T15:44:22.948426",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Credit usages per month",
+  "value": "Kredietgebruik per maand",
+  "valueAsOriginal": "N"
+ },
+ "ServerDataDiv-DataOption-datagathering": {
+  "changeDateTime": "2020-04-06T15:44:23.405407",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Data gathering",
+  "value": "Het verzamelen van gegevens",
+  "valueAsOriginal": "N"
+ },
+ "ServerDataDiv-DataOption-educations": {
+  "changeDateTime": "2020-04-06T15:44:17.033839",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Educations",
+  "value": "Opleidingen",
+  "valueAsOriginal": "N"
+ },
+ "ServerDataDiv-DataOption-groups": {
+  "changeDateTime": "2020-04-06T15:44:17.412706",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Groups",
+  "value": "Groepen",
+  "valueAsOriginal": "N"
+ },
+ "ServerDataDiv-DataOption-groupsessionsview": {
+  "changeDateTime": "2020-04-06T15:44:20.760691",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Group session view",
+  "value": "Groepssessieweergave",
+  "valueAsOriginal": "N"
+ },
+ "ServerDataDiv-DataOption-logins": {
+  "changeDateTime": "2020-04-06T15:44:24.238572",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Logins",
+  "value": "Logins",
+  "valueAsOriginal": "Y"
+ },
+ "ServerDataDiv-DataOption-nationalities": {
+  "changeDateTime": "2020-04-06T15:44:17.822537",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Nationalities",
+  "value": "Nationalities",
+  "valueAsOriginal": "Y"
+ },
+ "ServerDataDiv-DataOption-organisations": {
+  "changeDateTime": "2020-04-06T15:44:18.234606",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Organisations",
+  "value": "Organisaties",
+  "valueAsOriginal": "N"
+ },
+ "ServerDataDiv-DataOption-persons": {
+  "changeDateTime": "2020-04-06T15:44:18.623105",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Persons",
+  "value": "Personen",
+  "valueAsOriginal": "N"
+ },
+ "ServerDataDiv-DataOption-reportdefinitions": {
+  "changeDateTime": "2020-04-06T15:44:21.180642",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Report definitions",
+  "value": "Rapportdefinities",
+  "valueAsOriginal": "N"
+ },
+ "ServerDataDiv-DataOption-rightstemplates": {
+  "changeDateTime": "2020-04-06T15:44:23.830743",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Rights templates",
+  "value": "Rechtensjablonen",
+  "valueAsOriginal": "N"
+ },
+ "ServerDataDiv-DataOption-screentemplates": {
+  "changeDateTime": "2020-04-06T15:44:25.559408",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Screen templates",
+  "value": "Schermsjablonen",
+  "valueAsOriginal": "N"
+ },
+ "ServerDataDiv-DataOption-sessions": {
+  "changeDateTime": "2020-04-06T15:44:19.006713",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Sessions",
+  "value": "Sessies",
+  "valueAsOriginal": "N"
+ },
+ "ServerDataDiv-DataOption-sessionsview": {
+  "changeDateTime": "2020-04-06T15:44:20.326187",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Sessions view",
+  "value": "Weergave Sessies",
+  "valueAsOriginal": "N"
+ },
+ "ServerDataDiv-DataOption-sessiontests": {
+  "changeDateTime": "2020-04-06T15:44:19.445514",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Session tests",
+  "value": "Sessietests",
+  "valueAsOriginal": "N"
+ },
+ "ServerDataDiv-DataOption-sessiontestsview": {
+  "changeDateTime": "2020-04-06T15:44:19.873695",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Session tests view",
+  "value": "Weergave Sessietests",
+  "valueAsOriginal": "N"
+ },
+ "ServerDataDiv-DataOption-systemsettings": {
+  "changeDateTime": "2020-04-06T15:44:25.136710",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "System settings",
+  "value": "Systeeminstellingen",
+  "valueAsOriginal": "N"
+ },
+ "ServerDataDiv-DataOption-tests": {
+  "changeDateTime": "2020-04-06T15:44:25.949133",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Tests",
+  "value": "Tests",
+  "valueAsOriginal": "Y"
+ },
+ "ServerDataDiv-DataOption-tokens": {
+  "changeDateTime": "2020-04-06T15:44:24.649846",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Tokens",
+  "value": "Tokens",
+  "valueAsOriginal": "Y"
+ },
+ "ServerDataDiv-Filter": {
+  "changeDateTime": "2020-04-06T15:44:27.512149",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "A comma separated list of expression pairs. Supported operators are = < > %. Example : Status=31 or Status=30,Status=31 to make an OR condition.",
+  "value": "Een komma gescheiden lijst van expressieparen. Ondersteunde operatoren < > zijn = %. Voorbeeld : Status=31 of Status=30,Status=31 om een OR-voorwaarde te maken.",
+  "valueAsOriginal": "N"
+ },
+ "ServerDataDiv-FilterLabel": {
+  "changeDateTime": "2020-04-06T15:44:15.016670",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Filter for the records",
+  "value": "Filteren voor de records",
+  "valueAsOriginal": "N"
+ },
+ "ServerDataDiv-MasterCheck-label": {
+  "changeDateTime": "2020-04-06T15:44:29.081720",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Master database instead of client",
+  "value": "Hoofddatabase in plaats van client",
+  "valueAsOriginal": "N"
+ },
+ "ServerDataDiv-PageAmount": {
+  "changeDateTime": "2020-04-06T15:44:26.950957",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Enter the amount of records to retrieve in the data page.",
+  "value": "Voer de hoeveelheid records in die u wilt ophalen op de gegevenspagina.",
+  "valueAsOriginal": "N"
+ },
+ "ServerDataDiv-PageAmountLabel": {
+  "changeDateTime": "2020-04-06T15:44:14.599168",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Amount of records to retrieve",
+  "value": "Aantal records dat moet worden opgehaald",
+  "valueAsOriginal": "N"
+ },
+ "ServerDataDiv-PageNr": {
+  "changeDateTime": "2020-04-06T15:44:26.442964",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Enter the data page number to retrieve. Page numbers start at 0.",
+  "value": "Voer het gegevenspaginanummer in dat u wilt ophalen. Paginanummers beginnen op 0.",
+  "valueAsOriginal": "N"
+ },
+ "ServerDataDiv-PageNrLabel": {
+  "changeDateTime": "2020-04-06T15:44:14.155908",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Data page to retrieve",
+  "value": "Gegevenspagina op te halen",
+  "valueAsOriginal": "N"
+ },
+ "ServerDataDiv-ServerData": {
+  "changeDateTime": "2020-04-06T15:44:29.937090",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Data",
+  "value": "Gegevens",
+  "valueAsOriginal": "N"
+ },
+ "ServerDataDiv-SettingsLabel": {
+  "changeDateTime": "2020-04-06T15:44:13.245611",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Data retrieval settings",
+  "value": "Instellingen voor het ophalen van gegevens",
+  "valueAsOriginal": "N"
+ },
+ "ServerDataDiv-Sort": {
+  "changeDateTime": "2020-04-06T15:44:28.180082",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Enter the field to sort on. Optional you can add DESC after the field to reverse sort. Example : CreateDate DESC.",
+  "value": "Voer het veld in om op te sorteren. Optioneel u DESC na het veld toevoegen om de sortering om te keren. Voorbeeld : CreateDate DESC.",
+  "valueAsOriginal": "N"
+ },
+ "ServerDataDiv-SortLabel": {
+  "changeDateTime": "2020-04-06T15:44:15.413617",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Sort order",
+  "value": "Sorteervolgorde",
+  "valueAsOriginal": "N"
+ },
+ "ServerDataDiv-SourceSelect": {
+  "changeDateTime": "2020-04-06T15:44:15.836228",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "\n        <option id=\"ServerDataDiv-DataOption-audittrail\" value=\"audittrail\">Audit trail</option>\n        <option id=\"ServerDataDiv-DataOption-batteries\" value=\"batteries\">Test batteries</option>\n        <option id=\"ServerDataDiv-DataOption-educations\" value=\"educations\">Educations</option>\n        <option id=\"ServerDataDiv-DataOption-groups\" value=\"groups\">Groups</option>\n        <option id=\"ServerDataDiv-DataOption-nationalities\" value=\"nationalities\">Nationalities</option>\n        <option id=\"ServerDataDiv-DataOption-organisations\" value=\"organisations\">Organisations</option>\n        <option id=\"ServerDataDiv-DataOption-persons\" value=\"persons\">Persons</option>\n        <option id=\"ServerDataDiv-DataOption-sessions\" value=\"sessions\">Sessions</option>\n        <option id=\"ServerDataDiv-DataOption-sessiontests\" value=\"sessiontests\">Session tests</option>\n        <option id=\"ServerDataDiv-DataOption-sessiontestsview\" value=\"sessiontestsview\">Session tests view</option>\n        <option id=\"ServerDataDiv-DataOption-sessionsview\" value=\"sessionsview\">Sessions view</option>\n        <option id=\"ServerDataDiv-DataOption-groupsessionsview\" value=\"groupsessionsview\">Group session view</option>\n        <option id=\"ServerDataDiv-DataOption-reportdefinitions\" value=\"reportdefinitions\">Report definitions</option>\n        <option id=\"ServerDataDiv-DataOption-companies\" value=\"companies\">Companies</option>\n        <option id=\"ServerDataDiv-DataOption-creditgrants\" value=\"creditgrants\">Credit grants</option>\n        <option id=\"ServerDataDiv-DataOption-creditusages\" value=\"creditusages\">Credit usages</option>\n        <option id=\"ServerDataDiv-DataOption-creditusagespermonth\" value=\"creditusagespermonth\">Credit usages per month</option>\n        <option id=\"ServerDataDiv-DataOption-datagathering\" value=\"datagathering\">Data gathering</option>\n        <option id=\"ServerDataDiv-DataOption-rightstemplates\" value=\"rightstemplates\">Rights templates</option>\n        <option id=\"ServerDataDiv-DataOption-logins\" value=\"logins\">Logins</option>\n        <option id=\"ServerDataDiv-DataOption-tokens\" value=\"tokens\">Tokens</option>\n        <option id=\"ServerDataDiv-DataOption-systemsettings\" value=\"systemsettings\">System settings</option>\n        <option id=\"ServerDataDiv-DataOption-screentemplates\" value=\"screentemplates\">Screen templates</option>\n        <option id=\"ServerDataDiv-DataOption-tests\" value=\"tests\">Tests</option>\n        ",
+  "value": "\n        <option id=\"ServerDataDiv-DataOption-audittrail\" value=\"audittrail\">Controlespoor\n        <option id=\"ServerDataDiv-DataOption-batteries\" value=\"batteries\">Batterijen testen\n        <option id=\"ServerDataDiv-DataOption-educations\" value=\"educations\">Opleidingen\n        <option id=\"ServerDataDiv-DataOption-groups\" value=\"groups\">Groepen\n        <option id=\"ServerDataDiv-DataOption-nationalities\" value=\"nationalities\">Nationalities\n        <option id=\"ServerDataDiv-DataOption-organisations\" value=\"organisations\">Organisaties\n        <option id=\"ServerDataDiv-DataOption-persons\" value=\"persons\">Personen\n        <option id=\"ServerDataDiv-DataOption-sessions\" value=\"sessions\">Sessies\n        <option id=\"ServerDataDiv-DataOption-sessiontests\" value=\"sessiontests\">Sessietests\n        <option id=\"ServerDataDiv-DataOption-sessiontestsview\" value=\"sessiontestsview\">Weergave Sessietests\n        <option id=\"ServerDataDiv-DataOption-sessionsview\" value=\"sessionsview\">Weergave Sessies\n        <option id=\"ServerDataDiv-DataOption-groupsessionsview\" value=\"groupsessionsview\">Groepssessieweergave\n        <option id=\"ServerDataDiv-DataOption-reportdefinitions\" value=\"reportdefinitions\">Rapportdefinities\n        <option id=\"ServerDataDiv-DataOption-companies\" value=\"companies\">Bedrijven\n        <option id=\"ServerDataDiv-DataOption-creditgrants\" value=\"creditgrants\">Kredietsubsidies\n        <option id=\"ServerDataDiv-DataOption-creditusages\" value=\"creditusages\">Kredietgebruik\n        <option id=\"ServerDataDiv-DataOption-creditusagespermonth\" value=\"creditusagespermonth\">Kredietgebruik per maand\n        <option id=\"ServerDataDiv-DataOption-datagathering\" value=\"datagathering\">Het verzamelen van gegevens\n        <option id=\"ServerDataDiv-DataOption-rightstemplates\" value=\"rightstemplates\">Rechtensjablonen\n        <option id=\"ServerDataDiv-DataOption-logins\" value=\"logins\">Logins\n        <option id=\"ServerDataDiv-DataOption-tokens\" value=\"tokens\">Tokens\n        <option id=\"ServerDataDiv-DataOption-systemsettings\" value=\"systemsettings\">Systeeminstellingen\n        <option id=\"ServerDataDiv-DataOption-screentemplates\" value=\"screentemplates\">Schermsjablonen\n        <option id=\"ServerDataDiv-DataOption-tests\" value=\"tests\">Tests\n        ",
+  "valueAsOriginal": "N"
+ },
+ "ServerDataDiv-SourceSelectLabel": {
+  "changeDateTime": "2020-04-06T15:44:13.684524",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Data source",
+  "value": "Gegevensbron",
+  "valueAsOriginal": "N"
+ },
+ "ServerDataInterfaceEditHeader": {
+  "changeDateTime": "2020-04-06T15:44:12.776561",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "View server data",
+  "value": "Servergegevens weergeven",
+  "valueAsOriginal": "N"
+ },
  "ServerLogsDiv-AutoUpdate-label": {
   "changeDateTime": "2020-03-10T21:41:17.278648",
   "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
@@ -4193,6 +4674,20 @@
  "ServerSettingsActions-ActionsHeader": {
   "originalValue": "Actions",
   "value": "Acties",
+  "valueAsOriginal": "N"
+ },
+ "ServerSettingsActions-dataButton-label": {
+  "changeDateTime": "2020-04-06T07:01:34.972954",
+  "changedBy": "7b00fefc-2f29-416f-a865-2e45b21370a0 (14fda7c6-e0dd-4cc0-7ff3-b164da974430)",
+  "originalValue": "Query data sources",
+  "value": "Gegevensbronnen voor query's",
+  "valueAsOriginal": "N"
+ },
+ "ServerSettingsActions-getData-label": {
+  "changeDateTime": "2020-04-06T15:44:29.531326",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Retrieve data",
+  "value": "Gegevens ophalen",
   "valueAsOriginal": "N"
  },
  "ServerSettingsActions-installButton-label": {
@@ -4433,6 +4928,48 @@
   "value": "Alle test sjablonen installeren",
   "valueAsOriginal": "N"
  },
+ "SessionAuditTrail.init.js.1.1": {
+  "changeDateTime": "2020-04-04T18:16:04.256854",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Session updated to status %%SessionStatus%%",
+  "value": "Sessie bijgewerkt naar status %%SessionStatus%%",
+  "valueAsOriginal": "N"
+ },
+ "SessionAuditTrail.init.js.2.2": {
+  "changeDateTime": "2020-04-04T18:16:04.762098",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Session test updated for test %%TestID%% for page %%CurrentPage%%",
+  "value": "Sessietest bijgewerkt voor test %%TestID%% voor pagina %%CurrentPage%%",
+  "valueAsOriginal": "N"
+ },
+ "SessionAuditTrail.init.js.2.3": {
+  "changeDateTime": "2020-04-04T18:12:43.826093",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Session test finished or viewed for test %%TestID%% at page %%CurrentPage%%",
+  "value": "Sessietest voltooid of bekeken voor test %%TestID%% op pagina %%CurrentPage%%",
+  "valueAsOriginal": "N"
+ },
+ "SessionAuditTrail.init.js.2.5": {
+  "changeDateTime": "2020-04-04T18:16:03.801821",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Session update : all ready tests will be redefined",
+  "value": "Sessie-update : alle klaar tests worden opnieuw gedefinieerd",
+  "valueAsOriginal": "N"
+ },
+ "SessionAuditTrail.init.js.PersonNotFound": {
+  "changeDateTime": "2020-04-04T18:12:43.262589",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Unknown",
+  "value": "Onbekende",
+  "valueAsOriginal": "N"
+ },
+ "SessionAuditTrailInterfaceEditHeader": {
+  "changeDateTime": "2020-04-04T18:12:44.265816",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "View session audit trail",
+  "value": "Controlespoor van de sessie bekijken",
+  "valueAsOriginal": "N"
+ },
  "SessionChangeEditor.BatteryText": {
   "originalValue": "Battery : ",
   "value": "Batterij: ",
@@ -4569,6 +5106,13 @@
   "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
   "originalValue": "Save",
   "value": "Opslaan",
+  "valueAsOriginal": "N"
+ },
+ "TestTakingInterfaceConnectionLost": {
+  "changeDateTime": "2020-04-05T07:04:23.859843",
+  "changedBy": "2447c812-b26b-4c45-97a6-00c8ae7f9915 (015e1e32-4377-4a10-8312-4d4be357cc3c)",
+  "originalValue": "Saving the test failed. Your internet connection is temporarily unavailable. You may continue the test but the results will not be stored. Check your internet connection. If you see this error again then please press the logout button. Restore your internet connection and then login again. Your session will restart at the last saved question.",
+  "value": "Het opslaan van de test is mislukt. Uw internetverbinding is tijdelijk niet beschikbaar. U de test voortzetten, maar de resultaten worden niet opgeslagen. Controleer uw internetverbinding. Als u deze fout opnieuw ziet, drukt u op de afmeldknop. Uw internetverbinding herstellen en vervolgens opnieuw inloggen. Uw sessie wordt opnieuw gestart bij de laatst opgeslagen vraag.",
   "valueAsOriginal": "N"
  },
  "TestTemplateEditor.screen": {
